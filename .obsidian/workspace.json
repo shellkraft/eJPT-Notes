@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "3bd5e4a7e0c46597",
+    "type": "split",
+    "children": [
+      {
+        "id": "686340831b6a7b56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3de8aa61c7f15194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "eJPT Notes/Assessment Methodologies/Footprinting and Scanning/Network Mapping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2308a2e8d6014bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f9e209bed7a4212",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d9bf5d53f9b688f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "53dbdc413f71525a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12e432fe807c01ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80316cba425979b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "78168950a588cd1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fad3ab9ca89bff7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "eJPT Notes/Assessment Methodologies/Footprinting and Scanning/Network Mapping.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5231ba908590456",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "eJPT Notes/Assessment Methodologies/Footprinting and Scanning/Network Mapping.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d46cdb874d6cf22e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "52d614629b38cecc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "eJPT Notes/Assessment Methodologies/Footprinting and Scanning/Network Mapping.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3de8aa61c7f15194",
+  "lastOpenFiles": [
+    "Pasted image 20230818005613.png",
+    "Pasted image 20230818005259.png",
+    "Pasted image 20230818004851.png",
+    "eJPT Notes/Assessment Methodologies/Information Gathering/Active.md",
+    "eJPT Notes/Assessment Methodologies/Footprinting and Scanning/Network Mapping.md",
+    "Pasted image 20230818004707.png",
+    "eJPT Notes/Misc Notes/Networking.md",
+    "eJPT Notes/Misc Notes/Command line.md",
+    "eJPT Notes/Assessment Methodologies/Information Gathering/Passive.md",
+    "Untitled.md",
+    "7dd6f555647e6bdba22767b992b8ae95.jpg",
+    "eJPT Notes/Assessment Methodologies/Footprinting and Scanning",
+    "eJPT Notes/Assessment Methodologies/Information Gathering/Types.md",
+    "eJPT Notes/Misc Notes",
+    "eJPT Notes/Tricks/Command Line Tips/Untitled.md",
+    "eJPT Notes/Tricks/Command Line Tips",
+    "eJPT Notes/Tricks",
+    "eJPT Notes/Untitled.md",
+    "eJPT Notes/Assessment Methodologies/Information Gathering",
+    "eJPT Notes/Assessment Methodologies",
+    "eJPT Notes",
+    "Untitled 1.md",
+    "Untitled.canvas"
+  ]
+}

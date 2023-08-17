@@ -39,3 +39,16 @@ nmap -sn 10.0.2.15/24
 
 *We can also use the GUI version of Nmap, Zenmap*
 
+## How do the scans work ?
+
+### TCP Connect Scan:
+
+![[Pasted image 20230818004851.png]]
+
+### Stealth Scan:
+
+![[Pasted image 20230818005259.png]]*It doesn't complete the connection.
+
+### Service Version Scan:
+
+![[Pasted image 20230818005613.png]]
