@@ -52,3 +52,6 @@ nmap -sn 10.0.2.15/24
 ### Service Version Scan:
 
 ![[Pasted image 20230818005613.png]]
+
+`-A` - Aggressive Scan performs, OS enum, service enum, default scripts (NSE) and traceroute.
+
