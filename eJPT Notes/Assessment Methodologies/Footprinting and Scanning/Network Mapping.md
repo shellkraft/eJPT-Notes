@@ -55,3 +55,4 @@ nmap -sn 10.0.2.15/24
 
 `-A` - Aggressive Scan performs, OS enum, service enum, default scripts (NSE) and traceroute.
 
+`-T` - Timing Template switch. The template names are `paranoid` (`0`), `sneaky` (`1`), `polite` (`2`), `normal` (`3`), `aggressive` (`4`), and `insane` (`5`). The first two are for IDS evasion. Polite mode slows down the scan to use less bandwidth and target machine resources. Normal mode is the default and so `-T3` does nothing. Aggressive mode speeds scans up by making the assumption that you are on a reasonably fast and reliable network. Finally insane mode assumes that you are on an extraordinarily fast network or are willing to sacrifice some accuracy for speed.
