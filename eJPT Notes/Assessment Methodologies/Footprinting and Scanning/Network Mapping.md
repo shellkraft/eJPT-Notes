@@ -53,6 +53,15 @@ nmap -sn 10.0.2.15/24
 
 ![[Pasted image 20230818005613.png]]
 
-`-A` - Aggressive Scan performs, OS enum, service enum, default scripts (NSE) and traceroute.
+- `-A` - Aggressive Scan performs, OS enum, service enum, default scripts (NSE) and traceroute.
 
-`-T` - Timing Template switch. The template names are `paranoid` (`0`), `sneaky` (`1`), `polite` (`2`), `normal` (`3`), `aggressive` (`4`), and `insane` (`5`). The first two are for IDS evasion. Polite mode slows down the scan to use less bandwidth and target machine resources. Normal mode is the default and so `-T3` does nothing. Aggressive mode speeds scans up by making the assumption that you are on a reasonably fast and reliable network. Finally insane mode assumes that you are on an extraordinarily fast network or are willing to sacrifice some accuracy for speed.
+`-T` - Timing Template switch.
+- **paranoid (0)** 👉 for **IDS evasion**.
+- **sneaky (1)** 👉 for **IDS evasion**.
+- **polite (2)** 👉 **Polite mode** slow down the scan to **use less bandwidth and target machine resources.**
+- **normal (3)** 👉 **Normal mode** is the default so “-T3” **actually does nothing**.
+- **aggressive (4)** 👉 **Aggressive mode** speed up the scans by making the **assumption** that you are on a **reasonably fast and reliable network.**
+- **insane (5)** 👉 **Insane mode** assumes that you’re on an **extraordinarily fast network** or you are **willing to sacrifice accuracy for speed.**
+
+- *A `-sU` (UDP SCAN) can take a lot of time to complete as UDP is a connection-less protocol. One way to solve this is by limiting the number of re-transmissions NMAP performs using the `--max-retries` flag.
+
