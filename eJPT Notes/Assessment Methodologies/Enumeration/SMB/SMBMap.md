@@ -1,0 +1,1 @@
+SMB Map is a tool that we can use to perform RCE tasks such as connect, enum, upload files or download files by some authentication. 
