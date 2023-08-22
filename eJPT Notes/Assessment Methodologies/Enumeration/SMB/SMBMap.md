@@ -17,4 +17,4 @@ smbmap -H <Target IP> -u <username> -p <pass> -x 'ipconfig'
 
 - `-L` - Shows the mapped drives.
 - `-r` - Works like `ls` of Linux (`-r 'C$'`). C$ is the C Drive.
-- 
+- `--upload` - Upload files using SMB  (`--upload '/root/backdoor' '\'`)
