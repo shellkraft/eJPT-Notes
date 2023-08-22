@@ -65,3 +65,5 @@ nmap -sn 10.0.2.15/24
 
 - *A `-sU` (UDP SCAN) can take a lot of time to complete as UDP is a connection-less protocol. One way to solve this is by limiting the number of re-transmissions NMAP performs using the `--max-retries` flag.
 
+- `--open` - Will show only the open ports.
+

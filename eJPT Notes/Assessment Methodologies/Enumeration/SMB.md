@@ -59,3 +59,6 @@ Other switches:
 ``
 ``-smb-server-stats`` = Enums server info like, number of attempts to login.
 
+## Connecting SMB using file explorer and CMD:
+https://assets.ine.com/labs/ad-manuals/walkthrough-2220.pdf
+
