@@ -2,7 +2,7 @@
 
 Windows implementation of a file share. Used for sharing access to files, printers, serial ports, and data on a network.
 
-Port number - 445/TCP
+Port number - 139 and 445
 
 *Netbios used to exist in older Windows versions. Used to setup session for SMB.*
 
@@ -24,6 +24,12 @@ net use * /delete
 *We can use NMAP to scan for SMB ports and perform enumeration on it.*
 
 **Nmap command to enum SMB:**
+
+- Command for OS discovery using SMB:
+```
+nmap -p 445 --script smb-os-discovery <Machine IP>
+```
+
 
 ```
 nmap -p 445 --script smb-protocols <Machine IP>

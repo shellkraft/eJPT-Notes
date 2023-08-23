@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3de8aa61c7f15194",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Enumeration/Enumeration Explained.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a2a5edd87f2fac0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Misc Notes/Networking.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Misc Notes/Networking.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Misc Notes/Networking.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Misc Notes/Networking.md"
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Linux.md"
               }
             }
           }
@@ -161,14 +148,15 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
-    "eJPT Notes/Misc Notes/Command line.md",
-    "eJPT Notes/Misc Notes/Networking.md",
-    "eJPT Notes/Labs/Scanning Labs.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Linux.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMBMap.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Basics.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SMB",
-    "eJPT Notes/Assessment Methodologies/Enumeration/Enumeration Explained.md",
     "eJPT Notes/Assessment Methodologies/Footprinting and Scanning/Network Mapping.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/Enumeration Explained.md",
+    "eJPT Notes/Misc Notes/Networking.md",
+    "eJPT Notes/Misc Notes/Command line.md",
+    "eJPT Notes/Labs/Scanning Labs.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SMB",
     "eJPT Notes/Assessment Methodologies/Enumeration",
     "eJPT Notes/Assessment Methodologies/Information Gathering/Types.md",
     "eJPT Notes/Assessment Methodologies/Information Gathering/Passive.md",
