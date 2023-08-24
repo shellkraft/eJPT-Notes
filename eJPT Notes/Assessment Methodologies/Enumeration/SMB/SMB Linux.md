@@ -16,4 +16,4 @@ smbclient -L <IP> -N
 ```
 
 `-L` - Host addr
-`-N` - NULL se
+`-N` - NULL session (No username or password)
