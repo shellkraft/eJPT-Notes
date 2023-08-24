@@ -26,7 +26,7 @@ rpcclient -U "" -N <IP>
 
 `-U` - Username
 `-N` - No password
-
+`lookupnames admin` - Use this on rpcclient shell to look for specific users.
 ### Using `enum4linux`
 ```
 enum4linux -o <IP>
