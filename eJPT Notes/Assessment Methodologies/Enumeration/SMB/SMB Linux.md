@@ -18,4 +18,12 @@ smbclient -L <IP> -N
 `-L` - Host addr
 `-N` - Check for NULL session (No username or password)
 
-Using 
+### Using `rpcclient`
+```
+rpcclient -U "" -N <IP>
+```
+
+`-U` - Username
+`-N` - No password
+
+
