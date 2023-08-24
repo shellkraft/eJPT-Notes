@@ -27,4 +27,12 @@ rpcclient -U "" -N <IP>
 `-U` - Username
 `-N` - No password
 
+### Using `enum4linux`
+```
+enum4linux -o <IP>
+```
+
+`-o` - Get OS info.  
+
+*We can use it to check OS version, to check if it allows for NULL sessions or check for usernames.*
 
