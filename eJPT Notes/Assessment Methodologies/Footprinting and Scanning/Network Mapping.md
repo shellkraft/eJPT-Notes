@@ -67,3 +67,7 @@ nmap -sn 10.0.2.15/24
 
 - `--open` - Will show only the open ports.
 
+- `--top-ports 25` - Shows the top 25 ports.
+
+
+

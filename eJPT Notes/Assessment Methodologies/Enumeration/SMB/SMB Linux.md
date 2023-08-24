@@ -8,6 +8,7 @@ use auxillary/scanner/smb/smb_version
 nmblookup -A <Target IP>
 ```
 - *Performs netBIOS protocol to connect and perform the recon.*
+- *Obtain the NetBIOS computer name of samba server.*
 - `-A` - Lookup by IP.
 
 ### Using `smbclient`
