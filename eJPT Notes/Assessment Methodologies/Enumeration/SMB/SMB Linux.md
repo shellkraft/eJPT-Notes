@@ -34,6 +34,11 @@ rpcclient -U "" -N <IP>
 `-U` - Username
 `-N` - No password
 `lookupnames admin` - Use this on rpcclient shell to look for specific users.
+
+*We can also enum domain groups using `rpcclient`*
+```
+rpcclient -U "" -N <IP> enumdomgroups
+```
 ### Using `enum4linux`
 ```
 enum4linux -o <IP>
