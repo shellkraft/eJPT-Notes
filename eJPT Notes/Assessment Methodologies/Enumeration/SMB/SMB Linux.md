@@ -19,6 +19,13 @@ smbclient -L <IP> -N
 `-L` - Host addr
 `-N` - Check for NULL session (No username or password)
 
+*We can also use `smbclient` to access shared folders:*
+```
+smbclient //192.4.17.3/Public -N
+```
+
+*To check the contents of a file, we first need to use `get file` and then `cat file`*
+ 
 ### Using `rpcclient`
 ```
 rpcclient -U "" -N <IP>
