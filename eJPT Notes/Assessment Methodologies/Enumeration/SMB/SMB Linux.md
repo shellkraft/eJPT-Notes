@@ -1,6 +1,6 @@
 ### Using Metasploit for SMB version scan:
 ```
-use auxillary/scanner/smb/smb_version
+use auxiliary/scanner/smb/smb_version
 ```
 
 ### Using `nmblookup`:
