@@ -12,3 +12,12 @@ sudo nano /etc/hosts
 ```
 192.168.0.1 router.admin
 ```
+
+4) Extract files using `gzip` and `tar`
+```
+gzip -d file.gz
+```
+
+```
+tar -xf file.tar.gz
+```
