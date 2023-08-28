@@ -25,6 +25,11 @@ smbclient //192.4.17.3/Public -N
 ```
 
 *To check the contents of a file, we first need to use `get file` and then `cat file`*
+
+*We can use `smbclient`  to login as a particular user:*
+```
+smbclient //192.4.17.3/jane -U jane
+```
  
 ### Using `rpcclient`
 ```
