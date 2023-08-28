@@ -53,3 +53,11 @@ enum4linux -o <IP>
 
 *We can use it to check OS version, to check if it allows for NULL sessions or check for usernames.*
 
+### What are SIDs (Security Identifiers) ?
+
+SIDs are __*unique identifiers*__ assigned to security principals in a Windows environment, such as users, groups, and computer accounts. When you want to identify a user or group within an SMB-enabled network, you often encounter SIDs associated with them.
+
+### Enumerating SIDs with `enum4linux`
+```
+enum4linux -r -u "admin" -p "password1" <IP> 
+```
