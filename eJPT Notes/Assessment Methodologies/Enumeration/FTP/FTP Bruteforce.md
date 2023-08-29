@@ -17,7 +17,7 @@ hydra -L <user_wordlist> -P <pass_wordlist> <Machine_IP> ftp
 
 ### Using `nmap`
 
-- Put the username found in single word-list:
+- First, put the username found in a single word-list:
 ```
 echo "sysadmin" > users
 ```
