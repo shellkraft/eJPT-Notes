@@ -28,7 +28,7 @@ smbclient //192.4.17.3/Public -N
 
 *We can use `smbclient`  to login as a particular user:*
 ```
-smbclient //192.4.17.3/jane -U jane
+smbclient //192.4.17.3/jane -U jane <password>
 ```
  
 ### Using `rpcclient`
