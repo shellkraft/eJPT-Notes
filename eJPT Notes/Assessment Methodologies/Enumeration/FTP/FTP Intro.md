@@ -8,8 +8,3 @@
 ```
 ftp <Machine IP>
 ```
-
-### Command to exit FTP shell:
-```
-bye
-```
