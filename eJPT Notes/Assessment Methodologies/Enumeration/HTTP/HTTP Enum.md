@@ -40,3 +40,23 @@ browsh --startup-url http://<IP>
 ```
 nmap -p 80 <target-ip> -sV --script http-enum
 ```
+
+- *Runs directory enum like `dirb`.*
+
+```
+nmap -p 80 <target-ip> -sV --script http-headers
+```
+
+- *Fetches HTTP header info along with other info.*
+
+```
+nmap -p 80 <target-ip> -sV --script http-methods --script-args http-methods.url=path=/<dir_name>/
+```
+
+- *Enumerating the methods we can use on the webpage.*
+
+```
+nmap -p 80 <target-ip> -sV --script http-webdav-scan --script-args http-methods.url=path=/webdav/
+```
+
+- *Helps to identify webdav installations.*
