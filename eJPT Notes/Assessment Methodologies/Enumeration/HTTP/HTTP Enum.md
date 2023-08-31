@@ -21,7 +21,7 @@ http <ip/website>
 ### Using `dirb`
 
 ```
-dirb <IP>
+dirb http://<IP>
 ```
 
 *Enumerating directories.*
