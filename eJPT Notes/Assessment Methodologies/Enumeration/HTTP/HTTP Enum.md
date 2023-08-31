@@ -34,3 +34,9 @@ browsh --startup-url http://<IP>
 
 - *Useful for opening websites in a CLI environment using a URL.*
 - *Since it renders website in a terminal, the results might not be desirable.*
+
+### Using `nmap`
+
+```
+nmap 
+```
