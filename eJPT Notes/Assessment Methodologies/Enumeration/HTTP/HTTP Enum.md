@@ -38,5 +38,5 @@ browsh --startup-url http://<IP>
 ### Using `nmap`
 
 ```
-nmap 
+nmap -p 80 <target-ip> -sV --script http-enum
 ```
