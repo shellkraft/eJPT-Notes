@@ -21,3 +21,4 @@ use auxiliary/scanner/http/http-version
 curl <target-ip> | more
 ```
 
+- The `curl` command, by default, retrieves the complete HTTP response, including the headers and body. It shows the HTML header information and potentially any inline CSS styles when you run the command.

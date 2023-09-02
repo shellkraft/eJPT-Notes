@@ -24,3 +24,11 @@ tar -xf file.tar.gz
 
 5) What's `curl` ?
 `curl`: This is a command-line tool used to transfer data to or from a server using various network protocols, such as HTTP, HTTPS, FTP, etc.
+
+6) What's `more` ?
+`more` prints one page at a time in the terminal if the output text is too long. For example, we can pipe the curl command through `more` to show the result in a more concise manner. 
+
+```
+curl <ip> | more
+```
+
