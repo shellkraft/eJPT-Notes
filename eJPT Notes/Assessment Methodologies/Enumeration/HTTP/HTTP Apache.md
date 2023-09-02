@@ -12,7 +12,17 @@ nmap -p 80 -sV --script banner <target-ip>
 
 - Performs a http version scan:
 ```
-use auxiliary/scanner/http/http-version
+use auxiliary/scanner/http/http_version
+```
+
+- Performs directory bruteforce:
+```
+use auxiliary/scanner/http/brute_dirs
+```
+
+- Enumerates `robots.txt` file:
+```
+use auxiliary/scanner/http/robots_txt
 ```
 
 ### Using `curl`
@@ -37,4 +47,4 @@ wget "http://<web-ip>/index"
 lynx http://<web-ip>
 ```
 
-Renders web pages in the terminal like `browsh`, but with less GUI.  
+Renders web pages in the terminal like `browsh`, but with less GUI and easier to read. 
