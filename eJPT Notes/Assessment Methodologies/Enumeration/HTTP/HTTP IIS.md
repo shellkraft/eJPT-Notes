@@ -1,5 +1,7 @@
 
 - HTTP Port number - 80
+- IIS - Internet Information Services (_IIS_)
+- Runs on Windows
 
 ### Using `whatweb`
 
