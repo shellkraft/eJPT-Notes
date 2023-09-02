@@ -34,5 +34,7 @@ wget "http://<web-ip>/index"
 ### Using `lynx`
 
 ```
-
+lynx http://<web-ip>
 ```
+
+Renders web pages in the terminal like `browsh`, but with less GUI.  
