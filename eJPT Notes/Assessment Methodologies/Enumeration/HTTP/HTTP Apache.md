@@ -25,3 +25,14 @@ curl <target-ip> | more
 
 ### Using `wget`
 
+```
+wget "http://<web-ip>/index"
+```
+
+- `wget` is used to retrieve web files.
+
+### Using `lynx`
+
+```
+
+```
