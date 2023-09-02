@@ -21,3 +21,6 @@ gzip -d file.gz
 ```
 tar -xf file.tar.gz
 ```
+
+5) What's `curl` ?
+`curl`: This is a command-line tool used to transfer data to or from a server using various network protocols, such as HTTP, HTTPS, FTP, etc.

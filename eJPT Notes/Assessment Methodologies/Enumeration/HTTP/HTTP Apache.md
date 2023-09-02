@@ -1,4 +1,4 @@
-- Runs on Linux
+ - Runs on Linux
 
 ### Using `nmap`
 
