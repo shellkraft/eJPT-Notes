@@ -8,13 +8,26 @@ nmap -p 3306 -sV <target-IP> --script mysql-empty-password
 ### Using `nmap` to enumerate SQL server info
 
 ```
-nmap -p 3306 -sV <target-ip> --script mysql-info --script-args="mysqluser='root'"
+nmap -p 3306 -sV <target-ip> --script mysql-info
 ```
 
 ### Using `nmap` to enumerate users
 
 ```
-nmap -p 3306 -sV <target-ip> --script mysql-users --script-args
+nmap -p 3306 -sV <target-ip> --script mysql-users --script-args="mysqluser='root',mysqlpass=''"
+```
+
+### Using `nmap` to enumerate databases
+
+```
+nmap -p 3306 -sV <target-ip> --script mysql-databases --script-args="mysqluser='root',mysqlpass=''"
+```
+
+### Using `nmap` to enumerate variables
+
+- Using the `mysql-variables` script to retrieve configuration and system information from the MySQL server:
+```
+nmap -p 3306 -sV <target-ip> --script mysql-variables --script-args="mysqluser='root',mysqlpass=''"
 ```
 
 ### Using `metasploit` to enumerate directories
