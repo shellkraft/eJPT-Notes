@@ -8,9 +8,14 @@ nmap -p 3306 -sV <target-IP> --script mysql-empty-password
 ### Using `nmap` to enumerate SQL server info
 
 ```
-nmap -p 3306 -sV <target-ip> --script mysql-info
+nmap -p 3306 -sV <target-ip> --script mysql-info --script-args="mysqluser='root'"
 ```
 
+### Using `nmap` to enumerate users
+
+```
+nmap -p 3306 -sV <target-ip> --script mysql-users --script-args
+```
 
 ### Using `metasploit` to enumerate directories
 
