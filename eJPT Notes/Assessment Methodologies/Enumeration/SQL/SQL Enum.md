@@ -36,7 +36,20 @@ nmap -p 3306 -sV <target-ip> --script mysql-variables --script-args="mysqluser='
 nmap -p 3306 -sV <target-ip> --script mysql-audit --script-args="mysqlaudit.username='root',mysql-audit.pass='',mysql-audit.filename='/usr/share/nmap/nselib/data/mysql-cis.audit'"
 ```
 
-- The `mysql-audit` script in Nmap is designed to perform security audits on MySQL database servers. Its primary use is to assess the security posture of a MySQL server by checking for compliance with specific security configurations, guidelines, or benchmarks.
+- The `mysql-audit` script in Nmap is designed to perform security audits on MySQL database servers by checking for compliance with specific security configurations, guidelines, or benchmarks.
+
+### Using `nmap` to dump hashes
+
+- Dumps the password hashes from an MySQL server in a format suitable for cracking by tools such as John the Ripper.
+```
+nmap -p 3306 <ip> --script mysql-dump-hashes --script-args='username=root,password=secret'
+```
+
+### Using `nmap` to run MySQL queries
+
+```
+nmap -p 3306 <ip> --script mysql-query --script-args="query='select count(*) from books.authors;',username='root',password='secret'"
+```
 
 ### Using `metasploit` to enumerate directories
 
