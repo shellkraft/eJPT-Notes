@@ -32,3 +32,12 @@ tar -xf file.tar.gz
 curl <ip> | more
 ```
 
+7) Explain salted password hashing
+A "salt" in the context of password hashing is a random value that is generated and combined with a user's password before hashing it. The primary purpose of a salt is to add uniqueness and complexity to the password hashing process.
+
+```
+root:$6$eoOI5IAu$S1eBFuRRxwD7qEcUIjHxV7Rkj9OXaIGbIOiHsjPZF2uGmGBjRQ3rrQY3/6M.fWHRBHRntsKhgqnClY2.KC.vA/:17861:0:99999:7:::
+```
+
+- In this example, `eo0I5IAu` is the unique salt.
+- `$6$` prefix indicates the hashing algorithm, in this case SHA-512.
