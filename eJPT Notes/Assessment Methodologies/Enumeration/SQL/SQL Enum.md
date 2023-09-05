@@ -82,7 +82,7 @@ use auxiliary/scanner/mssql/mssql_schemadump
 
 - Metasploit module to collect the hashes of different users who have access to the MySQL server from the user account information stored in the `mysql.user` table:
 ```
-use auxiliary/scanner/mssql/sql_hashdump
+use auxiliary/scanner/mysql/mysql_hashdump
 ```
 
 ### Using `mysql` to access sensitive files
