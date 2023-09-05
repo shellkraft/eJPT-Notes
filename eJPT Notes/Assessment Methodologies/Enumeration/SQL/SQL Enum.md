@@ -67,6 +67,13 @@ use auxiliary/scanner/mysql/mysql_writable_dirs
 
 This Metasploit module doesn't enumerate directories in the traditional sense but rather checks if MySQL has write access to specific directories by executing SQL queries that attempt to create temporary files in those directories. If the MySQL server has the necessary permissions and access rights, it will allow the creation of files in those directories.
 
+### Using `metasploit` to dump schema
+
+```
+use auxiliary/scanner/mssql/mssql_schemadump
+```
+
+- A schema in a database is a container for database objects like tables, views, procedures, and functions.
 ### Using `sql_hashdump` module
 
 - Metasploit module to collect the hashes of different users who have access to the MySQL server from the user account information stored in the `mysql.user` table:
