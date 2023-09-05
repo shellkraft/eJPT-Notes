@@ -33,7 +33,7 @@ nmap -p 3306 -sV <target-ip> --script mysql-variables --script-args="mysqluser='
 ### Using `nmap` to perform audit on the SQL server
 
 ```
-nmap -p 3306 -sV <target-ip> --script mysql-audit --script-args="mysqlaudit.username='root',mysql-audit.pass='',mysql-audit.filename='/usr/share/nmap/nselib/data/mysql-cis.audit'"
+nmap --script=mysql-audit --script-args "mysql-audit.username='root',mysql-audit.password='',mysql-audit.filename='/usr/share/nmap/nselib/data/mysql-cis.audit'" -p 3306 192.164.28.3
 ```
 
 - The `mysql-audit` script in Nmap is designed to perform security audits on MySQL database servers by checking for compliance with specific security configurations, guidelines, or benchmarks.
