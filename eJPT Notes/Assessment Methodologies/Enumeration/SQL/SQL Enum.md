@@ -52,8 +52,12 @@ nmap -p 3306 <ip> --script mysql-query --script-args="query='select count(*) fro
 ```
 
 ### Using `metasploit` to enumerate directories
+- Metasploit module to enumerate ***readable*** directories in the system using MySQL:
+```
+use auxiliary/scanner/mysql/mysql_file_enum
+```
 
-- Metasploit module to enumerate writable directories in the system using MySQL:
+- Metasploit module to enumerate ***writable*** directories in the system using MySQL:
 ```
 use auxiliary/scanner/mysql/mysql_writable_dirs
 ```
@@ -78,7 +82,7 @@ use auxiliary/scanner/mssql/mssql_schemadump
 
 - Metasploit module to collect the hashes of different users who have access to the MySQL server from the user account information stored in the `mysql.user` table:
 ```
-use auxiliary/scanner/mysql/sql_hashdump
+use auxiliary/scanner/mssql/sql_hashdump
 ```
 
 ### Using `mysql` to access sensitive files
