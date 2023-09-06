@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SQL/SQL Enum.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SQL/SQL Bruteforce.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SQL/SQL Enum.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SQL/SQL Bruteforce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SQL/SQL Enum.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SQL/SQL Bruteforce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SQL/SQL Enum.md"
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SQL/SQL Bruteforce.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
+    "eJPT Notes/Assessment Methodologies/Enumeration/SQL/SQL Enum.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SQL/SQL Bruteforce.md",
     "eJPT Notes/Misc Notes/Command line.md",
     "eJPT Notes/Misc Notes/Networking.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SQL/SQL Enum.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL/SQL Basics.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Anon.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Intro.md",
@@ -188,7 +189,6 @@
     "eJPT Notes/Misc Notes",
     "eJPT Notes/Tricks/Command Line Tips/Untitled.md",
     "eJPT Notes/Tricks/Command Line Tips",
-    "eJPT Notes/Untitled.md",
     "Untitled.canvas"
   ]
 }
