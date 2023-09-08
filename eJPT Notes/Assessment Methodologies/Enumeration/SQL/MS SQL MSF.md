@@ -17,13 +17,13 @@ use auxiliary/admin/mssql/mssql_enum
 ### Enumerating logins
 
 ```
-use auxiliary/admin/msql/mssql_enum_sql_logins
+use auxiliary/admin/mssql/mssql_enum_sql_logins
 ```
 
 ### Running system commands
 
 ```
-use auxiliary/admin/msql/mssql_exec
+use auxiliary/admin/mssql/mssql_exec
 ```
 
 ### Enumerating domain accounts
