@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Eternal Blue.md",
+                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Log4J.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Eternal Blue.md",
+                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Log4J.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Eternal Blue.md",
+                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Log4J.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Eternal Blue.md"
+                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Log4J.md"
               }
             }
           }
@@ -148,15 +148,16 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
+    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Eternal Blue.md",
+    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Heartbleed.md",
+    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Vuln Basics.md",
+    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Log4J.md",
     "eJPT Notes/Assessment Methodologies/Information Gathering/Active.md",
     "eJPT Notes/Assessment Methodologies/Information Gathering/Passive.md",
     "eJPT Notes/Assessment Methodologies/Information Gathering/Types.md",
-    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Eternal Blue.md",
-    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Heartbleed.md",
     "Pasted image 20230909010428.png",
     "heartbleed-bug-diagram.png",
     "Pasted image 20230818004851.png",
-    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Vuln Basics.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MS SQL MSF.md",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment",
     "eJPT Notes/Assessment Methodologies/Untitled.md",
@@ -178,7 +179,6 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Intro.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Bruteforce.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/Enumeration Explained.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/HTTP",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP",
