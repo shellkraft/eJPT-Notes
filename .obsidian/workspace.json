@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Information Gathering/Active.md",
+                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Eternal Blue.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Information Gathering/Active.md",
+                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Eternal Blue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Information Gathering/Active.md",
+                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Eternal Blue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Information Gathering/Active.md"
+                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Eternal Blue.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
+    "eJPT Notes/Assessment Methodologies/Information Gathering/Active.md",
     "eJPT Notes/Assessment Methodologies/Information Gathering/Passive.md",
     "eJPT Notes/Assessment Methodologies/Information Gathering/Types.md",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Eternal Blue.md",
@@ -170,7 +171,6 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/HTTP/HTTP IIS.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Bruteforce.md",
-    "eJPT Notes/Assessment Methodologies/Information Gathering/Active.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/HTTP/HTTP Apache.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/NMAP SMB.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Bruteforce.md",
