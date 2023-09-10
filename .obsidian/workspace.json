@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Log4J.md",
+                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Nessus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Log4J.md",
+                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Nessus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Log4J.md",
+                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Nessus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Log4J.md"
+                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Nessus.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
+    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Log4J.md",
+    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Nessus.md",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Eternal Blue.md",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Heartbleed.md",
-    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Log4J.md",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Vuln Basics.md",
     "eJPT Notes/Assessment Methodologies/Information Gathering/Active.md",
     "eJPT Notes/Assessment Methodologies/Information Gathering/Passive.md",
@@ -178,7 +179,6 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Linux.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Intro.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Bruteforce.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/HTTP",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP",
