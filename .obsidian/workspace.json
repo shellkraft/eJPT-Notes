@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Tools.md",
+                "file": "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Tools.md",
+                "file": "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Tools.md",
+                "file": "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Tools.md"
+                "file": "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Basics.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
+    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Tools.md",
+    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Basics.md",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Log4J.md",
-    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Tools.md",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Eternal Blue.md",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Heartbleed.md",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Vuln Basics.md",
@@ -190,7 +191,6 @@
     "Pasted image 20230818004707.png",
     "7dd6f555647e6bdba22767b992b8ae95.jpg",
     "eJPT Notes/Assessment Methodologies/Footprinting and Scanning",
-    "eJPT Notes/Misc Notes",
     "Untitled.canvas"
   ]
 }
