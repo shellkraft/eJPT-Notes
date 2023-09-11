@@ -23,3 +23,16 @@ It is a model to describe cyber security which helps protect information and dat
 
 We balance, these three to meet business needs.
 
+### Defence in Depth
+
+Defence in depth is a cybersecurity strategy that involves the implementation of multiple layers of security measures to protect computer systems, networks, and data from various threats.
+
+### Risk Management
+
+Risk management in cybersecurity is like a protective game plan to keep your digital stuff safe.
+
+It deals with:
+- Cost of securing.
+- Loss in case of poor protection
+- Lawsuits in case of data breach
+- Loss of revenue.
