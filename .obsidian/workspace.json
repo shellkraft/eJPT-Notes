@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Frameworks.md",
+                "file": "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/SCAP & STIG.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Frameworks.md",
+                "file": "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/SCAP & STIG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Frameworks.md",
+                "file": "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/SCAP & STIG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Frameworks.md"
+                "file": "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/SCAP & STIG.md"
+              }
+            }
+          },
+          {
+            "id": "f272ee5b5022bf73",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -148,10 +158,11 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
+    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Compliance.md",
+    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Frameworks.md",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Basics.md",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Audit Guide.md",
-    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Frameworks.md",
-    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Compliance.md",
+    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/SCAP & STIG.md",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Tools.md",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Untitled",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals",
@@ -180,7 +191,6 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Bruteforce.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/HTTP/HTTP Apache.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/NMAP SMB.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/HTTP",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP",
