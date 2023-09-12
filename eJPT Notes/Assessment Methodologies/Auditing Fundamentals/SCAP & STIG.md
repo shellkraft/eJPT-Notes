@@ -1,8 +1,7 @@
 ### SCAP 
 
 **Security Content Automation Protocol Tools**
-SCAP tools are software applications and utilities designed to automate various aspects of security management and compliance. They provide a standardized way to assess, monitor, and report on the security configuration and vulnerabilities of computer systems.
-
+The SCAP Compliance Checker is an automated compliance scanning tool that leverages the DISA Security Technical Implementation Guidelines (STIGs) and operating system (OS) specific baselines to analyze and report on the security configuration of an information system.
 ### STIG
 
 **Security Technical Implementation Guide**
@@ -17,14 +16,23 @@ STIGs are a set of cybersecurity guidelines and recommendations created by the U
 3. Click `XCCDF Result files`
 4. Find and import the XML result file.
 
-### Using LGPO to fix the issues
+### What is Group Policy ?
+
+Group Policy **allows administrators to define security policies for users and for computers**.
+
+### What is a Group Policy Object (GPO)?
+
+It is a group of settings that are created using the Microsoft Management Console (MMC) Group Policy Editor.
+
+### What is LGPO ?
 
 - **LGPO**- Local Group Policy Object Utility
 
-- LGPO.exe is **a command-line utility that is designed to help automate management of Local Group**. **Policy**. It can import and apply settings from Registry Policy (Registry. pol) files, security templates, Advanced Auditing backup files, as well as from formatted “LGPO text” files.
-
+- LGPO.exe is **a command-line utility that is designed to help automate management of Local Group** **Policy**. It can be used to import Group Policies Objects. 
 ### Command to apply policies using LGPO
 
 ```
-LGPO.exe /g <policy-name>
+LGPO.exe /g <policy-ID>
 ```
+
+*CMD must be opened as an administrator in order to apply a Group Policy.*
