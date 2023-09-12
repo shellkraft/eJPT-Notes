@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/SCAP & STIG.md",
+                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/SCAP & STIG.md",
+                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/SCAP & STIG.md",
+                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/SCAP & STIG.md"
+                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Basics.md"
               }
             }
           },
@@ -158,17 +158,19 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
-    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Compliance.md",
-    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Frameworks.md",
-    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Basics.md",
-    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Audit Guide.md",
+    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Log4J.md",
+    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Eternal Blue.md",
+    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Heartbleed.md",
+    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Basics.md",
+    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies",
+    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Nessus & Nmap.md",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/SCAP & STIG.md",
-    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Tools.md",
+    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Audit Guide.md",
+    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Basics.md",
+    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Frameworks.md",
+    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Compliance.md",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Untitled",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals",
-    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Log4J.md",
-    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Eternal Blue.md",
-    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Heartbleed.md",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Vuln Basics.md",
     "eJPT Notes/Assessment Methodologies/Information Gathering/Active.md",
     "eJPT Notes/Assessment Methodologies/Information Gathering/Passive.md",
@@ -189,14 +191,11 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Intro.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/HTTP/HTTP IIS.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL",
-    "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Bruteforce.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/HTTP/HTTP Apache.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/HTTP",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB",
     "eJPT Notes/Assessment Methodologies/Enumeration",
-    "eJPT Notes/Labs",
     "Pasted image 20230818005613.png",
     "Pasted image 20230818005259.png",
     "Pasted image 20230818004707.png",
