@@ -35,3 +35,7 @@ likeness given the development model and philosophy:
 - Privilege escalation - Vulnerability that allows an attacker to elevate their privileges after initial compromise.
 
 - Denial of Service (DOS) - Vulnerability that allows an attacker to consume a system/host’s resources (CPU, RAM, Network etc) consequently preventing the system from functioning normally. 
+
+### Frequently exploited Windows services
+
+![[Pasted image 20230913034508.png]]
