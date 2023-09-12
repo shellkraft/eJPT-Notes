@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Basics.md",
+                "file": "eJPT Notes/Host & Network Attacks/Windows/Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Basics.md",
+                "file": "eJPT Notes/Host & Network Attacks/Windows/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Basics.md",
+                "file": "eJPT Notes/Host & Network Attacks/Windows/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Basics.md"
+                "file": "eJPT Notes/Host & Network Attacks/Windows/Overview.md"
               }
             }
           },
@@ -159,9 +159,15 @@
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Log4J.md",
+    "eJPT Notes/Host & Network Attacks/Windows/Overview.md",
+    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Basics.md",
+    "eJPT Notes/Host & Network Attacks/Windows",
+    "eJPT Notes/Host & Network PenTest/Host Based Attacks/Untitled.md",
+    "eJPT Notes/Host & Network PenTest/Host Based Attacks",
+    "eJPT Notes/Host & Network PenTest/Host Based Attacks.md",
+    "eJPT Notes/Host & Network Attacks",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Eternal Blue.md",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Heartbleed.md",
-    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Basics.md",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Nessus & Nmap.md",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/SCAP & STIG.md",
@@ -188,14 +194,9 @@
     "eJPT Notes/Misc Notes/Command line.md",
     "eJPT Notes/Misc Notes/Networking.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Anon.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Intro.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/HTTP/HTTP IIS.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL",
     "eJPT Notes/Assessment Methodologies/Enumeration/HTTP",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH",
-    "eJPT Notes/Assessment Methodologies/Enumeration/FTP",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SMB",
-    "eJPT Notes/Assessment Methodologies/Enumeration",
     "Pasted image 20230818005613.png",
     "Pasted image 20230818005259.png",
     "Pasted image 20230818004707.png",
