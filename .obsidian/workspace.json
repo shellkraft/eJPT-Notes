@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Host & Network Attacks/Windows/Microsoft IIS/WebDAV.md",
+                "file": "eJPT Notes/Host & Network Attacks/Windows/Microsoft IIS/Metasploit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Host & Network Attacks/Windows/Microsoft IIS/WebDAV.md",
+                "file": "eJPT Notes/Host & Network Attacks/Windows/Microsoft IIS/Metasploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Host & Network Attacks/Windows/Microsoft IIS/WebDAV.md",
+                "file": "eJPT Notes/Host & Network Attacks/Windows/Microsoft IIS/Metasploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Host & Network Attacks/Windows/Microsoft IIS/WebDAV.md"
+                "file": "eJPT Notes/Host & Network Attacks/Windows/Microsoft IIS/Metasploit.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
-    "eJPT Notes/Host & Network Attacks/Windows/Microsoft IIS/Basics.md",
     "eJPT Notes/Host & Network Attacks/Windows/Microsoft IIS/WebDAV.md",
+    "eJPT Notes/Host & Network Attacks/Windows/Microsoft IIS/Metasploit.md",
+    "eJPT Notes/Host & Network Attacks/Windows/Microsoft IIS/Basics.md",
     "eJPT Notes/Host & Network Attacks/Windows/Overview.md",
     "eJPT Notes/Host & Network Attacks/Windows/Microsoft IIS",
     "Pasted image 20230913034508.png",
@@ -195,7 +196,6 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Bruteforce.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Enum.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Basics.md",
-    "eJPT Notes/Misc Notes/Command line.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL",
     "eJPT Notes/Assessment Methodologies/Enumeration/HTTP",
     "Pasted image 20230818005613.png",
