@@ -35,7 +35,7 @@ hydra -L <user-file> -P <pass-file> <target-ip> http-get /webdav/
 ### How to use `DAVtest` ?
 
 
-DAVTest tests WebDAV enabled servers by uploading test executable files to check what file formats does it support.
+DAVTest tests WebDAV enabled servers by uploading test executable files to check what file formats are supported.
 
 ```
 davtest -url http://<ip>/webdav
@@ -51,4 +51,15 @@ cadaver http://<ip>/webdav
 
 ### Uploading a web shell using `cadaver` 
 
-- We can upload a web shell 
+- We can upload a web shell to be able to execute commands in the web server. 
+
+```
+put /usr/share/webshells/asp/webshell.asp
+```
+
+- Path to webshells - `/usr/share/webshells`
+
+- Now if we head back to the webdav directory which we opened in our browser, we can notice the `webshell.asp` webshell that we uploaded.
+- We can then execute the webshell by clicking on it.
+- The webshell will provide us with an input box.
+- Next, we can input any desired commands for the specific operating system into the designated input box and initiate the execution by clicking "run."
