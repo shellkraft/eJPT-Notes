@@ -31,3 +31,24 @@ nmap -sV -p 80 --script=http-enum <target_ip>
 ```
 hydra -L <user-file> -P <pass-file> <target-ip> http-get /webdav/
 ```
+
+### How to use `DAVtest` ?
+
+
+DAVTest tests WebDAV enabled servers by uploading test executable files to check what file formats does it support.
+
+```
+davtest -url http://<ip>/webdav
+```
+
+### How to use `cadaver`
+
+Cadaver can be used to access the contents of `webdav` directory. It'll allow us to upload, download, edit or delete files from the directory.
+
+```
+cadaver http://<ip>/webdav
+```
+
+### Uploading a web shell using `cadaver` 
+
+- We can upload a web shell 
