@@ -32,14 +32,15 @@ nmap -sV -p 80 --script=http-enum <target_ip>
 hydra -L <user-file> -P <pass-file> <target-ip> http-get /webdav/
 ```
 
-### How to use `DAVtest` ?
+### What is `DAVtest` ?
 
 
 DAVTest tests WebDAV enabled servers by uploading test executable files to check what file formats are supported.
 
 ```
-davtest -url http://<ip>/webdav
+davtest -auth <user>:<pass> -url http://<ip>/webdav
 ```
+*Use `-auth` if webdav directory is password protected.*
 
 ### How to use `cadaver`
 
