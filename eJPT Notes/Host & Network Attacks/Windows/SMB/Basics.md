@@ -4,3 +4,10 @@
 - SMB uses port 445 (TCP). However, originally, SMB ran on top of NetBIOS using port 139.
 
 - SAMBA is the open source Linux implementation of SMB, and allows Windows systems to access Linux shares and devices.
+
+- The SMB protocol utilizes two levels of authentication, namely:
+	+ User Authentication
+	+ Share Authentication
+
+- User authentication - Users must provide a username and password in order to authenticate with the SMB server in order to access a share.
+- Share authentication - Users must provide a password in order to access restricted share.
