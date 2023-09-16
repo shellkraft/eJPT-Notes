@@ -14,23 +14,3 @@
 
 - <u>Share authentication</u> - With share authentication, access to shared resources is controlled based on a shared username and password that is the same for everyone who wants to access that specific shared resource. Share authentication is less individualised and provides the same level of access to all users who have the shared credentials.
 
-### What is PsExec ?
-
-- PsExec is a lightweight telnet-replacement developed by Microsoft that allows you execute processes on remote windows systems using any user’s credentials.
-
-- PsExec authentication is performed via SMB.
-
-- We can use the PsExec utility to authenticate with the target system legitimately and run arbitrary commands or launch a remote command prompt.
-
-- It is very similar to RDP, however, instead of controlling the remote system via GUI commands are sent via CMD.
-
-### How to exploit `SMB` with `PsExec` ?
-
-* In order to utilise PsExec to gain access to a Windows target, we will need to identify  legitimate user accounts and their respective passwords or password hashes. 
-
-- This can be done by leveraging various tools and techniques, however, the most common technique will involve performing an SMB login brute-force attack. 
-
-* We can narrow down our brute-force attack to only include common Windows user accounts like: 
-	+ Administrator
-
-- After we have obtained a legitimate user account and password, we can use the credentials to authenticate with the target system via PsExec and execute arbitrary system commands or obtain a reverse shell.
