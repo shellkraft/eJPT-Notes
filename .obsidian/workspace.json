@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Host & Network Attacks/Windows/SMB/Basics.md",
+                "file": "eJPT Notes/Host & Network Attacks/Windows/SMB/PsExec.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Host & Network Attacks/Windows/SMB/Basics.md",
+                "file": "eJPT Notes/Host & Network Attacks/Windows/SMB/PsExec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Host & Network Attacks/Windows/SMB/Basics.md",
+                "file": "eJPT Notes/Host & Network Attacks/Windows/SMB/PsExec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Host & Network Attacks/Windows/SMB/Basics.md"
+                "file": "eJPT Notes/Host & Network Attacks/Windows/SMB/PsExec.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
-    "eJPT Notes/Host & Network Attacks/Windows/Microsoft IIS/Metasploit.md",
     "eJPT Notes/Host & Network Attacks/Windows/SMB/Basics.md",
+    "eJPT Notes/Host & Network Attacks/Windows/SMB/PsExec.md",
+    "eJPT Notes/Host & Network Attacks/Windows/Microsoft IIS/Metasploit.md",
     "eJPT Notes/Host & Network Attacks/Windows/SMB",
     "eJPT Notes/Host & Network Attacks/Windows/Microsoft IIS/WebDAV.md",
     "eJPT Notes/Host & Network Attacks/Windows/Microsoft IIS/Basics.md",
@@ -196,7 +197,6 @@
     "eJPT Notes/Assessment Methodologies/Untitled.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MS SQL Nmap.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Bruteforce.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Enum.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL",
     "Pasted image 20230818005613.png",
     "Pasted image 20230818005259.png",
