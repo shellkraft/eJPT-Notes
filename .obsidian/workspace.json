@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Host & Network Attacks/Windows/SMB/Eternal Blue.md",
+                "file": "eJPT Notes/Exploitation/Windows/SMB/Eternal Blue.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "4d325bb90b836a09",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Host & Network Attacks/Windows/SMB/Eternal Blue.md",
+                "file": "eJPT Notes/Exploitation/Windows/SMB/Eternal Blue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Host & Network Attacks/Windows/SMB/Eternal Blue.md",
+                "file": "eJPT Notes/Exploitation/Windows/SMB/Eternal Blue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Host & Network Attacks/Windows/SMB/Eternal Blue.md"
+                "file": "eJPT Notes/Exploitation/Windows/SMB/Eternal Blue.md"
               }
             }
           },
@@ -168,30 +158,31 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
+    "eJPT Notes/Exploitation/Windows/SMB/PsExec.md",
+    "eJPT Notes/Host & Network Attacks/Untitled",
+    "eJPT Notes/Exploitation/Windows/SMB/Eternal Blue.md",
+    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Eternal Blue.md",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Log4J.md",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Heartbleed.md",
-    "eJPT Notes/Host & Network Attacks/Windows/SMB/Eternal Blue.md",
-    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Eternal Blue.md",
-    "eJPT Notes/Host & Network Attacks/Windows/SMB/PsExec.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Bruteforce.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Linux.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/NMAP SMB.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMBMap.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
-    "eJPT Notes/Host & Network Attacks/Windows/SMB/Basics.md",
-    "eJPT Notes/Host & Network Attacks/Windows/Microsoft IIS/Metasploit.md",
-    "eJPT Notes/Host & Network Attacks/Windows/SMB",
-    "eJPT Notes/Host & Network Attacks/Windows/Microsoft IIS/WebDAV.md",
-    "eJPT Notes/Host & Network Attacks/Windows/Microsoft IIS/Basics.md",
-    "eJPT Notes/Host & Network Attacks/Windows/Overview.md",
-    "eJPT Notes/Host & Network Attacks/Windows/Microsoft IIS",
+    "eJPT Notes/Exploitation/Windows/SMB/Basics.md",
+    "eJPT Notes/Exploitation/Windows/Microsoft IIS/Metasploit.md",
+    "eJPT Notes/Exploitation/Windows/SMB",
+    "eJPT Notes/Exploitation/Windows/Microsoft IIS/WebDAV.md",
+    "eJPT Notes/Exploitation/Windows/Microsoft IIS/Basics.md",
+    "eJPT Notes/Exploitation/Windows/Overview.md",
+    "eJPT Notes/Exploitation/Windows/Microsoft IIS",
     "Pasted image 20230913034508.png",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Basics.md",
-    "eJPT Notes/Host & Network Attacks/Windows",
+    "eJPT Notes/Exploitation/Windows",
     "eJPT Notes/Host & Network PenTest/Host Based Attacks/Untitled.md",
     "eJPT Notes/Host & Network PenTest/Host Based Attacks",
     "eJPT Notes/Host & Network PenTest/Host Based Attacks.md",
-    "eJPT Notes/Host & Network Attacks",
+    "eJPT Notes/Exploitation",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Nessus & Nmap.md",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/SCAP & STIG.md",
@@ -202,12 +193,10 @@
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Untitled",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Vuln Basics.md",
-    "eJPT Notes/Assessment Methodologies/Information Gathering/Active.md",
     "Pasted image 20230909010428.png",
     "heartbleed-bug-diagram.png",
     "Pasted image 20230818004851.png",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SQL",
     "Pasted image 20230818005613.png",
     "Pasted image 20230818005259.png",
     "Pasted image 20230818004707.png",
