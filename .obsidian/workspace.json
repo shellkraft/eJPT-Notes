@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/RDP/Exploiting RDP.md",
+                "file": "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/RDP/Exploiting RDP.md",
+                "file": "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/RDP/Exploiting RDP.md",
+                "file": "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/RDP/Exploiting RDP.md"
+                "file": "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md"
               }
             }
           },
@@ -158,13 +158,14 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
-    "eJPT Notes/Exploitation/Windows/RDP/Basics.md",
+    "eJPT Notes/Exploitation/Windows/SMB/Eternal Blue.md",
+    "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
     "eJPT Notes/Exploitation/Windows/RDP/Exploiting RDP.md",
+    "eJPT Notes/Exploitation/Windows/RDP/Basics.md",
     "eJPT Notes/Exploitation/Windows/Microsoft IIS/Metasploit.md",
     "eJPT Notes/Exploitation/Windows/Microsoft IIS/WebDAV.md",
     "eJPT Notes/Exploitation/Windows/Microsoft IIS/Basics.md",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Basics.md",
-    "eJPT Notes/Exploitation/Windows/SMB/Eternal Blue.md",
     "eJPT Notes/Exploitation/Windows/RDP",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Eternal Blue.md",
     "eJPT Notes/Exploitation/Windows/SMB/PsExec.md",
@@ -192,7 +193,6 @@
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Audit Guide.md",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Basics.md",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Frameworks.md",
-    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Compliance.md",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Untitled",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals",
     "Pasted image 20230909010428.png",
