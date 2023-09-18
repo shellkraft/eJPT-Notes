@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
+                "file": "eJPT Notes/Exploitation/Windows/WinRM/Exploiting WinRM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
+                "file": "eJPT Notes/Exploitation/Windows/WinRM/Exploiting WinRM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
+                "file": "eJPT Notes/Exploitation/Windows/WinRM/Exploiting WinRM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md"
+                "file": "eJPT Notes/Exploitation/Windows/WinRM/Exploiting WinRM.md"
               }
             }
           },
@@ -158,9 +158,12 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
+    "eJPT Notes/Exploitation/Windows/WinRM/Basics.md",
+    "eJPT Notes/Exploitation/Windows/WinRM/Exploiting WinRM.md",
+    "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
+    "eJPT Notes/Exploitation/Windows/WinRM",
     "eJPT Notes/Exploitation/Windows/SMB/Eternal Blue.md",
     "eJPT Notes/Exploitation/Windows/SMB/PsExec.md",
-    "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
     "eJPT Notes/Exploitation/Windows/RDP/Exploiting RDP.md",
     "eJPT Notes/Exploitation/Windows/RDP/Basics.md",
     "eJPT Notes/Exploitation/Windows/Microsoft IIS/Metasploit.md",
@@ -191,10 +194,7 @@
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Nessus & Nmap.md",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/SCAP & STIG.md",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Audit Guide.md",
-    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Basics.md",
-    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Frameworks.md",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Untitled",
-    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals",
     "Pasted image 20230909010428.png",
     "heartbleed-bug-diagram.png",
     "Pasted image 20230818004851.png",
