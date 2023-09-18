@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/WinRM/Exploiting WinRM.md",
+                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/WinRM/Exploiting WinRM.md",
+                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/WinRM/Exploiting WinRM.md",
+                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/WinRM/Exploiting WinRM.md"
+                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/Basics.md"
               }
             }
           },
@@ -158,11 +158,17 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
+    "eJPT Notes/Misc Notes/Networking.md",
+    "eJPT Notes/Misc Notes/Command line.md",
+    "eJPT Notes/Exploitation/Windows/Privilege Escalation/Basics.md",
+    "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
+    "eJPT Notes/Exploitation/Windows/SMB/Eternal Blue.md",
     "eJPT Notes/Exploitation/Windows/WinRM/Basics.md",
     "eJPT Notes/Exploitation/Windows/WinRM/Exploiting WinRM.md",
-    "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
+    "eJPT Notes/Exploitation/Windows/Overview.md",
+    "eJPT Notes/Exploitation/Windows/Privilege Escalation",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md",
     "eJPT Notes/Exploitation/Windows/WinRM",
-    "eJPT Notes/Exploitation/Windows/SMB/Eternal Blue.md",
     "eJPT Notes/Exploitation/Windows/SMB/PsExec.md",
     "eJPT Notes/Exploitation/Windows/RDP/Exploiting RDP.md",
     "eJPT Notes/Exploitation/Windows/RDP/Basics.md",
@@ -182,19 +188,13 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
     "eJPT Notes/Exploitation/Windows/SMB/Basics.md",
     "eJPT Notes/Exploitation/Windows/SMB",
-    "eJPT Notes/Exploitation/Windows/Overview.md",
     "eJPT Notes/Exploitation/Windows/Microsoft IIS",
     "Pasted image 20230913034508.png",
     "eJPT Notes/Exploitation/Windows",
     "eJPT Notes/Host & Network PenTest/Host Based Attacks/Untitled.md",
     "eJPT Notes/Host & Network PenTest/Host Based Attacks",
-    "eJPT Notes/Host & Network PenTest/Host Based Attacks.md",
     "eJPT Notes/Exploitation",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies",
-    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Nessus & Nmap.md",
-    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/SCAP & STIG.md",
-    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Audit Guide.md",
-    "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Untitled",
     "Pasted image 20230909010428.png",
     "heartbleed-bug-diagram.png",
     "Pasted image 20230818004851.png",
