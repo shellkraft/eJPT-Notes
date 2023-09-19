@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/Metasploit.md",
+                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/Exploit Suggester.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459.5
+    "width": 282.5
   },
   "right": {
     "id": "80316cba425979b5",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/Metasploit.md",
+                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/Exploit Suggester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/Metasploit.md",
+                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/Exploit Suggester.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/Metasploit.md"
+                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/Exploit Suggester.md"
               }
             }
           },
@@ -158,9 +158,9 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
-    "eJPT Notes/Exploitation/Windows/Privilege Escalation/Windows Exploit Suggester.md",
-    "eJPT Notes/Exploitation/Windows/Privilege Escalation/Metasploit.md",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/Basics.md",
+    "eJPT Notes/Exploitation/Windows/Privilege Escalation/Exploit Suggester.md",
+    "eJPT Notes/Exploitation/Windows/Privilege Escalation/Metasploit.md",
     "eJPT Notes/Misc Notes/Networking.md",
     "eJPT Notes/Misc Notes/Command line.md",
     "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
