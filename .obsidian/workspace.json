@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/Exploit Suggester.md",
+                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/UACMe.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/Exploit Suggester.md",
+                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/UACMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/Exploit Suggester.md",
+                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/UACMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/Exploit Suggester.md"
+                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/UACMe.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
-    "eJPT Notes/Exploitation/Windows/Privilege Escalation/Basics.md",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/Exploit Suggester.md",
+    "eJPT Notes/Exploitation/Windows/Privilege Escalation/UACMe.md",
+    "eJPT Notes/Exploitation/Windows/Privilege Escalation/Basics.md",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/Metasploit.md",
     "eJPT Notes/Misc Notes/Networking.md",
     "eJPT Notes/Misc Notes/Command line.md",
@@ -187,7 +188,6 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Linux.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/NMAP SMB.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMBMap.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
     "eJPT Notes/Exploitation/Windows/SMB",
     "eJPT Notes/Exploitation/Windows/Microsoft IIS",
     "Pasted image 20230913034508.png",
