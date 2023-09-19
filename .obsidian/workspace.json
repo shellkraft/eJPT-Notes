@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 459.5
   },
   "right": {
     "id": "80316cba425979b5",
@@ -158,8 +158,9 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
-    "eJPT Notes/Exploitation/Windows/Privilege Escalation/Basics.md",
+    "eJPT Notes/Exploitation/Windows/Privilege Escalation/Windows Exploit Suggester.md",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/Metasploit.md",
+    "eJPT Notes/Exploitation/Windows/Privilege Escalation/Basics.md",
     "eJPT Notes/Misc Notes/Networking.md",
     "eJPT Notes/Misc Notes/Command line.md",
     "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
@@ -187,7 +188,6 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/NMAP SMB.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMBMap.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
-    "eJPT Notes/Exploitation/Windows/SMB/Basics.md",
     "eJPT Notes/Exploitation/Windows/SMB",
     "eJPT Notes/Exploitation/Windows/Microsoft IIS",
     "Pasted image 20230913034508.png",
