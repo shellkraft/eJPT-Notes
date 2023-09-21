@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/Token Impersonation.md",
+                "file": "eJPT Notes/Exploitation/Windows/Windows File System/Alternate Data Streams.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/Token Impersonation.md",
+                "file": "eJPT Notes/Exploitation/Windows/Windows File System/Alternate Data Streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/Token Impersonation.md",
+                "file": "eJPT Notes/Exploitation/Windows/Windows File System/Alternate Data Streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/Privilege Escalation/Token Impersonation.md"
+                "file": "eJPT Notes/Exploitation/Windows/Windows File System/Alternate Data Streams.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
-    "eJPT Notes/Exploitation/Windows/Privilege Escalation/UACMe.md",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/Token Impersonation.md",
+    "eJPT Notes/Exploitation/Windows/Windows File System/Alternate Data Streams.md",
+    "eJPT Notes/Exploitation/Windows/Windows File System",
+    "eJPT Notes/Exploitation/Windows/Privilege Escalation/UACMe.md",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/Exploit Suggester.md",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/Metasploit.md",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/Basics.md",
@@ -187,14 +189,12 @@
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Heartbleed.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Bruteforce.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Linux.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/NMAP SMB.md",
     "eJPT Notes/Exploitation/Windows/SMB",
     "eJPT Notes/Exploitation/Windows/Microsoft IIS",
     "Pasted image 20230913034508.png",
     "eJPT Notes/Exploitation/Windows",
     "eJPT Notes/Host & Network PenTest/Host Based Attacks",
     "eJPT Notes/Exploitation",
-    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies",
     "Pasted image 20230909010428.png",
     "heartbleed-bug-diagram.png",
     "Pasted image 20230818004851.png",
