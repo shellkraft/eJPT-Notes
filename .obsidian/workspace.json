@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/Credential Dumping/Untitled.md",
+                "file": "eJPT Notes/Exploitation/Windows/Credential Dumping/Config Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/Credential Dumping/Untitled.md",
+                "file": "eJPT Notes/Exploitation/Windows/Credential Dumping/Config Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/Credential Dumping/Untitled.md",
+                "file": "eJPT Notes/Exploitation/Windows/Credential Dumping/Config Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/Credential Dumping/Untitled.md"
+                "file": "eJPT Notes/Exploitation/Windows/Credential Dumping/Config Files.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
+    "eJPT Notes/Exploitation/Windows/Credential Dumping/Configuration Files 1.md",
+    "eJPT Notes/Exploitation/Windows/Credential Dumping/Config Files.md",
     "eJPT Notes/Exploitation/Windows/Credential Dumping/Password Hashes.md",
-    "eJPT Notes/Exploitation/Windows/Credential Dumping/Untitled.md",
     "Pasted image 20230921203638.png",
     "Pasted image 20230921203017.png",
     "eJPT Notes/Exploitation/Windows/Windows File System/Alternate Data Streams.md",
@@ -191,7 +192,6 @@
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Eternal Blue.md",
     "eJPT Notes/Host & Network Attacks/Untitled",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Log4J.md",
-    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Heartbleed.md",
     "eJPT Notes/Exploitation/Windows/SMB",
     "eJPT Notes/Exploitation/Windows/Microsoft IIS",
     "Pasted image 20230913034508.png",
