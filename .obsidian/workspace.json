@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation/Linux/SSH.md",
+                "file": "eJPT Notes/Exploitation/Linux/Privilege Escalation/Kernel Exploits.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation/Linux/SSH.md",
+                "file": "eJPT Notes/Exploitation/Linux/Privilege Escalation/Kernel Exploits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation/Linux/SSH.md",
+                "file": "eJPT Notes/Exploitation/Linux/Privilege Escalation/Kernel Exploits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation/Linux/SSH.md"
+                "file": "eJPT Notes/Exploitation/Linux/Privilege Escalation/Kernel Exploits.md"
               }
             }
           },
@@ -158,8 +158,12 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
-    "eJPT Notes/Exploitation/Linux/FTP.md",
+    "eJPT Notes/Exploitation/Linux/SAMBA.md",
+    "eJPT Notes/Exploitation/Linux/Privilege Escalation/Kernel Exploits.md",
+    "eJPT Notes/Exploitation/Linux/Untitled.md",
+    "eJPT Notes/Exploitation/Linux/Privilege Escalation",
     "eJPT Notes/Exploitation/Linux/SSH.md",
+    "eJPT Notes/Exploitation/Linux/FTP.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Anon.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Intro.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Bruteforce.md",
@@ -183,9 +187,6 @@
     "eJPT Notes/Exploitation/Windows/Credential Dumping/Mimikatz.md",
     "eJPT Notes/Exploitation/Linux",
     "eJPT Notes/Misc Notes/Command line.md",
-    "eJPT Notes/Exploitation/Windows/Credential Dumping/Config Files.md",
-    "eJPT Notes/Exploitation/Windows/Credential Dumping/Configuration Files 1.md",
-    "eJPT Notes/Exploitation/Windows/Credential Dumping/Password Hashes.md",
     "Pasted image 20230921203638.png",
     "Pasted image 20230921203017.png",
     "eJPT Notes/Exploitation/Windows/Credential Dumping",
@@ -197,7 +198,6 @@
     "eJPT Notes/Exploitation/Windows/SMB",
     "eJPT Notes/Exploitation/Windows/Microsoft IIS",
     "Pasted image 20230913034508.png",
-    "eJPT Notes/Exploitation/Windows",
     "Pasted image 20230909010428.png",
     "heartbleed-bug-diagram.png",
     "Pasted image 20230818004851.png",
