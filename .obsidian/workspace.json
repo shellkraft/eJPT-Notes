@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation/Linux/ShellShock.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Bruteforce.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation/Linux/ShellShock.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Bruteforce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation/Linux/ShellShock.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Bruteforce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation/Linux/ShellShock.md"
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Bruteforce.md"
               }
             }
           },
@@ -158,9 +158,16 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
+    "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Anon.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Intro.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/NMAP SMB.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Bruteforce.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Linux.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMBMap.md",
+    "eJPT Notes/Exploitation/Linux/ShellShock.md",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/Metasploit.md",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/Basics.md",
-    "eJPT Notes/Exploitation/Linux/ShellShock.md",
     "eJPT Notes/Exploitation/Linux/Overview.md",
     "Pasted image 20230923004106.png",
     "eJPT Notes/Exploitation/Windows/Overview.md",
@@ -183,15 +190,8 @@
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/Token Impersonation.md",
     "eJPT Notes/Exploitation/Windows/Windows File System",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/UACMe.md",
-    "eJPT Notes/Misc Notes/Networking.md",
-    "eJPT Notes/Exploitation/Windows/SMB/Eternal Blue.md",
-    "eJPT Notes/Exploitation/Windows/WinRM/Basics.md",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md",
     "eJPT Notes/Exploitation/Windows/WinRM",
-    "eJPT Notes/Exploitation/Windows/SMB/PsExec.md",
-    "eJPT Notes/Exploitation/Windows/Microsoft IIS/Metasploit.md",
-    "eJPT Notes/Exploitation/Windows/Microsoft IIS/WebDAV.md",
     "eJPT Notes/Exploitation/Windows/RDP",
     "eJPT Notes/Host & Network Attacks/Untitled",
     "eJPT Notes/Exploitation/Windows/SMB",
