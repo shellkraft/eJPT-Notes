@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation/Linux/FTP.md",
+                "file": "eJPT Notes/Exploitation/Linux/SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation/Linux/FTP.md",
+                "file": "eJPT Notes/Exploitation/Linux/SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation/Linux/FTP.md",
+                "file": "eJPT Notes/Exploitation/Linux/SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation/Linux/FTP.md"
+                "file": "eJPT Notes/Exploitation/Linux/SSH.md"
               }
             }
           },
@@ -158,10 +158,11 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
+    "eJPT Notes/Exploitation/Linux/FTP.md",
+    "eJPT Notes/Exploitation/Linux/SSH.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Anon.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Intro.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Bruteforce.md",
-    "eJPT Notes/Exploitation/Linux/FTP.md",
     "eJPT Notes/Exploitation/Linux/Overview.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/NMAP SMB.md",
@@ -187,7 +188,6 @@
     "eJPT Notes/Exploitation/Windows/Credential Dumping/Password Hashes.md",
     "Pasted image 20230921203638.png",
     "Pasted image 20230921203017.png",
-    "eJPT Notes/Exploitation/Windows/Windows File System/Alternate Data Streams.md",
     "eJPT Notes/Exploitation/Windows/Credential Dumping",
     "eJPT Notes/Exploitation/Windows/Windows File System",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation",
