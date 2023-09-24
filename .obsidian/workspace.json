@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation/Linux/Privilege Escalation/Cron Jobs.md",
+                "file": "eJPT Notes/Exploitation/Linux/Privilege Escalation/SUID Binaries.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation/Linux/Privilege Escalation/Cron Jobs.md",
+                "file": "eJPT Notes/Exploitation/Linux/Privilege Escalation/SUID Binaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation/Linux/Privilege Escalation/Cron Jobs.md",
+                "file": "eJPT Notes/Exploitation/Linux/Privilege Escalation/SUID Binaries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation/Linux/Privilege Escalation/Cron Jobs.md"
+                "file": "eJPT Notes/Exploitation/Linux/Privilege Escalation/SUID Binaries.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
-    "eJPT Notes/Exploitation/Linux/Privilege Escalation/DirtyCow.md",
     "eJPT Notes/Exploitation/Linux/Privilege Escalation/Cron Jobs.md",
+    "eJPT Notes/Exploitation/Linux/Privilege Escalation/SUID Binaries.md",
+    "eJPT Notes/Exploitation/Linux/Privilege Escalation/DirtyCow.md",
     "eJPT Notes/Exploitation/Linux/Privilege Escalation/Kernel Exploits.md",
     "eJPT Notes/Exploitation/Linux/SAMBA.md",
     "eJPT Notes/Exploitation/Linux/Untitled.md",
@@ -185,7 +186,6 @@
     "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
     "eJPT Notes/Exploitation/Windows/RDP/Basics.md",
     "eJPT Notes/Exploitation/Windows/RDP/Exploiting RDP.md",
-    "eJPT Notes/Exploitation/Windows/Credential Dumping/Pass-The-Hash.md",
     "eJPT Notes/Exploitation/Linux",
     "Pasted image 20230921203638.png",
     "Pasted image 20230921203017.png",
