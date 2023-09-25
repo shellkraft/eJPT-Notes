@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation/Linux/Password Hashes.md",
+                "file": "eJPT Notes/Network Based Attacks/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation/Linux/Password Hashes.md",
+                "file": "eJPT Notes/Network Based Attacks/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation/Linux/Password Hashes.md",
+                "file": "eJPT Notes/Network Based Attacks/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation/Linux/Password Hashes.md"
+                "file": "eJPT Notes/Network Based Attacks/Basics.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
-    "eJPT Notes/Exploitation/Linux/Privilege Escalation/SUID Binaries.md",
     "eJPT Notes/Exploitation/Linux/Password Hashes.md",
+    "eJPT Notes/Network Based Attacks/Basics.md",
+    "eJPT Notes/Network Based Attacks",
+    "eJPT Notes/Exploitation/Linux/Privilege Escalation/SUID Binaries.md",
     "eJPT Notes/Exploitation/Linux/Privilege Escalation/Cron Jobs.md",
     "eJPT Notes/Exploitation/Linux/Privilege Escalation/DirtyCow.md",
     "eJPT Notes/Exploitation/Linux/Privilege Escalation/Kernel Exploits.md",
@@ -185,7 +187,6 @@
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/Exploit Suggester.md",
     "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
     "eJPT Notes/Exploitation/Windows/RDP/Basics.md",
-    "eJPT Notes/Exploitation/Windows/RDP/Exploiting RDP.md",
     "eJPT Notes/Exploitation/Linux",
     "Pasted image 20230921203638.png",
     "Pasted image 20230921203017.png",
@@ -196,7 +197,6 @@
     "eJPT Notes/Exploitation/Windows/RDP",
     "eJPT Notes/Host & Network Attacks/Untitled",
     "eJPT Notes/Exploitation/Windows/SMB",
-    "eJPT Notes/Exploitation/Windows/Microsoft IIS",
     "Pasted image 20230913034508.png",
     "Pasted image 20230909010428.png",
     "heartbleed-bug-diagram.png",
