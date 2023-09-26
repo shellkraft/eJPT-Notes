@@ -18,7 +18,7 @@ tshark -r <pcap-file> -z io,phs -q
 
 - Apply filter in `tshark` - `tshark -r <pcap-file> -Y "http"`
 
-- Filter to check traffic between 2 IP addresses in a `pcap` file 
+- Command to show only the IP packets sent between 2 IP addresses
 ```
 tshark -r <pcap-file> -Y 'ip.src==<ip-source> && ip.dst==<ip-destination>'
 ```
@@ -28,7 +28,7 @@ tshark -r <pcap-file> -Y 'ip.src==<ip-source> && ip.dst==<ip-destination>'
 tshark -r <pcap-file> -Y 'http.request.method==GET'
 ```
 
-- Command to specify certain fields in the filter
+- Command to print only packets only source IP and URL for all GET request packets
 ```
 tshark -r <pcap-file> -Y 'http.request.method==GET' -Tfields -e frame.time -e ip.src -e http.request.full_uri
 ```
