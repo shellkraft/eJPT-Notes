@@ -15,3 +15,25 @@
 ```
 tshark -r <pcap-file> -z io,phs -q
 ```
+
+- Apply filter in `tshark` - `tshark -r <pcap-file> -Y "http"`
+
+- Filter to check traffic between 2 IP addresses in a `pcap` file 
+```
+tshark -r <pcap-file> -Y 'ip.src==<ip-source> && ip.dst==<ip-destination>'
+```
+
+- `tshark` command to filter `http` traffic by request method-
+```
+tshark -r <pcap-file> -Y 'http.request.method==GET'
+```
+
+- Command to specify certain fields in the filter
+```
+tshark -r <pcap-file> -Y 'http.request.method==GET' -Tfields -e frame.time -e ip.src -e http.request.full_uri
+```
+
+- Command to look for a string in the `pcap` 
+```
+tshark 
+```
