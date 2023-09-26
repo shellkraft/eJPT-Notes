@@ -11,11 +11,9 @@
             "id": "a2a5edd87f2fac0b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "eJPT Notes/Network Based Attacks/WireShark.md",
-                "mode": "source",
-                "source": false
+                "file": "eJPT Notes/MEDIA/Pasted image 20230923004106.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Network Based Attacks/WireShark.md",
+                "file": "eJPT Notes/MEDIA/Pasted image 20230923004106.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Network Based Attacks/WireShark.md",
+                "file": "eJPT Notes/MEDIA/Pasted image 20230923004106.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Network Based Attacks/WireShark.md"
+                "file": "eJPT Notes/MEDIA/Pasted image 20230923004106.png"
               }
             }
           },
@@ -158,9 +156,18 @@
   },
   "active": "a2a5edd87f2fac0b",
   "lastOpenFiles": [
+    "eJPT Notes/MEDIA/Pasted image 20230921203638.png",
+    "eJPT Notes/MEDIA/Pasted image 20230921203017.png",
+    "eJPT Notes/MEDIA/heartbleed-bug-diagram.png",
+    "eJPT Notes/MEDIA/Pasted image 20230818005613.png",
+    "eJPT Notes/MEDIA/Pasted image 20230818005259.png",
+    "eJPT Notes/MEDIA/Pasted image 20230818004851.png",
+    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Heartbleed.md",
+    "eJPT Notes/MEDIA",
+    "eJPT Notes/Assessment Methodologies/Information Gathering/Types.md",
+    "eJPT Notes/Network Based Attacks/WireShark.md",
     "Pasted image 20230926165638.png",
     "eJPT Notes/Exploitation/Linux/Password Hashes.md",
-    "eJPT Notes/Network Based Attacks/WireShark.md",
     "eJPT Notes/Network Based Attacks",
     "eJPT Notes/Exploitation/Linux/Privilege Escalation/SUID Binaries.md",
     "eJPT Notes/Exploitation/Linux/Privilege Escalation/Cron Jobs.md",
@@ -182,28 +189,18 @@
     "eJPT Notes/Exploitation/Linux/ShellShock.md",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/Metasploit.md",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/Basics.md",
-    "Pasted image 20230923004106.png",
+    "eJPT Notes/MEDIA/Pasted image 20230923004106.png",
     "eJPT Notes/Exploitation/Windows/Overview.md",
     "eJPT Notes/Exploitation/Windows/WinRM/Exploiting WinRM.md",
-    "eJPT Notes/Exploitation/Windows/Privilege Escalation/Exploit Suggester.md",
-    "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
     "eJPT Notes/Exploitation/Linux",
-    "Pasted image 20230921203638.png",
-    "Pasted image 20230921203017.png",
     "eJPT Notes/Exploitation/Windows/Credential Dumping",
     "eJPT Notes/Exploitation/Windows/Windows File System",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation",
     "eJPT Notes/Exploitation/Windows/WinRM",
     "eJPT Notes/Exploitation/Windows/RDP",
     "eJPT Notes/Host & Network Attacks/Untitled",
-    "eJPT Notes/Exploitation/Windows/SMB",
-    "Pasted image 20230913034508.png",
+    "eJPT Notes/MEDIA/Pasted image 20230913034508.png",
     "Pasted image 20230909010428.png",
-    "heartbleed-bug-diagram.png",
-    "Pasted image 20230818004851.png",
-    "Pasted image 20230818005613.png",
-    "Pasted image 20230818005259.png",
-    "Pasted image 20230818004707.png",
     "Untitled.canvas"
   ]
 }

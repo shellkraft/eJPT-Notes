@@ -43,18 +43,16 @@ nmap 192.168.1.1-4 -A
 
 - We can go to `Statistics > Conversations` to see which machine talked to which machine during the capture.
 
-- Go to `Statistics > Endpoints` to check the different endpoints the communication happened with. 
+- Go to `Statistics > Endpoints` to break down by addresses each machine found in the packet capture.
 
-- In the `Time` column, we can check at what relative time the interaction of a particular packet happened. We can change the format in which time is being displayed by going to `View > Time Display Format `
+- In the `Time` column, we can check at what time the interaction with a particular packet happened. The default time format in WireShark is relative time in seconds. We can change the format in which time is being displayed by going to `View > Time Display Format`.
 
 - We can also modify other columns by right-clicking on them and clicking `Column Preferences`. We can create our own column and also re-order them.
-
-- We can also see the hexadecimal packet data. 
-
-![[Pasted image 20230926165638.png]]
 
 - We can right-click on a GET/HTTP request and go to `Follow > HTTP Stream`. This will enable  us to see the packet data in Raw (Base64), ASCII, Hexadecimal and other formats.
 
 - Right click on the display filter field and click `Display Filter Expressions`, this will show us thousands of display filters which will help us to filter by any sort of network traffic.
+
+- To go back to the display filter we had set before, we can select the display filter we want from the dropdown history.
 
 - We can go to `File > Export Objects > HTTP`. This will show us all the HTTP objects such as images. 
