@@ -1,5 +1,5 @@
 
-**Tshark** is a command line tool created by the Wireshark team and shares the same powerful parsing engine as Wireshark. It is capable of doing most things we've come to love Wireshark for, but with the "from command line" advantage. This makes it ideal for batch analysis, offline processing and routine automation of traffic analysis tasks.
+**`Tshark`** is a command line tool created by the `Wireshark` team and shares the same powerful parsing engine as `Wireshark`. It is capable of doing most things we've come to love `Wireshark` for, but with the "from command line" advantage. This makes it ideal for batch analysis, offline processing and routine automation of traffic analysis tasks.
 
 - `Tshark` is used more for target analysis, we can use it to pull any specific information out instead of going through everything like we were doing in `WireShark`. Its more in-depth, targeted and faster. 
 
@@ -33,7 +33,12 @@ tshark -r <pcap-file> -Y 'http.request.method==GET'
 tshark -r <pcap-file> -Y 'http.request.method==GET' -Tfields -e frame.time -e ip.src -e http.request.full_uri
 ```
 
-- Command to look for a string in the `pcap` 
+- Command to look for a particular string in the `pcap` file.
 ```
-tshark 
+tshark -r <pcap-file> -Y 'http contains <string>'
+```
+
+- Command to check which IP addresses contacted a specific website.
+```
+tshark -r <pcap-file> -Y "http.request.method==GET && http.host==www.website.com" -Tfields -e ip.dest
 ```
