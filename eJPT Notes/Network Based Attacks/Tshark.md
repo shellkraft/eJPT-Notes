@@ -42,3 +42,13 @@ tshark -r <pcap-file> -Y 'http contains <string>'
 ```
 tshark -r <pcap-file> -Y "http.request.method==GET && http.host==www.website.com" -Tfields -e ip.dest
 ```
+
+- Command to get the cookies for a specific website contacted by a specific IP.
+```
+tshark -r HTTP_traffic.pcap -Y 'ip contains website.in && ip.src==<src-ip>' -Tfields -e ip.src -e http.cookie
+```
+
+- Command to see what browsers the user was utilising.
+```
+tshark -r HTTP_traffic.pcap -Y 'ip.src==<source-ip> && http' -Tfields -e http.user_agent
+```
