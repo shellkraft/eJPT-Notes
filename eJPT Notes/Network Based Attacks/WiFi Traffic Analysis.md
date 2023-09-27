@@ -15,3 +15,8 @@ The IEEE 802.11 protocol refers to a set of standards for implementing wireless 
 wlan contains <SSID>
 ```
 
+### How to know the security mechanism config ?
+
+Example of security mechanisms - WPA-PSK/WPA2-PSK/OPEN etc.
+
+- 
