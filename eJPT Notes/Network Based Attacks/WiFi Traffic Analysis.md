@@ -9,3 +9,9 @@ The IEEE 802.11 protocol refers to a set of standards for implementing wireless 
 (wlan fc.type_subtype== 0x0008) && !(wlan.wfa.ie.wpa.version == 1) && (wlan.tag.number ==48)
 ```
 
+### How to find a particular SSID ?
+
+```
+wlan contains <SSID>
+```
+
