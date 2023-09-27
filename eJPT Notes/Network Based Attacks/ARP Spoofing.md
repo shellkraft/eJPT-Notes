@@ -1,6 +1,5 @@
 ARP (Address Resolution Protocol) spoofing, which is a technique used in network attacks. ARP spoofing involves sending fake ARP messages on a local network to associate the attacker's MAC address with the IP address of another host.
 
-
 ### How to ARP spoof ?
 
 1. Scan the subnet to discover hosts that we can target.
