@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Network Based Attacks/WiFi Filtering.md",
+                "file": "eJPT Notes/Metasploit Framework/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Network Based Attacks/WiFi Filtering.md",
+                "file": "eJPT Notes/Metasploit Framework/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Network Based Attacks/WiFi Filtering.md",
+                "file": "eJPT Notes/Metasploit Framework/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Network Based Attacks/WiFi Filtering.md"
+                "file": "eJPT Notes/Metasploit Framework/Basics.md"
               }
             }
           },
@@ -171,9 +171,11 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/Network Based Attacks/WiFi Filtering.md",
+    "eJPT Notes/Metasploit Framework/Basics.md",
+    "eJPT Notes/Metasploit Framework",
     "eJPT Notes/Network Based Attacks/WiFi Traffic Analysis.md",
     "eJPT Notes/Network Based Attacks/WireShark.md",
-    "eJPT Notes/Network Based Attacks/WiFi Filtering.md",
     "eJPT Notes/Network Based Attacks/ARP Spoofing.md",
     "eJPT Notes/Network Based Attacks/Tshark.md",
     "eJPT Notes/Misc Notes/Command line.md",
@@ -207,14 +209,12 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Bruteforce.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Linux.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMBMap.md",
-    "eJPT Notes/Exploitation/Linux/ShellShock.md",
     "eJPT Notes/Exploitation/Linux",
     "eJPT Notes/Exploitation/Windows/Credential Dumping",
     "eJPT Notes/Exploitation/Windows/Windows File System",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation",
     "eJPT Notes/Exploitation/Windows/WinRM",
     "eJPT Notes/Exploitation/Windows/RDP",
-    "eJPT Notes/Host & Network Attacks/Untitled",
     "eJPT Notes/MEDIA/Pasted image 20230913034508.png",
     "Pasted image 20230909010428.png",
     "Untitled.canvas"
