@@ -32,3 +32,9 @@ When working with exploits, MSF provides you with two types of payloads that can
 1. Stagers - Stagers are typically used to establish a stable communication channel between the attacker and target, after which a stage payload is downloaded and executed on the target system.
 
 2. Stage - Payload components that are downloaded by the stager.
+
+### `Meterpreter` payload
+
+- The Meterpreter (Meta-Interpreter) payload is an advanced multi-functional payload that is executed in memory on the target system making it difficult to detect.
+
+- It communicates over a stager socket and provides an attacker with an interactive command interpreter on the target system that facilitates the\ execution of system commands, file system navigation, keylogging and much more.
