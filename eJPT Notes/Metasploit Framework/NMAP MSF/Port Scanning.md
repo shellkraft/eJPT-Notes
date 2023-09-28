@@ -5,7 +5,7 @@
 
 + We can output the results of our `Nmap` scan in to a format that can be imported into `MSF` for vulnerability detection and exploitation.
 
-### Outputting Scan results for `MSF`
+### Outputting Scan results to a file
 
 **We'll now output the `nmap` scan result into `xml` file to be imported into `MSF`**
 
