@@ -38,3 +38,9 @@ When working with exploits, MSF provides you with two types of payloads that can
 - The Meterpreter (Meta-Interpreter) payload is an advanced multi-functional payload that is executed in memory on the target system making it difficult to detect.
 
 - It communicates over a stager socket and provides an attacker with an interactive command interpreter on the target system that facilitates the\ execution of system commands, file system navigation, keylogging and much more.
+
+### `MSF` Module Locations
+
++ MSF stores modules under the following directory on Linux systems: `usr/share/metasploit-framework/modules `
+
++ User specified custom modules are stored under the following directory on Linux systems: ``~/.ms4/modules`` 
