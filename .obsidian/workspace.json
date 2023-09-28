@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/MSF Architecture.md",
+                "file": "eJPT Notes/Metasploit Framework/NMAP/Port Scanning.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/MSF Architecture.md",
+                "file": "eJPT Notes/Metasploit Framework/NMAP/Port Scanning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/MSF Architecture.md",
+                "file": "eJPT Notes/Metasploit Framework/NMAP/Port Scanning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/MSF Architecture.md"
+                "file": "eJPT Notes/Metasploit Framework/NMAP/Port Scanning.md"
               }
             }
           },
@@ -171,10 +171,18 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/Metasploit Framework/Fundamentals/Workspaces.md",
+    "eJPT Notes/Metasploit Framework/NMAP/Port Scanning.md",
+    "eJPT Notes/Metasploit Framework/NMAP",
+    "eJPT Notes/Metasploit Framework/Fundamentals/MSFconsole.md",
+    "eJPT Notes/Metasploit Framework/Overview/Basics.md",
+    "eJPT Notes/Metasploit Framework/Fundamentals",
+    "eJPT Notes/Metasploit Framework/Fundamentals/Install & Config.md",
+    "eJPT Notes/Metasploit Framework/Overview/PTES.md",
+    "eJPT Notes/Metasploit Framework/Overview",
+    "eJPT Notes/Metasploit Framework/Overview/MSF Architecture.md",
     "eJPT Notes/MEDIA/Pasted image 20230928014629.png",
     "eJPT Notes/MEDIA/Pasted image 20230928014518.png",
-    "eJPT Notes/Metasploit Framework/MSF Architecture.md",
-    "eJPT Notes/Metasploit Framework/Basics.md",
     "eJPT Notes/Network Based Attacks/WiFi Filtering.md",
     "eJPT Notes/Metasploit Framework",
     "eJPT Notes/Network Based Attacks/WiFi Traffic Analysis.md",
@@ -206,16 +214,9 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Anon.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Intro.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Bruteforce.md",
-    "eJPT Notes/Exploitation/Linux/Overview.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/NMAP SMB.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Bruteforce.md",
     "eJPT Notes/Exploitation/Linux",
     "eJPT Notes/Exploitation/Windows/Credential Dumping",
     "eJPT Notes/Exploitation/Windows/Windows File System",
-    "eJPT Notes/Exploitation/Windows/Privilege Escalation",
-    "eJPT Notes/Exploitation/Windows/WinRM",
-    "eJPT Notes/Exploitation/Windows/RDP",
     "Untitled.canvas"
   ]
 }
