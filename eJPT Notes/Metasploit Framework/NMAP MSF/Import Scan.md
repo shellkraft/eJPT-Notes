@@ -19,9 +19,11 @@ db_import <xml_file_path>
 
 ### How to perform `NMAP` scan from `MSF` ?
 
-1. Create a new workspace.
+1. Start `msfconsole` with `postgresql` service.
+ 
+2. Create a new workspace.
 
-2. Enter the command to perform the scan.
+4. Enter the command to perform the scan.
 ```
 db_nmap -Pn -sV -O <ip>
 ```
