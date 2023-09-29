@@ -22,7 +22,7 @@ use auxiliary/scanner/portscan/tcp
 
 5. We can use `curl` to see the `html` of the website. This way, we can potentially identify the service running in the web server. 
 
-6. Search the service name, find the exploit module and exploit the web server.
+6. Search the service name, find the exploit module and exploit the web server. Use `/` (root) as the `TARGETURI` if asked.
 
 7. After we get a `meterpreter` session, enter the `shell` session using `/bin/bash -i`.
 
