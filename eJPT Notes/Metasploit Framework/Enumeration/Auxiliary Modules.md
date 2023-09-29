@@ -9,7 +9,18 @@
 
 ### Pivoting with `MSF` Basics
 
+1. Start `msfconsole` with `postgresql` database service.
 
+2. Create a new workspace.
+
+3. Portscan with an auxiliary module.
+```
+use auxiliary/scanner/portsacn/tcp
+```
+
+4. In our case, port 80 is open, which indicates presence of a web server. 
+
+5. We 
 
 
 
