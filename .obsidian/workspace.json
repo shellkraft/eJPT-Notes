@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Enumeration/Auxiliary Modules.md",
+                "file": "eJPT Notes/Metasploit Framework/Enumeration/FTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Enumeration/Auxiliary Modules.md",
+                "file": "eJPT Notes/Metasploit Framework/Enumeration/FTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Enumeration/Auxiliary Modules.md",
+                "file": "eJPT Notes/Metasploit Framework/Enumeration/FTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Enumeration/Auxiliary Modules.md"
+                "file": "eJPT Notes/Metasploit Framework/Enumeration/FTP.md"
               }
             }
           },
@@ -172,9 +172,10 @@
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
     "eJPT Notes/Metasploit Framework/NMAP MSF/Import Scan.md",
+    "eJPT Notes/Metasploit Framework/Enumeration/FTP.md",
+    "eJPT Notes/Metasploit Framework/NMAP MSF/Port Scanning.md",
     "eJPT Notes/Metasploit Framework/Enumeration/Auxiliary Modules.md",
     "eJPT Notes/Metasploit Framework/Enumeration",
-    "eJPT Notes/Metasploit Framework/NMAP MSF/Port Scanning.md",
     "eJPT Notes/Metasploit Framework/Overview/PTES.md",
     "eJPT Notes/Metasploit Framework/Fundamentals/Workspaces.md",
     "eJPT Notes/Metasploit Framework/NMAP MSF",
@@ -214,7 +215,6 @@
     "eJPT Notes/Exploitation/Linux/Privilege Escalation",
     "eJPT Notes/Exploitation/Linux/SSH.md",
     "eJPT Notes/Exploitation/Linux/FTP.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Anon.md",
     "eJPT Notes/Exploitation/Linux",
     "eJPT Notes/Exploitation/Windows/Credential Dumping",
     "Untitled.canvas"
