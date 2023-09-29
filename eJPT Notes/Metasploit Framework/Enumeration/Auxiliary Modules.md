@@ -6,3 +6,10 @@
 + Auxiliary modules can be used during the information gathering phase of a penetration test as well as the post exploitation phase.
 
 + We can also use auxiliary modules to discover hosts and perform port scanning on a different network subnet after we have obtained initial access on a target system. 
+
+### Pivoting with `MSF` Basics
+
+
+
+
+
