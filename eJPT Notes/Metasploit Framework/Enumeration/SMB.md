@@ -1,15 +1,10 @@
-+ SMB (Server Message Block) is a network file sharing protocol that is used to
-facilitate the sharing of files and peripherals between computers on a local
-network (LAN).
++ SMB (Server Message Block) is a network file sharing protocol that is used to facilitate the sharing of files and peripherals between computers on a local network (LAN).
 
-+ SMB uses port 445 (TCP). However, originally, SMB ran on top of NetBIOS using
-port 139.
++ SMB uses port 445 (TCP). However, originally, SMB ran on top of NetBIOS using port 139.
 
-+ SAMBA is the Linux implementation of SMB, and allows Windows systems to
-access Linux shares and devices.
++ SAMBA is the Linux implementation of SMB, and allows Windows systems to access Linux shares and devices.
 
-+ We can utilize auxiliary modules to enumerate the SMB version, shares, users and
-perform a brute-force attack in order to identify users and passwords.
++ We can utilize auxiliary modules to enumerate the SMB version, shares, users and perform a brute-force attack in order to identify users and passwords.
 
 
 ### How to enumerate ?

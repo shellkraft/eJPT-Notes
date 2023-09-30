@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Enumeration/SMB.md",
+                "file": "eJPT Notes/Metasploit Framework/Enumeration/Web Server.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Enumeration/SMB.md",
+                "file": "eJPT Notes/Metasploit Framework/Enumeration/Web Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Enumeration/SMB.md",
+                "file": "eJPT Notes/Metasploit Framework/Enumeration/Web Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Enumeration/SMB.md"
+                "file": "eJPT Notes/Metasploit Framework/Enumeration/Web Server.md"
               }
             }
           },
@@ -171,8 +171,10 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
+    "eJPT Notes/Metasploit Framework/Enumeration/FTP.md",
+    "eJPT Notes/Metasploit Framework/Enumeration/Web Server.md",
     "eJPT Notes/Metasploit Framework/Enumeration/SMB.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
     "eJPT Notes/Metasploit Framework/Enumeration/SMB/Untitled.md",
     "eJPT Notes/Metasploit Framework/Enumeration/SMB",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Linux.md",
@@ -181,7 +183,6 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Bruteforce.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Intro.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md",
-    "eJPT Notes/Metasploit Framework/Enumeration/FTP.md",
     "eJPT Notes/Metasploit Framework/NMAP MSF/Import Scan.md",
     "eJPT Notes/Metasploit Framework/NMAP MSF/Port Scanning.md",
     "eJPT Notes/Metasploit Framework/Enumeration/Auxiliary Modules.md",
@@ -211,7 +212,6 @@
     "eJPT Notes/MEDIA/Pasted image 20230818005613.png",
     "eJPT Notes/MEDIA/Pasted image 20230818005259.png",
     "eJPT Notes/MEDIA/Pasted image 20230818004851.png",
-    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Heartbleed.md",
     "eJPT Notes/MEDIA",
     "Pasted image 20230926165638.png",
     "eJPT Notes/Network Based Attacks",
