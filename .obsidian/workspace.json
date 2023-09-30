@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
+                "file": "eJPT Notes/Metasploit Framework/Enumeration/SMB.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
+                "file": "eJPT Notes/Metasploit Framework/Enumeration/SMB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
+                "file": "eJPT Notes/Metasploit Framework/Enumeration/SMB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md"
+                "file": "eJPT Notes/Metasploit Framework/Enumeration/SMB.md"
               }
             }
           },
@@ -171,6 +171,10 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
+    "eJPT Notes/Metasploit Framework/Enumeration/SMB.md",
+    "eJPT Notes/Metasploit Framework/Enumeration/SMB/Untitled.md",
+    "eJPT Notes/Metasploit Framework/Enumeration/SMB",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Linux.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMBMap.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Bruteforce.md",
@@ -209,14 +213,10 @@
     "eJPT Notes/MEDIA/Pasted image 20230818004851.png",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Heartbleed.md",
     "eJPT Notes/MEDIA",
-    "eJPT Notes/Assessment Methodologies/Information Gathering/Types.md",
     "Pasted image 20230926165638.png",
-    "eJPT Notes/Exploitation/Linux/Password Hashes.md",
     "eJPT Notes/Network Based Attacks",
-    "eJPT Notes/Exploitation/Linux/Privilege Escalation/SUID Binaries.md",
     "eJPT Notes/Exploitation/Linux/Privilege Escalation",
     "eJPT Notes/Exploitation/Linux",
-    "eJPT Notes/Exploitation/Windows/Credential Dumping",
     "Untitled.canvas"
   ]
 }
