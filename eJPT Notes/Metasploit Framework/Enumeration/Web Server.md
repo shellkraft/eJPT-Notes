@@ -60,3 +60,4 @@ use auxiliary/scanner/http/http_login
 use auxiliary/scanner/http/apache_userdir_enum
 ```
 
+11. We can now use the usernames we found to bruteforce the passwords using `http_login` module.
