@@ -11,4 +11,8 @@
 
 1.  Start `postgresql` and `msfconsole`.
 
-2. Using `mysql_version`
+2. Using `mysql_version` to determine the `mysql` version.
+```
+use auxiliary/scanner/mysql/mysql_version
+```
+
