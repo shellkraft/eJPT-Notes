@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Misc Notes/Networking.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Anon.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Misc Notes/Networking.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Anon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Misc Notes/Networking.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Anon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Misc Notes/Networking.md"
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Anon.md"
               }
             }
           },
@@ -171,6 +171,10 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Bruteforce.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Intro.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Anon.md",
+    "eJPT Notes/Misc Notes/Networking.md",
     "eJPT Notes/Network Based Attacks/WireShark.md",
     "eJPT Notes/Network Based Attacks/WiFi Traffic Analysis.md",
     "eJPT Notes/Network Based Attacks/WiFi Filtering.md",
@@ -196,15 +200,11 @@
     "eJPT Notes/Metasploit Framework/Fundamentals/Workspaces.md",
     "eJPT Notes/Metasploit Framework/NMAP MSF",
     "eJPT Notes/Metasploit Framework/Fundamentals/MSFconsole.md",
-    "eJPT Notes/Metasploit Framework/Overview/Basics.md",
     "eJPT Notes/Metasploit Framework/Fundamentals",
-    "eJPT Notes/Metasploit Framework/Fundamentals/Install & Config.md",
     "eJPT Notes/Metasploit Framework/Overview",
-    "eJPT Notes/Metasploit Framework/Overview/MSF Architecture.md",
     "eJPT Notes/MEDIA/Pasted image 20230928014629.png",
     "eJPT Notes/MEDIA/Pasted image 20230928014518.png",
     "eJPT Notes/Metasploit Framework",
-    "eJPT Notes/Network Based Attacks/Tshark.md",
     "eJPT Notes/MEDIA/Pasted image 20230923004106.png",
     "eJPT Notes/MEDIA/Pasted image 20230921203638.png",
     "eJPT Notes/MEDIA/Pasted image 20230921203017.png",

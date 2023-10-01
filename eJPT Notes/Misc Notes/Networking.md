@@ -13,7 +13,7 @@ PTR - Resolves an IP address to a hostname
 
 - **DNS Zone Files** - Files that contain DNS records.
 
-# Get Network info
+### Get Network info
 
 - ### ``ifconfig`` alternative.
 
