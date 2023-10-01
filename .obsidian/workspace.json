@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Enumeration/Web Server.md",
+                "file": "eJPT Notes/Metasploit Framework/Enumeration/MySQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Enumeration/Web Server.md",
+                "file": "eJPT Notes/Metasploit Framework/Enumeration/MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Enumeration/Web Server.md",
+                "file": "eJPT Notes/Metasploit Framework/Enumeration/MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Enumeration/Web Server.md"
+                "file": "eJPT Notes/Metasploit Framework/Enumeration/MySQL.md"
               }
             }
           },
@@ -171,8 +171,9 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Metasploit Framework/Enumeration/FTP.md",
     "eJPT Notes/Metasploit Framework/Enumeration/Web Server.md",
+    "eJPT Notes/Metasploit Framework/Enumeration/MySQL.md",
+    "eJPT Notes/Metasploit Framework/Enumeration/FTP.md",
     "eJPT Notes/Metasploit Framework/Enumeration/SMB.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
     "eJPT Notes/Metasploit Framework/Enumeration/SMB/Untitled.md",
@@ -204,7 +205,6 @@
     "eJPT Notes/Network Based Attacks/WireShark.md",
     "eJPT Notes/Network Based Attacks/ARP Spoofing.md",
     "eJPT Notes/Network Based Attacks/Tshark.md",
-    "eJPT Notes/Misc Notes/Command line.md",
     "eJPT Notes/MEDIA/Pasted image 20230923004106.png",
     "eJPT Notes/MEDIA/Pasted image 20230921203638.png",
     "eJPT Notes/MEDIA/Pasted image 20230921203017.png",
