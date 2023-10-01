@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Enumeration/MySQL.md",
+                "file": "eJPT Notes/Misc Notes/Networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Enumeration/MySQL.md",
+                "file": "eJPT Notes/Misc Notes/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Enumeration/MySQL.md",
+                "file": "eJPT Notes/Misc Notes/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Enumeration/MySQL.md"
+                "file": "eJPT Notes/Misc Notes/Networking.md"
               }
             }
           },
@@ -171,8 +171,12 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Metasploit Framework/Enumeration/Web Server.md",
+    "eJPT Notes/Network Based Attacks/WireShark.md",
+    "eJPT Notes/Network Based Attacks/WiFi Traffic Analysis.md",
+    "eJPT Notes/Network Based Attacks/WiFi Filtering.md",
+    "eJPT Notes/Network Based Attacks/ARP Spoofing.md",
     "eJPT Notes/Metasploit Framework/Enumeration/MySQL.md",
+    "eJPT Notes/Metasploit Framework/Enumeration/Web Server.md",
     "eJPT Notes/Metasploit Framework/Enumeration/FTP.md",
     "eJPT Notes/Metasploit Framework/Enumeration/SMB.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
@@ -199,11 +203,7 @@
     "eJPT Notes/Metasploit Framework/Overview/MSF Architecture.md",
     "eJPT Notes/MEDIA/Pasted image 20230928014629.png",
     "eJPT Notes/MEDIA/Pasted image 20230928014518.png",
-    "eJPT Notes/Network Based Attacks/WiFi Filtering.md",
     "eJPT Notes/Metasploit Framework",
-    "eJPT Notes/Network Based Attacks/WiFi Traffic Analysis.md",
-    "eJPT Notes/Network Based Attacks/WireShark.md",
-    "eJPT Notes/Network Based Attacks/ARP Spoofing.md",
     "eJPT Notes/Network Based Attacks/Tshark.md",
     "eJPT Notes/MEDIA/Pasted image 20230923004106.png",
     "eJPT Notes/MEDIA/Pasted image 20230921203638.png",
