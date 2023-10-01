@@ -20,7 +20,21 @@
 use auxiliary/scanner/ssh/ssh_version
 ```
 
-5. Using `ssh_login` module to bruteforce password authentication in SSH.
+5. Use `ssh_login` module to bruteforce password authentication in SSH.
+```
+use auxiliary/scanner/ssh/ssh_login
+```
+
+6. Use `ssh_login_pubkey` module to bruteforce authentication with public key. 
 ```
 use auxiliary/scanner/ssh/ssh_login_pubkey
 ```
+
+7. A command shell session will be opened with successful bruteforce. We can interact it with, with `session <session-id>`
+
+8. If our initial bruteforce wasn't successful, we can use `ssh_enumusers` module to enumerate the users and narrow down the bruteforce. 
+```
+use auxiliary/scanner/ssh/ssh_enumusers
+```
+
+
