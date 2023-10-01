@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Enumeration/MySQL.md",
+                "file": "eJPT Notes/Metasploit Framework/Enumeration/SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Enumeration/MySQL.md",
+                "file": "eJPT Notes/Metasploit Framework/Enumeration/SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Enumeration/MySQL.md",
+                "file": "eJPT Notes/Metasploit Framework/Enumeration/SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Enumeration/MySQL.md"
+                "file": "eJPT Notes/Metasploit Framework/Enumeration/SSH.md"
               }
             }
           },
@@ -158,9 +158,11 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/Metasploit Framework/Enumeration/Web Server.md",
+    "eJPT Notes/Metasploit Framework/Enumeration/SSH.md",
+    "eJPT Notes/Metasploit Framework/Enumeration/MySQL.md",
     "eJPT Notes/Metasploit Framework/Overview/PTES.md",
     "eJPT Notes/Metasploit Framework/Overview/Basics.md",
-    "eJPT Notes/Metasploit Framework/Enumeration/MySQL.md",
     "eJPT Notes/Network Based Attacks/ARP Spoofing.md",
     "eJPT Notes/Metasploit Framework/Enumeration/SMB.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Anon.md",
@@ -170,7 +172,6 @@
     "eJPT Notes/Network Based Attacks/WireShark.md",
     "eJPT Notes/Network Based Attacks/WiFi Traffic Analysis.md",
     "eJPT Notes/Network Based Attacks/WiFi Filtering.md",
-    "eJPT Notes/Metasploit Framework/Enumeration/Web Server.md",
     "eJPT Notes/Metasploit Framework/Enumeration/FTP.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
     "eJPT Notes/Metasploit Framework/Enumeration/SMB/Untitled.md",
@@ -185,7 +186,6 @@
     "eJPT Notes/Metasploit Framework/NMAP MSF/Port Scanning.md",
     "eJPT Notes/Metasploit Framework/Enumeration/Auxiliary Modules.md",
     "eJPT Notes/Metasploit Framework/Enumeration",
-    "eJPT Notes/Metasploit Framework/Fundamentals/Workspaces.md",
     "eJPT Notes/Metasploit Framework/NMAP MSF",
     "eJPT Notes/Metasploit Framework/Fundamentals",
     "eJPT Notes/Metasploit Framework/Overview",
