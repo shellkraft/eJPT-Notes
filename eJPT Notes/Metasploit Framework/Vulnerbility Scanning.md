@@ -12,3 +12,17 @@ services, operating systems and web applications.
 + We will also be exploring the process of utilizing third party vulnerability scanning
 tools like Nessus and how we can integrate Nessus functionality in to the MSF.
 
+### How to perform vulnerability scanning ?
+
+1. Scan the subnet using `nmap`.
+
+2. Start `msfconsole`, set a global RHOST and create a workstation. 
+
+3. Perform a scan with `db_nmap`.
+```
+db_nmap -sS -sV -O <ip>
+```
+
+4. Use command `services`, to check the services that have been enumerated.
+
+5. 
