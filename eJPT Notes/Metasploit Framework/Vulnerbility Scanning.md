@@ -25,4 +25,11 @@ db_nmap -sS -sV -O <ip>
 
 4. Use command `services`, to check the services that have been enumerated.
 
-5. 
+5. `search` for exploits for the enumerated services. Check the exploit `info` to see if the version running in our target server is vulnerable to it.
+
+6. We can use `searchspoloit` along with `grep`to look for `metasploit` exploits
+```
+searchsploit "<service-name>" | grep -e "Metasploit"
+```
+
+7. 
