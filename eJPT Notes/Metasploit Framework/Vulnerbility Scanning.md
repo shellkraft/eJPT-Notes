@@ -32,4 +32,6 @@ db_nmap -sS -sV -O <ip>
 searchsploit "<service-name>" | grep -e "Metasploit"
 ```
 
-7. 
+7. Exploit the vulnerable service using the `metasploit` module.
+
+### 
