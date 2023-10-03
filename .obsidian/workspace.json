@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Vulnerbility Scanning.md",
+                "file": "eJPT Notes/Metasploit Framework/Vulnerability Scanning/Nessus MSF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Vulnerbility Scanning.md",
+                "file": "eJPT Notes/Metasploit Framework/Vulnerability Scanning/Nessus MSF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Vulnerbility Scanning.md",
+                "file": "eJPT Notes/Metasploit Framework/Vulnerability Scanning/Nessus MSF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Vulnerbility Scanning.md"
+                "file": "eJPT Notes/Metasploit Framework/Vulnerability Scanning/Nessus MSF.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/Metasploit Framework/Vulnerability Scanning/Basics.md",
+    "eJPT Notes/Metasploit Framework/Vulnerability Scanning/Nessus MSF.md",
+    "eJPT Notes/Metasploit Framework/Nessus MSF",
+    "eJPT Notes/Metasploit Framework/Vulnerability Scanning",
     "eJPT Notes/Metasploit Framework/Enumeration/SMTP.md",
-    "eJPT Notes/Metasploit Framework/Vulnerbility Scanning.md",
     "eJPT Notes/Metasploit Framework/Enumeration/SSH.md",
     "eJPT Notes/Metasploit Framework/Enumeration/HTTP.md",
     "eJPT Notes/Metasploit Framework/Enumeration/MySQL.md",
@@ -184,7 +187,6 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Bruteforce.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Intro.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md",
-    "eJPT Notes/Metasploit Framework/NMAP MSF/Import Scan.md",
     "eJPT Notes/Metasploit Framework/Enumeration",
     "eJPT Notes/Metasploit Framework/NMAP MSF",
     "eJPT Notes/Metasploit Framework/Fundamentals",
@@ -202,8 +204,6 @@
     "eJPT Notes/MEDIA",
     "Pasted image 20230926165638.png",
     "eJPT Notes/Network Based Attacks",
-    "eJPT Notes/Exploitation/Linux/Privilege Escalation",
-    "eJPT Notes/Exploitation/Linux",
     "Untitled.canvas"
   ]
 }
