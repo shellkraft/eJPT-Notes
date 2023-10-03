@@ -48,8 +48,16 @@ wget https://raw.githubusercontent.com/hahwul/metasploit-autopwn/master/db_autop
 
 2. Move `db_autopwn.rb` file into `metasploit` plugin directory.
 ```
-
+sudo mv db_autopwn.rb /usr/share/metasploit-framework/plugins
 ```
+
+3. Start `msfconsole`.
+
+4. Use command `load db_autopwn` to load the plugin.
+
+5. We can then type `db_autopwn` to check the help menu.
+
+6. We can enumerate the exploits for all the 
 
 
 
