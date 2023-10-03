@@ -34,4 +34,22 @@ searchsploit "<service-name>" | grep -e "Metasploit"
 
 7. Exploit the vulnerable service using the `metasploit` module.
 
-### 
+### Using `metasploit-autopwn` tool 
+
+- `Metasploit-autopwn` is a tool that automates the process of vulnerability scanning of each service running on the target machine. It provides the list of exploits the services in the target machine is vulnerable to.
+https://github.com/hahwul/metasploit-autopwn
+
+#### How to use ?
+
+1. Download the `db_autopwn.rb` file.
+```
+wget https://raw.githubusercontent.com/hahwul/metasploit-autopwn/master/db_autopwn.rb
+```
+
+2. Move `db_autopwn.rb` file into `metasploit` plugin directory.
+```
+
+```
+
+
+
