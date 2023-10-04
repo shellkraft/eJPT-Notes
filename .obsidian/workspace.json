@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Vulnerability Scanning/WMAP.md",
+                "file": "eJPT Notes/Metasploit Framework/Payloads/Automation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Vulnerability Scanning/WMAP.md",
+                "file": "eJPT Notes/Metasploit Framework/Payloads/Automation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Vulnerability Scanning/WMAP.md",
+                "file": "eJPT Notes/Metasploit Framework/Payloads/Automation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Vulnerability Scanning/WMAP.md"
+                "file": "eJPT Notes/Metasploit Framework/Payloads/Automation.md"
               }
             }
           },
@@ -158,8 +158,13 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Metasploit Framework/Vulnerability Scanning/Nessus MSF.md",
+    "eJPT Notes/Metasploit Framework/Payloads/Msfvenom.md",
+    "eJPT Notes/Metasploit Framework/Payloads/Automation.md",
+    "eJPT Notes/Metasploit Framework/Payloads/Injection.md",
+    "eJPT Notes/Metasploit Framework/Payloads/Client Side Attack.md",
     "eJPT Notes/Metasploit Framework/Vulnerability Scanning/WMAP.md",
+    "eJPT Notes/Metasploit Framework/Payloads",
+    "eJPT Notes/Metasploit Framework/Vulnerability Scanning/Nessus MSF.md",
     "eJPT Notes/Metasploit Framework/Vulnerability Scanning/Basics.md",
     "eJPT Notes/Metasploit Framework/Nessus MSF",
     "eJPT Notes/Metasploit Framework/Vulnerability Scanning",
@@ -183,10 +188,6 @@
     "eJPT Notes/Metasploit Framework/Enumeration/SMB/Untitled.md",
     "eJPT Notes/Metasploit Framework/Enumeration/SMB",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Linux.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMBMap.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Bruteforce.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Bruteforce.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Intro.md",
     "eJPT Notes/Metasploit Framework/Enumeration",
     "eJPT Notes/Metasploit Framework/NMAP MSF",
     "eJPT Notes/Metasploit Framework/Fundamentals",
@@ -203,7 +204,6 @@
     "eJPT Notes/MEDIA/Pasted image 20230818004851.png",
     "eJPT Notes/MEDIA",
     "Pasted image 20230926165638.png",
-    "eJPT Notes/Network Based Attacks",
     "Untitled.canvas"
   ]
 }
