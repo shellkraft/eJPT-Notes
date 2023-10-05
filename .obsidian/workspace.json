@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Payloads/Automation.md",
+                "file": "eJPT Notes/Metasploit Framework/Windows/HFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Payloads/Automation.md",
+                "file": "eJPT Notes/Metasploit Framework/Windows/HFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Payloads/Automation.md",
+                "file": "eJPT Notes/Metasploit Framework/Windows/HFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Payloads/Automation.md"
+                "file": "eJPT Notes/Metasploit Framework/Windows/HFS.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Metasploit Framework/Payloads/Msfvenom.md",
     "eJPT Notes/Metasploit Framework/Payloads/Automation.md",
+    "eJPT Notes/Metasploit Framework/Windows/HFS.md",
+    "eJPT Notes/Metasploit Framework/Windows",
+    "eJPT Notes/Metasploit Framework/Payloads/Msfvenom.md",
     "eJPT Notes/Metasploit Framework/Payloads/Injection.md",
     "eJPT Notes/Metasploit Framework/Payloads/Client Side Attack.md",
     "eJPT Notes/Metasploit Framework/Vulnerability Scanning/WMAP.md",
@@ -187,7 +189,6 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
     "eJPT Notes/Metasploit Framework/Enumeration/SMB/Untitled.md",
     "eJPT Notes/Metasploit Framework/Enumeration/SMB",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Linux.md",
     "eJPT Notes/Metasploit Framework/Enumeration",
     "eJPT Notes/Metasploit Framework/NMAP MSF",
     "eJPT Notes/Metasploit Framework/Fundamentals",
@@ -202,7 +203,6 @@
     "eJPT Notes/MEDIA/Pasted image 20230818005613.png",
     "eJPT Notes/MEDIA/Pasted image 20230818005259.png",
     "eJPT Notes/MEDIA/Pasted image 20230818004851.png",
-    "eJPT Notes/MEDIA",
     "Pasted image 20230926165638.png",
     "Untitled.canvas"
   ]
