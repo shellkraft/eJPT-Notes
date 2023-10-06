@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Linux/Samba.md",
+                "file": "eJPT Notes/Metasploit Framework/Linux/SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Linux/Samba.md",
+                "file": "eJPT Notes/Metasploit Framework/Linux/SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Linux/Samba.md",
+                "file": "eJPT Notes/Metasploit Framework/Linux/SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Linux/Samba.md"
+                "file": "eJPT Notes/Metasploit Framework/Linux/SSH.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Metasploit Framework/Linux/VSFTPD.md",
     "eJPT Notes/Metasploit Framework/Linux/Samba.md",
+    "eJPT Notes/Metasploit Framework/Linux/SSH.md",
+    "eJPT Notes/Metasploit Framework/Linux/VSFTPD.md",
     "eJPT Notes/Exploitation/Linux/FTP.md",
     "eJPT Notes/Metasploit Framework/Windows/Apache Tomcat.md",
     "eJPT Notes/Metasploit Framework/Linux",
@@ -188,7 +189,6 @@
     "eJPT Notes/Network Based Attacks/ARP Spoofing.md",
     "eJPT Notes/Metasploit Framework/Enumeration/SMB.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Anon.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Bruteforce.md",
     "eJPT Notes/Metasploit Framework/Enumeration/SMB",
     "eJPT Notes/Metasploit Framework/Enumeration",
     "eJPT Notes/Metasploit Framework/NMAP MSF",
