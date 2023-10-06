@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Windows/Apache Tomcat.md",
+                "file": "eJPT Notes/Metasploit Framework/Linux/FTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Windows/Apache Tomcat.md",
+                "file": "eJPT Notes/Metasploit Framework/Linux/FTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Windows/Apache Tomcat.md",
+                "file": "eJPT Notes/Metasploit Framework/Linux/FTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Windows/Apache Tomcat.md"
+                "file": "eJPT Notes/Metasploit Framework/Linux/FTP.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Exploitation/Windows/WinRM/Basics.md",
+    "eJPT Notes/Exploitation/Linux/FTP.md",
+    "eJPT Notes/Metasploit Framework/Linux/FTP.md",
     "eJPT Notes/Metasploit Framework/Windows/Apache Tomcat.md",
+    "eJPT Notes/Metasploit Framework/Linux",
+    "eJPT Notes/Exploitation/Windows/WinRM/Basics.md",
     "eJPT Notes/Metasploit Framework/Windows/WinRM.md",
     "eJPT Notes/Metasploit Framework/Windows/HFS.md",
     "eJPT Notes/Exploitation/Windows/WinRM/Exploiting WinRM.md",
@@ -186,8 +189,6 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Anon.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Bruteforce.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Intro.md",
-    "eJPT Notes/Misc Notes/Networking.md",
-    "eJPT Notes/Network Based Attacks/WireShark.md",
     "eJPT Notes/Metasploit Framework/Enumeration/SMB",
     "eJPT Notes/Metasploit Framework/Enumeration",
     "eJPT Notes/Metasploit Framework/NMAP MSF",
@@ -195,7 +196,6 @@
     "eJPT Notes/Metasploit Framework/Overview",
     "eJPT Notes/MEDIA/Pasted image 20230928014629.png",
     "eJPT Notes/MEDIA/Pasted image 20230928014518.png",
-    "eJPT Notes/Metasploit Framework",
     "eJPT Notes/MEDIA/Pasted image 20230923004106.png",
     "eJPT Notes/MEDIA/Pasted image 20230921203638.png",
     "eJPT Notes/MEDIA/Pasted image 20230921203017.png",
