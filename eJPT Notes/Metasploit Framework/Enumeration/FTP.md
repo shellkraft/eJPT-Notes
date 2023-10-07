@@ -1,4 +1,4 @@
-
+1
 + FTP (File Transfer Protocol) is a protocol that uses TCP port 21 and is used to facilitate file sharing between a server and client/clients.
 
 + It is also frequently used as a means of transferring files to and from the directory of a web server.
