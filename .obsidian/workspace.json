@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Basics.md",
+                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Basics.md",
+                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Basics.md",
+                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Basics.md"
+                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Basics.md"
               }
             }
           },
@@ -158,6 +158,9 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/Metasploit Framework/Post Exploitation/Basics.md",
+    "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Basics.md",
+    "eJPT Notes/Metasploit Framework/Post Exploitation/Windows",
     "eJPT Notes/Metasploit Framework/Enumeration/HTTP.md",
     "eJPT Notes/Metasploit Framework/Enumeration/MySQL.md",
     "eJPT Notes/Metasploit Framework/Linux/Samba.md",
@@ -180,11 +183,9 @@
     "eJPT Notes/Metasploit Framework/Vulnerability Scanning/Basics.md",
     "eJPT Notes/Metasploit Framework/Vulnerability Scanning/Nessus MSF.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/HTTP/HTTP IIS.md",
-    "eJPT Notes/Metasploit Framework/Post Exploitation/Basics.md",
     "eJPT Notes/Metasploit Framework/Linux/SMTP.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation",
     "eJPT Notes/Metasploit Framework/Linux/SSH.md",
-    "eJPT Notes/Exploitation/Linux/FTP.md",
     "eJPT Notes/Metasploit Framework/Linux",
     "eJPT Notes/Metasploit Framework/Windows",
     "eJPT Notes/Metasploit Framework/Payloads",
@@ -193,7 +194,6 @@
     "eJPT Notes/Metasploit Framework/Enumeration/SMB",
     "eJPT Notes/Metasploit Framework/Enumeration",
     "eJPT Notes/Metasploit Framework/NMAP MSF",
-    "eJPT Notes/Metasploit Framework/Fundamentals",
     "eJPT Notes/MEDIA/Pasted image 20230928014629.png",
     "eJPT Notes/MEDIA/Pasted image 20230928014518.png",
     "eJPT Notes/MEDIA/Pasted image 20230923004106.png",
