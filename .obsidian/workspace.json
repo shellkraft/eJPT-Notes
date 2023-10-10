@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/RDP.md",
+                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Keylogging.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/RDP.md",
+                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Keylogging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/RDP.md",
+                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Keylogging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/RDP.md"
+                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Keylogging.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Exploitation/Windows/RDP/Exploiting RDP.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/RDP.md",
+    "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Keylogging.md",
+    "eJPT Notes/Exploitation/Windows/RDP/Exploiting RDP.md",
     "eJPT Notes/Exploitation/Windows/RDP/Basics.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Persistence.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/PsExec.md",
@@ -184,7 +185,6 @@
     "eJPT Notes/Metasploit Framework/Enumeration/MySQL.md",
     "eJPT Notes/Metasploit Framework/Linux/Samba.md",
     "eJPT Notes/Metasploit Framework/Linux/VSFTPD.md",
-    "eJPT Notes/Metasploit Framework/NMAP MSF/Port Scanning.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation",
     "eJPT Notes/Metasploit Framework/Linux",
     "eJPT Notes/Metasploit Framework/Windows",
