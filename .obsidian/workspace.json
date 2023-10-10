@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Mimikatz.md",
+                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Persistence.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Mimikatz.md",
+                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Persistence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Mimikatz.md",
+                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Persistence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Mimikatz.md"
+                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Persistence.md"
               }
             }
           },
@@ -158,8 +158,15 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Incognito Module.md",
+    "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/PsExec.md",
+    "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Persistence.md",
+    "eJPT Notes/Exploitation/Windows/Credential Dumping/Mimikatz.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Mimikatz.md",
+    "eJPT Notes/Exploitation/Windows/SMB/PsExec.md",
+    "eJPT Notes/Exploitation/Windows/SMB/Eternal Blue.md",
+    "eJPT Notes/Exploitation/Windows/SMB/Basics.md",
+    "eJPT Notes/Exploitation/Windows/Credential Dumping/Pass-The-Hash.md",
+    "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Incognito Module.md",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/Token Impersonation.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/UAC Bypass.md",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/UACMe.md",
@@ -178,13 +185,6 @@
     "eJPT Notes/Metasploit Framework/NMAP MSF/Import Scan.md",
     "eJPT Notes/Metasploit Framework/Overview/Basics.md",
     "eJPT Notes/Metasploit Framework/Overview/PTES.md",
-    "eJPT Notes/Metasploit Framework/Overview/MSF Architecture.md",
-    "eJPT Notes/Metasploit Framework/Enumeration/Auxiliary Modules.md",
-    "eJPT Notes/Metasploit Framework/Enumeration/SMTP.md",
-    "eJPT Notes/Metasploit Framework/Enumeration/SSH.md",
-    "eJPT Notes/Metasploit Framework/Enumeration/SMB.md",
-    "eJPT Notes/Metasploit Framework/Payloads/Msfvenom.md",
-    "eJPT Notes/Metasploit Framework/Payloads/Client Side Attack.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation",
     "eJPT Notes/Metasploit Framework/Linux",
     "eJPT Notes/Metasploit Framework/Windows",
