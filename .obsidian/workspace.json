@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Event Logs.md",
+                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Pivoting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Event Logs.md",
+                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Pivoting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Event Logs.md",
+                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Pivoting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Event Logs.md"
+                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Pivoting.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Keylogging.md",
+    "eJPT Notes/MEDIA/Pasted image 20231011204806.png",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Event Logs.md",
+    "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Pivoting.md",
+    "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Keylogging.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/RDP.md",
     "eJPT Notes/Exploitation/Windows/RDP/Exploiting RDP.md",
     "eJPT Notes/Exploitation/Windows/RDP/Basics.md",
@@ -183,8 +185,6 @@
     "eJPT Notes/Metasploit Framework/Enumeration/FTP.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows",
     "eJPT Notes/Metasploit Framework/Enumeration/HTTP.md",
-    "eJPT Notes/Metasploit Framework/Enumeration/MySQL.md",
-    "eJPT Notes/Metasploit Framework/Linux/Samba.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation",
     "eJPT Notes/Metasploit Framework/Linux",
     "eJPT Notes/Metasploit Framework/Windows",
