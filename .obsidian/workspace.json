@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/Basics.md",
+                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/PrivEsc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/Basics.md",
+                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/PrivEsc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/Basics.md",
+                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/PrivEsc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/Basics.md"
+                "file": "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/PrivEsc.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Pivoting.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/Basics.md",
+    "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/PrivEsc.md",
+    "eJPT Notes/Metasploit Framework/Post Exploitation/Overview.md",
+    "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Pivoting.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Linux",
     "eJPT Notes/MEDIA/Pasted image 20231011204806.png",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Event Logs.md",
@@ -179,14 +181,12 @@
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/Token Impersonation.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/UAC Bypass.md",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/UACMe.md",
-    "eJPT Notes/Metasploit Framework/Post Exploitation/Overview.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Basic Modules.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Anon.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Intro.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Bruteforce.md",
     "eJPT Notes/Metasploit Framework/Enumeration/FTP.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows",
-    "eJPT Notes/Metasploit Framework/Enumeration/HTTP.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation",
     "eJPT Notes/Metasploit Framework/Linux",
     "eJPT Notes/Metasploit Framework/Windows",
