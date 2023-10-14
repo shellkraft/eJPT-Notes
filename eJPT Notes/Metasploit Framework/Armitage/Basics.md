@@ -23,4 +23,6 @@
 
 6. We can now click on the `Attacks` button on the top right and select `Find Attacks`to look for potential attack vectors.
 
-7. We can search 
+7. We can search for a particular exploit module and setup the options by clicking on it.
+
+8. 
