@@ -13,4 +13,14 @@
 
 1. We can start up Armitage by typing in `armiatge` in the terminal or opening it from the Kali app menu.
 
-2. It will open up a `metasploit` database connection box and will ask us if we want to connect to `metasploit` RPC server. 
+2. It will open up a `metasploit` database connection box and will ask us if we want to connect to `metasploit` RPC server, we'll click yes.
+
+3. We'll click on the `Hosts` option on the top left menu and click `Add Hosts` to add the hosts we want to scan or target. 
+
+4. A computer icon will show up, we can right click the icon and click `Scan`. This will perform a basic TCP port scan. 
+
+5. In the `Hosts` menu, there's also a drop down menu `Nmap Scan` with various NMAP scans which we can perform on the target.
+
+6. We can now click on the `Attacks` button on the top right and select `Find Attacks`to look for potential attack vectors.
+
+7. We can search 
