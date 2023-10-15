@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/WinRM/Basics.md",
+                "file": "eJPT Notes/Exploitation II/Banner Grabbing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/WinRM/Basics.md",
+                "file": "eJPT Notes/Exploitation II/Banner Grabbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/WinRM/Basics.md",
+                "file": "eJPT Notes/Exploitation II/Banner Grabbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/WinRM/Basics.md"
+                "file": "eJPT Notes/Exploitation II/Banner Grabbing.md"
               }
             }
           },
@@ -158,6 +158,10 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/Exploitation II/Basics.md",
+    "eJPT Notes/Exploitation II/Banner Grabbing.md",
+    "eJPT Notes/Exploitation/Windows/WinRM/Basics.md",
+    "eJPT Notes/Exploitation II",
     "eJPT Notes/Metasploit Framework/Armitage/Basics.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/Persistence.md",
     "eJPT Notes/Metasploit Framework/Armitage",
@@ -184,9 +188,6 @@
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Incognito Module.md",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/Token Impersonation.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/UAC Bypass.md",
-    "eJPT Notes/Exploitation/Windows/Privilege Escalation/UACMe.md",
-    "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Basic Modules.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Anon.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows",
     "eJPT Notes/Metasploit Framework/Post Exploitation",
     "eJPT Notes/Metasploit Framework/Linux",
@@ -194,7 +195,6 @@
     "eJPT Notes/Metasploit Framework/Payloads",
     "eJPT Notes/Metasploit Framework/Nessus MSF",
     "eJPT Notes/Metasploit Framework/Vulnerability Scanning",
-    "eJPT Notes/Metasploit Framework/Enumeration/SMB",
     "eJPT Notes/MEDIA/Pasted image 20230928014629.png",
     "eJPT Notes/MEDIA/Pasted image 20230928014518.png",
     "eJPT Notes/MEDIA/Pasted image 20230923004106.png",
