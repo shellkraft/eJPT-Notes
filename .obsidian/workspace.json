@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Armitage/Basics.md",
+                "file": "eJPT Notes/Exploitation/Windows/WinRM/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Armitage/Basics.md",
+                "file": "eJPT Notes/Exploitation/Windows/WinRM/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Armitage/Basics.md",
+                "file": "eJPT Notes/Exploitation/Windows/WinRM/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Metasploit Framework/Armitage/Basics.md"
+                "file": "eJPT Notes/Exploitation/Windows/WinRM/Basics.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/Persistence.md",
     "eJPT Notes/Metasploit Framework/Armitage/Basics.md",
+    "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/Persistence.md",
     "eJPT Notes/Metasploit Framework/Armitage",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/Hashdump.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/PrivEsc.md",
