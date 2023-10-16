@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation II/NSE.md",
+                "file": "eJPT Notes/Exploitation II/Public Exploits.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation II/NSE.md",
+                "file": "eJPT Notes/Exploitation II/Public Exploits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation II/NSE.md",
+                "file": "eJPT Notes/Exploitation II/Public Exploits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation II/NSE.md"
+                "file": "eJPT Notes/Exploitation II/Public Exploits.md"
               }
             }
           },
@@ -156,12 +156,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4dcc1ba589630ea1",
+  "active": "0d9bf5d53f9b688f",
   "lastOpenFiles": [
+    "eJPT Notes/Exploitation II/Vulnerability Scanning/Metasploit.md",
+    "eJPT Notes/Exploitation II/Public Exploits.md",
+    "eJPT Notes/Exploitation II/Vulnerability Scanning/NSE.md",
+    "eJPT Notes/Exploitation II/Vulnerability Scanning/Banner Grabbing.md",
+    "eJPT Notes/Exploitation II/Vulnerability Scanning",
     "eJPT Notes/Exploitation/Linux/ShellShock.md",
-    "eJPT Notes/Exploitation II/NSE.md",
     "eJPT Notes/Exploitation II/Basics.md",
-    "eJPT Notes/Exploitation II/Banner Grabbing.md",
     "eJPT Notes/Exploitation/Windows/WinRM/Basics.md",
     "eJPT Notes/Exploitation II",
     "eJPT Notes/Metasploit Framework/Armitage/Basics.md",
@@ -186,15 +189,12 @@
     "eJPT Notes/Exploitation/Windows/SMB/PsExec.md",
     "eJPT Notes/Exploitation/Windows/SMB/Eternal Blue.md",
     "eJPT Notes/Exploitation/Windows/SMB/Basics.md",
-    "eJPT Notes/Exploitation/Windows/Credential Dumping/Pass-The-Hash.md",
-    "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Incognito Module.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows",
     "eJPT Notes/Metasploit Framework/Post Exploitation",
     "eJPT Notes/Metasploit Framework/Linux",
     "eJPT Notes/Metasploit Framework/Windows",
     "eJPT Notes/Metasploit Framework/Payloads",
     "eJPT Notes/Metasploit Framework/Nessus MSF",
-    "eJPT Notes/Metasploit Framework/Vulnerability Scanning",
     "eJPT Notes/MEDIA/Pasted image 20230928014629.png",
     "eJPT Notes/MEDIA/Pasted image 20230928014518.png",
     "eJPT Notes/MEDIA/Pasted image 20230923004106.png",
