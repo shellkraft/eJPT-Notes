@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Shells/Bind Shells.md",
+                "file": "eJPT Notes/Exploitation II/Shells/Reverse Shells.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Shells/Bind Shells.md",
+                "file": "eJPT Notes/Exploitation II/Shells/Reverse Shells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Shells/Bind Shells.md",
+                "file": "eJPT Notes/Exploitation II/Shells/Reverse Shells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Shells/Bind Shells.md"
+                "file": "eJPT Notes/Exploitation II/Shells/Reverse Shells.md"
               }
             }
           },
@@ -159,8 +159,10 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Exploitation II/Shells/Netcat.md",
+    "eJPT Notes/MEDIA/Pasted image 20231018011642.png",
     "eJPT Notes/Exploitation II/Shells/Bind Shells.md",
+    "eJPT Notes/Exploitation II/Shells/Reverse Shells.md",
+    "eJPT Notes/Exploitation II/Shells/Netcat.md",
     "eJPT Notes/MEDIA/Pasted image 20231018001454.png",
     "eJPT Notes/Exploitation II/Exploits/Compiling Exploits.md",
     "eJPT Notes/Exploitation II/Shells",
@@ -191,7 +193,6 @@
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Keylogging.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/RDP.md",
     "eJPT Notes/Exploitation/Windows/RDP/Exploiting RDP.md",
-    "eJPT Notes/Exploitation/Windows/RDP/Basics.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows",
     "eJPT Notes/Metasploit Framework/Post Exploitation",
     "eJPT Notes/Metasploit Framework/Linux",
