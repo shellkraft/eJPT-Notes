@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Frameworks/PowerShell-Empire.md",
+                "file": "eJPT Notes/Exploitation II/Windows/Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Frameworks/PowerShell-Empire.md",
+                "file": "eJPT Notes/Exploitation II/Windows/Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Frameworks/PowerShell-Empire.md",
+                "file": "eJPT Notes/Exploitation II/Windows/Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Frameworks/PowerShell-Empire.md"
+                "file": "eJPT Notes/Exploitation II/Windows/Enumeration.md"
               }
             }
           },
@@ -159,8 +159,11 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Exploitation II/Frameworks/MSF.md",
+    "eJPT Notes/Exploitation II/Windows/Black Box Pentest.md",
+    "eJPT Notes/Exploitation II/Windows/Enumeration.md",
     "eJPT Notes/Exploitation II/Frameworks/PowerShell-Empire.md",
+    "eJPT Notes/Exploitation II/Windows",
+    "eJPT Notes/Exploitation II/Frameworks/MSF.md",
     "eJPT Notes/Metasploit Framework/Overview/MSF Architecture.md",
     "eJPT Notes/Metasploit Framework/Overview/Basics.md",
     "eJPT Notes/Metasploit Framework/Armitage/Basics.md",
@@ -191,13 +194,10 @@
     "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/PrivEsc.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/Basics.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Overview.md",
-    "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Pivoting.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Linux",
     "eJPT Notes/MEDIA/Pasted image 20231011204806.png",
-    "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Event Logs.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows",
     "eJPT Notes/Metasploit Framework/Post Exploitation",
-    "eJPT Notes/Metasploit Framework/Linux",
     "eJPT Notes/MEDIA/Pasted image 20230928014629.png",
     "eJPT Notes/MEDIA/Pasted image 20230928014518.png",
     "eJPT Notes/MEDIA/Pasted image 20230923004106.png",
