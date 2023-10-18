@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Shells/Reverse Shells.md",
+                "file": "eJPT Notes/Exploitation II/Frameworks/MSF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Shells/Reverse Shells.md",
+                "file": "eJPT Notes/Exploitation II/Frameworks/MSF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Shells/Reverse Shells.md",
+                "file": "eJPT Notes/Exploitation II/Frameworks/MSF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Shells/Reverse Shells.md"
+                "file": "eJPT Notes/Exploitation II/Frameworks/MSF.md"
               }
             }
           },
@@ -157,11 +157,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d9bf5d53f9b688f",
+  "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/Metasploit Framework/Overview/MSF Architecture.md",
+    "eJPT Notes/Metasploit Framework/Overview/Basics.md",
+    "eJPT Notes/Exploitation II/Frameworks/MSF.md",
+    "eJPT Notes/Metasploit Framework/Armitage/Basics.md",
+    "eJPT Notes/Exploitation II/Shells/Reverse Shells.md",
     "eJPT Notes/Exploitation II/Frameworks",
     "eJPT Notes/Exploitation II/Shells/Bind Shells.md",
-    "eJPT Notes/Exploitation II/Shells/Reverse Shells.md",
     "eJPT Notes/MEDIA/Pasted image 20231018011642.png",
     "eJPT Notes/Exploitation II/Shells/Netcat.md",
     "eJPT Notes/MEDIA/Pasted image 20231018001454.png",
@@ -180,7 +184,6 @@
     "eJPT Notes/Exploitation/Linux/ShellShock.md",
     "eJPT Notes/Exploitation/Windows/WinRM/Basics.md",
     "eJPT Notes/Exploitation II",
-    "eJPT Notes/Metasploit Framework/Armitage/Basics.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/Persistence.md",
     "eJPT Notes/Metasploit Framework/Armitage",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/Hashdump.md",
@@ -192,12 +195,9 @@
     "eJPT Notes/MEDIA/Pasted image 20231011204806.png",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Event Logs.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Keylogging.md",
-    "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/RDP.md",
-    "eJPT Notes/Exploitation/Windows/RDP/Exploiting RDP.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows",
     "eJPT Notes/Metasploit Framework/Post Exploitation",
     "eJPT Notes/Metasploit Framework/Linux",
-    "eJPT Notes/Metasploit Framework/Windows",
     "eJPT Notes/MEDIA/Pasted image 20230928014629.png",
     "eJPT Notes/MEDIA/Pasted image 20230928014518.png",
     "eJPT Notes/MEDIA/Pasted image 20230923004106.png",
