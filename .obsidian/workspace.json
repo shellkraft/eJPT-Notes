@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Exploits/Public Exploits.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Exploits/Public Exploits.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Exploits/Public Exploits.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Exploits/Public Exploits.md"
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Intro.md"
               }
             }
           },
@@ -159,10 +159,14 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Bruteforce.md",
+    "eJPT Notes/Assessment Methodologies/Information Gathering/Passive.md",
+    "eJPT Notes/Exploitation II/Shells/Netcat.md",
+    "eJPT Notes/Exploitation II/Shells/Reverse Shells.md",
+    "eJPT Notes/Exploitation II/Exploits/Public Exploits.md",
     "eJPT Notes/Exploitation II/Exploits/Fixing Exploits.md",
     "eJPT Notes/Exploitation II/Exploits/Compiling Exploits.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Intro.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Bruteforce.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Anon.md",
     "eJPT Notes/Exploitation/Windows/Microsoft IIS/Metasploit.md",
     "eJPT Notes/Exploitation II/Windows/Enumeration.md",
@@ -173,14 +177,11 @@
     "eJPT Notes/Metasploit Framework/Overview/MSF Architecture.md",
     "eJPT Notes/Metasploit Framework/Overview/Basics.md",
     "eJPT Notes/Metasploit Framework/Armitage/Basics.md",
-    "eJPT Notes/Exploitation II/Shells/Reverse Shells.md",
     "eJPT Notes/Exploitation II/Frameworks",
     "eJPT Notes/Exploitation II/Shells/Bind Shells.md",
     "eJPT Notes/MEDIA/Pasted image 20231018011642.png",
-    "eJPT Notes/Exploitation II/Shells/Netcat.md",
     "eJPT Notes/MEDIA/Pasted image 20231018001454.png",
     "eJPT Notes/Exploitation II/Shells",
-    "eJPT Notes/Exploitation II/Exploits/Public Exploits.md",
     "eJPT Notes/Exploitation II/Exploits/SearchSploit.md",
     "eJPT Notes/Exploitation II/Exploits",
     "eJPT Notes/Exploitation II/Untitled 1.md",
@@ -192,7 +193,6 @@
     "eJPT Notes/Exploitation/Linux/ShellShock.md",
     "eJPT Notes/Exploitation/Windows/WinRM/Basics.md",
     "eJPT Notes/Exploitation II",
-    "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/Persistence.md",
     "eJPT Notes/Metasploit Framework/Armitage",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Linux",
     "eJPT Notes/MEDIA/Pasted image 20231011204806.png",
