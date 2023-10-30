@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Windows/Black Box Pentest.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Windows/Black Box Pentest.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Windows/Black Box Pentest.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Windows/Black Box Pentest.md"
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Intro.md"
               }
             }
           },
@@ -159,6 +159,9 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Bruteforce.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Anon.md",
+    "eJPT Notes/Exploitation/Windows/Microsoft IIS/Metasploit.md",
     "eJPT Notes/Exploitation II/Windows/Enumeration.md",
     "eJPT Notes/Exploitation II/Windows/Black Box Pentest.md",
     "eJPT Notes/Exploitation II/Frameworks/PowerShell-Empire.md",
@@ -191,9 +194,6 @@
     "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/Persistence.md",
     "eJPT Notes/Metasploit Framework/Armitage",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/Hashdump.md",
-    "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/PrivEsc.md",
-    "eJPT Notes/Metasploit Framework/Post Exploitation/Linux/Basics.md",
-    "eJPT Notes/Metasploit Framework/Post Exploitation/Overview.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Linux",
     "eJPT Notes/MEDIA/Pasted image 20231011204806.png",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows",
