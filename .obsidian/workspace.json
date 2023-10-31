@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Windows/Enumeration.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Windows/Enumeration.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Windows/Enumeration.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Windows/Enumeration.md"
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Basics.md"
               }
             }
           },
@@ -159,10 +159,15 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Exploitation II/Windows/PsExec.md",
-    "eJPT Notes/Exploitation/Windows/Microsoft IIS/WebDAV.md",
-    "eJPT Notes/Exploitation II/Windows/Black Box Pentest.md",
+    "eJPT Notes/Exploitation II/Windows/phpmyadmin.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Basics.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MS SQL MSF.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Bruteforce.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Enum.md",
     "eJPT Notes/Exploitation II/Windows/Enumeration.md",
+    "eJPT Notes/Exploitation II/Windows/PsExec.md",
+    "eJPT Notes/Exploitation II/Windows/Black Box Pentest.md",
+    "eJPT Notes/Exploitation/Windows/Microsoft IIS/WebDAV.md",
     "eJPT Notes/Exploitation/Windows/Credential Dumping/Pass-The-Hash.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/PsExec.md",
     "eJPT Notes/Exploitation/Windows/Credential Dumping/Config Files.md",
@@ -174,17 +179,12 @@
     "eJPT Notes/Exploitation II/Windows/Tips.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Intro.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Bruteforce.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Bruteforce.md",
     "eJPT Notes/Exploitation II/Basics.md",
     "eJPT Notes/Exploitation II/Vulnerability Scanning/NSE.md",
     "eJPT Notes/Exploitation II/Vulnerability Scanning/Metasploit.md",
     "eJPT Notes/Exploitation II/Vulnerability Scanning/Banner Grabbing.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Intro.md",
-    "eJPT Notes/Assessment Methodologies/Information Gathering/Passive.md",
-    "eJPT Notes/Exploitation II/Shells/Netcat.md",
-    "eJPT Notes/Exploitation II/Shells/Reverse Shells.md",
-    "eJPT Notes/Exploitation II/Exploits/Public Exploits.md",
     "eJPT Notes/Exploitation II/Windows",
     "eJPT Notes/Exploitation II/Frameworks",
     "eJPT Notes/MEDIA/Pasted image 20231018011642.png",

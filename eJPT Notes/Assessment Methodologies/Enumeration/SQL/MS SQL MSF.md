@@ -6,6 +6,7 @@
 use auxiliary/scanner/mssql/mssql_login
 ```
 
+- Password list - `/usr/share/metasploit-framework/data/wordlists/unix_passwords.txt`
 ### More enumeration
 
 ```
