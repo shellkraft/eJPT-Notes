@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Basics.md",
+                "file": "eJPT Notes/Exploitation II/Windows/phpmyadmin.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Basics.md",
+                "file": "eJPT Notes/Exploitation II/Windows/phpmyadmin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Basics.md",
+                "file": "eJPT Notes/Exploitation II/Windows/phpmyadmin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Basics.md"
+                "file": "eJPT Notes/Exploitation II/Windows/phpmyadmin.md"
               }
             }
           },
@@ -159,10 +159,10 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Exploitation II/Windows/phpmyadmin.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Basics.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MS SQL MSF.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Bruteforce.md",
+    "eJPT Notes/Exploitation II/Windows/phpmyadmin.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Enum.md",
     "eJPT Notes/Exploitation II/Windows/Enumeration.md",
     "eJPT Notes/Exploitation II/Windows/PsExec.md",
