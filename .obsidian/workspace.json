@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Black Box PenTest/Enumeration.md",
+                "file": "eJPT Notes/Metasploit Framework/Payloads/Msfvenom.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "simple",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Black Box PenTest/Enumeration.md",
+                "file": "eJPT Notes/Metasploit Framework/Payloads/Msfvenom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Black Box PenTest/Enumeration.md",
+                "file": "eJPT Notes/Metasploit Framework/Payloads/Msfvenom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Black Box PenTest/Enumeration.md"
+                "file": "eJPT Notes/Metasploit Framework/Payloads/Msfvenom.md"
               }
             }
           },
@@ -157,10 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4dcc1ba589630ea1",
+  "active": "53dbdc413f71525a",
   "lastOpenFiles": [
-    "eJPT Notes/Exploitation II/Black Box PenTest/Basics.md",
+    "eJPT Notes/Metasploit Framework/Overview/PTES.md",
+    "eJPT Notes/Metasploit Framework/Overview/MSF Architecture.md",
+    "eJPT Notes/Metasploit Framework/Overview/Basics.md",
+    "eJPT Notes/Exploitation II/Vulnerability Scanning/Metasploit.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Enumeration.md",
+    "eJPT Notes/Exploitation II/Black Box PenTest/Basics.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux",
     "eJPT Notes/Exploitation II/Black Box PenTest/Windows/phpMyAdmin.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Windows/PsExec.md",
@@ -183,9 +188,6 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Intro.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Bruteforce.md",
-    "eJPT Notes/Exploitation II/Basics.md",
-    "eJPT Notes/Exploitation II/Vulnerability Scanning/NSE.md",
-    "eJPT Notes/Exploitation II/Vulnerability Scanning/Metasploit.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Windows",
     "eJPT Notes/Exploitation II/Frameworks",
     "eJPT Notes/MEDIA/Pasted image 20231018011642.png",
