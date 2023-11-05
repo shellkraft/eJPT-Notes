@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Misc Notes/Networking.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Misc Notes/Networking.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Misc Notes/Networking.md",
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Misc Notes/Networking.md"
+                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md"
               }
             }
           },
@@ -159,35 +159,35 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Intro.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Bruteforce.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MS SQL MSF.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Enum.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Bruteforce.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Basics.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MS SQL Nmap.md",
+    "eJPT Notes/Assessment Methodologies/Information Gathering/Active.md",
+    "eJPT Notes/Assessment Methodologies/Footprinting and Scanning/Network Mapping.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/HTTP/HTTP Apache.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Linux.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMBMap.md",
+    "eJPT Notes/Misc Notes/Networking.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/SAMBA.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/PHP.md",
     "eJPT Notes/Exploitation/Linux/ShellShock.md",
     "eJPT Notes/Exploitation II/Vulnerability Scanning/NSE.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/VSFTPD II.md",
-    "eJPT Notes/Misc Notes/Networking.md",
     "eJPT Notes/Misc Notes/Command line.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Enumeration.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Basics.md",
     "eJPT Notes/Exploitation/Windows/Microsoft IIS/WebDAV.md",
     "eJPT Notes/Exploitation/Windows/Microsoft IIS/Metasploit.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/HTTP/HTTP IIS.md",
-    "eJPT Notes/Metasploit Framework/Linux/VSFTPD.md",
-    "eJPT Notes/Metasploit Framework/Linux/VSFTPD II.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/vsftpd",
-    "eJPT Notes/Metasploit Framework/Payloads/Msfvenom.md",
-    "eJPT Notes/Metasploit Framework/Overview/PTES.md",
-    "eJPT Notes/Metasploit Framework/Overview/MSF Architecture.md",
-    "eJPT Notes/Metasploit Framework/Overview/Basics.md",
-    "eJPT Notes/Exploitation II/Vulnerability Scanning/Metasploit.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux",
-    "eJPT Notes/Exploitation II/Black Box PenTest/Windows/phpMyAdmin.md",
-    "eJPT Notes/Exploitation II/Black Box PenTest/Windows/PsExec.md",
     "eJPT Notes/Exploitation II/Black Box PenTest",
-    "eJPT Notes/Exploitation II/Black Box Pentest.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Basics.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MS SQL MSF.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/FTP/FTP Bruteforce.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Enum.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Windows",
     "eJPT Notes/Exploitation II/Frameworks",
     "eJPT Notes/MEDIA/Pasted image 20231018011642.png",
