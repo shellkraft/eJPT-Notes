@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md",
+                "file": "eJPT Notes/Exploitation II/Black Box PenTest/Linux/SAMBA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,25 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md",
+                "file": "eJPT Notes/Exploitation II/Black Box PenTest/Linux/SAMBA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "c5231ba908590456",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -125,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md"
+                "file": "eJPT Notes/Exploitation II/Black Box PenTest/Linux/SAMBA.md"
               }
             }
           },
@@ -139,8 +127,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,11 +144,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4dcc1ba589630ea1",
+  "active": "fad3ab9ca89bff7b",
   "lastOpenFiles": [
-    "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Intro.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Bruteforce.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Intro.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MS SQL MSF.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Enum.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Bruteforce.md",
