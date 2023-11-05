@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Black Box PenTest/Linux/SAMBA.md",
+                "file": "eJPT Notes/Exploitation II/Obfuscation/Shellter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Black Box PenTest/Linux/SAMBA.md",
+                "file": "eJPT Notes/Exploitation II/Obfuscation/Shellter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Black Box PenTest/Linux/SAMBA.md"
+                "file": "eJPT Notes/Exploitation II/Obfuscation/Shellter.md"
               }
             }
           },
@@ -144,8 +144,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fad3ab9ca89bff7b",
+  "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/Exploitation II/Obfuscation/Basics.md",
+    "eJPT Notes/Exploitation II/Obfuscation/Shellter.md",
+    "eJPT Notes/Exploitation II/Black Box PenTest/Linux/SAMBA.md",
+    "eJPT Notes/Exploitation II/Obfuscation",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Bruteforce.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Intro.md",
@@ -161,7 +165,6 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Linux.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMBMap.md",
     "eJPT Notes/Misc Notes/Networking.md",
-    "eJPT Notes/Exploitation II/Black Box PenTest/Linux/SAMBA.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/PHP.md",
     "eJPT Notes/Exploitation/Linux/ShellShock.md",
     "eJPT Notes/Exploitation II/Vulnerability Scanning/NSE.md",
@@ -170,8 +173,6 @@
     "eJPT Notes/Exploitation II/Black Box PenTest/Enumeration.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Basics.md",
     "eJPT Notes/Exploitation/Windows/Microsoft IIS/WebDAV.md",
-    "eJPT Notes/Exploitation/Windows/Microsoft IIS/Metasploit.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/HTTP/HTTP IIS.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/vsftpd",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux",
     "eJPT Notes/Exploitation II/Black Box PenTest",
@@ -183,7 +184,6 @@
     "eJPT Notes/Exploitation II/Exploits",
     "eJPT Notes/Exploitation II/Vulnerability Scanning",
     "eJPT Notes/Exploitation II",
-    "eJPT Notes/Metasploit Framework/Armitage",
     "eJPT Notes/MEDIA/Pasted image 20231011204806.png",
     "eJPT Notes/MEDIA/Pasted image 20230928014629.png",
     "eJPT Notes/MEDIA/Pasted image 20230928014518.png",
