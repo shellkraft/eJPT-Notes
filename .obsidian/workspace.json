@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Obfuscation/Shellter.md",
+                "file": "eJPT Notes/Exploitation II/Obfuscation/PowerShell Code.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Obfuscation/Shellter.md",
+                "file": "eJPT Notes/Exploitation II/Obfuscation/PowerShell Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Obfuscation/Shellter.md"
+                "file": "eJPT Notes/Exploitation II/Obfuscation/PowerShell Code.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
     "eJPT Notes/Exploitation II/Obfuscation/Basics.md",
+    "eJPT Notes/Exploitation II/Obfuscation/PowerShell Code.md",
     "eJPT Notes/Exploitation II/Obfuscation/Shellter.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/SAMBA.md",
     "eJPT Notes/Exploitation II/Obfuscation",
@@ -172,7 +173,6 @@
     "eJPT Notes/Misc Notes/Command line.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Enumeration.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Basics.md",
-    "eJPT Notes/Exploitation/Windows/Microsoft IIS/WebDAV.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/vsftpd",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux",
     "eJPT Notes/Exploitation II/Black Box PenTest",
