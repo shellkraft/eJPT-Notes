@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Black Box PenTest/Linux/SAMBA.md",
+                "file": "eJPT Notes/Misc Notes/Networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Black Box PenTest/Linux/SAMBA.md",
+                "file": "eJPT Notes/Misc Notes/Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Black Box PenTest/Linux/SAMBA.md",
+                "file": "eJPT Notes/Misc Notes/Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Black Box PenTest/Linux/SAMBA.md"
+                "file": "eJPT Notes/Misc Notes/Networking.md"
               }
             }
           },
@@ -159,8 +159,8 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Exploitation II/Black Box PenTest/Linux/PHP.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/SAMBA.md",
+    "eJPT Notes/Exploitation II/Black Box PenTest/Linux/PHP.md",
     "eJPT Notes/Exploitation/Linux/ShellShock.md",
     "eJPT Notes/Exploitation II/Vulnerability Scanning/NSE.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/VSFTPD II.md",
