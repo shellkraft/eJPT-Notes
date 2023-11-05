@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Obfuscation/PowerShell Code.md",
+                "file": "eJPT Notes/Post Exploitation/Methodology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Obfuscation/PowerShell Code.md",
+                "file": "eJPT Notes/Post Exploitation/Methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation II/Obfuscation/PowerShell Code.md"
+                "file": "eJPT Notes/Post Exploitation/Methodology.md"
               }
             }
           },
@@ -144,11 +144,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d9bf5d53f9b688f",
+  "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/MEDIA/Pasted image 20231105232754.png",
+    "eJPT Notes/Post Exploitation/Introduction.md",
+    "eJPT Notes/Post Exploitation/Methodology.md",
+    "eJPT Notes/MEDIA/Pasted image 20231105232436.png",
+    "eJPT Notes/Exploitation II/Obfuscation/PowerShell Code.md",
     "eJPT Notes/Post Exploitation",
     "eJPT Notes/Exploitation II/Obfuscation/Basics.md",
-    "eJPT Notes/Exploitation II/Obfuscation/PowerShell Code.md",
     "eJPT Notes/Exploitation II/Obfuscation/Shellter.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/SAMBA.md",
     "eJPT Notes/Exploitation II/Obfuscation",
@@ -171,8 +175,6 @@
     "eJPT Notes/Exploitation/Linux/ShellShock.md",
     "eJPT Notes/Exploitation II/Vulnerability Scanning/NSE.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/VSFTPD II.md",
-    "eJPT Notes/Misc Notes/Command line.md",
-    "eJPT Notes/Exploitation II/Black Box PenTest/Enumeration.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/vsftpd",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux",
     "eJPT Notes/Exploitation II/Black Box PenTest",
@@ -183,7 +185,6 @@
     "eJPT Notes/Exploitation II/Shells",
     "eJPT Notes/Exploitation II/Exploits",
     "eJPT Notes/Exploitation II/Vulnerability Scanning",
-    "eJPT Notes/Exploitation II",
     "eJPT Notes/MEDIA/Pasted image 20231011204806.png",
     "eJPT Notes/MEDIA/Pasted image 20230928014629.png",
     "eJPT Notes/MEDIA/Pasted image 20230928014518.png",
@@ -191,7 +192,6 @@
     "eJPT Notes/MEDIA/Pasted image 20230921203638.png",
     "eJPT Notes/MEDIA/Pasted image 20230921203017.png",
     "eJPT Notes/MEDIA/heartbleed-bug-diagram.png",
-    "eJPT Notes/MEDIA/Pasted image 20230818005613.png",
     "Untitled.canvas"
   ]
 }
