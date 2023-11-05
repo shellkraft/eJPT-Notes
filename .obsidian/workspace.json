@@ -144,8 +144,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4dcc1ba589630ea1",
+  "active": "0d9bf5d53f9b688f",
   "lastOpenFiles": [
+    "eJPT Notes/Post Exploitation",
     "eJPT Notes/Exploitation II/Obfuscation/Basics.md",
     "eJPT Notes/Exploitation II/Obfuscation/PowerShell Code.md",
     "eJPT Notes/Exploitation II/Obfuscation/Shellter.md",
@@ -172,7 +173,6 @@
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/VSFTPD II.md",
     "eJPT Notes/Misc Notes/Command line.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Enumeration.md",
-    "eJPT Notes/Exploitation II/Black Box PenTest/Basics.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/vsftpd",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux",
     "eJPT Notes/Exploitation II/Black Box PenTest",
