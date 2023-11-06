@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Methodology.md",
+                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Windows/System Information.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Methodology.md",
+                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Windows/System Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Methodology.md"
+                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Windows/System Information.md"
               }
             }
           },
@@ -124,6 +124,18 @@
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "a8e3af9c4f511bc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Windows/System Information.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -146,9 +158,12 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/Post Exploitation/Methodology.md",
+    "eJPT Notes/Post Exploitation/Local Enumeration/Windows/System Information.md",
+    "eJPT Notes/Post Exploitation/Local Enumeration/Windows",
+    "eJPT Notes/Post Exploitation/Local Enumeration",
     "eJPT Notes/MEDIA/Pasted image 20231105232754.png",
     "eJPT Notes/Post Exploitation/Introduction.md",
-    "eJPT Notes/Post Exploitation/Methodology.md",
     "eJPT Notes/MEDIA/Pasted image 20231105232436.png",
     "eJPT Notes/Exploitation II/Obfuscation/PowerShell Code.md",
     "eJPT Notes/Post Exploitation",
@@ -183,15 +198,12 @@
     "eJPT Notes/MEDIA/Pasted image 20231018011642.png",
     "eJPT Notes/MEDIA/Pasted image 20231018001454.png",
     "eJPT Notes/Exploitation II/Shells",
-    "eJPT Notes/Exploitation II/Exploits",
-    "eJPT Notes/Exploitation II/Vulnerability Scanning",
     "eJPT Notes/MEDIA/Pasted image 20231011204806.png",
     "eJPT Notes/MEDIA/Pasted image 20230928014629.png",
     "eJPT Notes/MEDIA/Pasted image 20230928014518.png",
     "eJPT Notes/MEDIA/Pasted image 20230923004106.png",
     "eJPT Notes/MEDIA/Pasted image 20230921203638.png",
     "eJPT Notes/MEDIA/Pasted image 20230921203017.png",
-    "eJPT Notes/MEDIA/heartbleed-bug-diagram.png",
     "Untitled.canvas"
   ]
 }
