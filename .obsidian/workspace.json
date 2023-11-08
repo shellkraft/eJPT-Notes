@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Windows/Network Info.md",
+                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Windows/Processes & Services.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Windows/Network Info.md",
+                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Windows/Processes & Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Windows/Network Info.md"
+                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Windows/Processes & Services.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Windows/Network Info.md",
+                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Windows/Processes & Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,9 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Post Exploitation/Local Enumeration/Windows/Users & Groups.md",
     "eJPT Notes/Post Exploitation/Local Enumeration/Windows/Network Info.md",
+    "eJPT Notes/Post Exploitation/Local Enumeration/Windows/Processes & Services.md",
+    "eJPT Notes/Post Exploitation/Local Enumeration/Windows/Users & Groups.md",
     "eJPT Notes/Post Exploitation/Local Enumeration/Windows/System Information.md",
     "eJPT Notes/Post Exploitation/Methodology.md",
     "eJPT Notes/Post Exploitation/Local Enumeration/Windows",
@@ -189,7 +190,6 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMBMap.md",
     "eJPT Notes/Misc Notes/Networking.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/PHP.md",
-    "eJPT Notes/Exploitation/Linux/ShellShock.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/vsftpd",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux",
     "eJPT Notes/Exploitation II/Black Box PenTest",
