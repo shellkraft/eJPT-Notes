@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/WinRM/Basics.md",
+                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Linux/System Information.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/WinRM/Basics.md",
+                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Linux/System Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/WinRM/Basics.md"
+                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Linux/System Information.md"
               }
             }
           },
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/WinRM/Basics.md",
+                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Linux/System Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,15 +158,19 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/Post Exploitation/Local Enumeration/Windows/System Information.md",
+    "eJPT Notes/Post Exploitation/Local Enumeration/Linux/System Information.md",
     "eJPT Notes/Post Exploitation/Local Enumeration/Windows/Automation.md",
+    "eJPT Notes/Post Exploitation/Local Enumeration/Linux",
+    "eJPT Notes/Post Exploitation/Local Enumeration/Windows/Users & Groups.md",
+    "eJPT Notes/Exploitation/Windows/WinRM/Exploiting WinRM.md",
+    "eJPT Notes/Exploitation/Windows/WinRM/Basics.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMBMap.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Bruteforce.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Linux.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/NMAP SMB.md",
-    "eJPT Notes/Post Exploitation/Local Enumeration/Windows/System Information.md",
     "eJPT Notes/Post Exploitation/Local Enumeration/Windows/Network Info.md",
-    "eJPT Notes/Post Exploitation/Local Enumeration/Windows/Users & Groups.md",
     "eJPT Notes/Post Exploitation/Local Enumeration/Windows/Processes & Services.md",
     "eJPT Notes/Post Exploitation/Methodology.md",
     "eJPT Notes/Post Exploitation/Local Enumeration/Windows",
@@ -188,9 +191,6 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Enum.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Bruteforce.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Basics.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MS SQL Nmap.md",
-    "eJPT Notes/Assessment Methodologies/Information Gathering/Active.md",
-    "eJPT Notes/Assessment Methodologies/Footprinting and Scanning/Network Mapping.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/vsftpd",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux",
     "eJPT Notes/Exploitation II/Black Box PenTest",
@@ -198,7 +198,6 @@
     "eJPT Notes/Exploitation II/Frameworks",
     "eJPT Notes/MEDIA/Pasted image 20231018011642.png",
     "eJPT Notes/MEDIA/Pasted image 20231018001454.png",
-    "eJPT Notes/Exploitation II/Shells",
     "eJPT Notes/MEDIA/Pasted image 20231011204806.png",
     "eJPT Notes/MEDIA/Pasted image 20230928014629.png",
     "eJPT Notes/MEDIA/Pasted image 20230928014518.png",
