@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Linux/System Information.md",
+                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Users & Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Linux/System Information.md",
+                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Users & Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Linux/System Information.md"
+                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Users & Groups.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Linux/System Information.md",
+                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Users & Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,11 +158,14 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Post Exploitation/Local Enumeration/Windows/System Information.md",
+    "eJPT Notes/MEDIA/Pasted image 20231111003401.png",
     "eJPT Notes/Post Exploitation/Local Enumeration/Linux/System Information.md",
+    "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Users & Groups.md",
+    "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Untitled",
+    "eJPT Notes/Post Exploitation/Local Enumeration/Windows/Users & Groups.md",
+    "eJPT Notes/Post Exploitation/Local Enumeration/Windows/System Information.md",
     "eJPT Notes/Post Exploitation/Local Enumeration/Windows/Automation.md",
     "eJPT Notes/Post Exploitation/Local Enumeration/Linux",
-    "eJPT Notes/Post Exploitation/Local Enumeration/Windows/Users & Groups.md",
     "eJPT Notes/Exploitation/Windows/WinRM/Exploiting WinRM.md",
     "eJPT Notes/Exploitation/Windows/WinRM/Basics.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMBMap.md",
@@ -189,13 +192,10 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Intro.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MS SQL MSF.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Enum.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Bruteforce.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SQL/MySQL Basics.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/vsftpd",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux",
     "eJPT Notes/Exploitation II/Black Box PenTest",
     "eJPT Notes/Exploitation II/Black Box PenTest/Windows",
-    "eJPT Notes/Exploitation II/Frameworks",
     "eJPT Notes/MEDIA/Pasted image 20231018011642.png",
     "eJPT Notes/MEDIA/Pasted image 20231018001454.png",
     "eJPT Notes/MEDIA/Pasted image 20231011204806.png",
