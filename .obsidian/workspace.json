@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Automation.md",
+                "file": "eJPT Notes/Post Exploitation/Transferring Files/Python Web Server.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Automation.md",
+                "file": "eJPT Notes/Post Exploitation/Transferring Files/Python Web Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Automation.md"
+                "file": "eJPT Notes/Post Exploitation/Transferring Files/Python Web Server.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Automation.md",
+                "file": "eJPT Notes/Post Exploitation/Transferring Files/Python Web Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,10 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Processes & Cron Jobs.md",
     "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Automation.md",
+    "eJPT Notes/Post Exploitation/Transferring Files/Python Web Server.md",
+    "eJPT Notes/Post Exploitation/Transferring Files",
+    "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Processes & Cron Jobs.md",
     "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Network Info.md",
     "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Users & Groups.md",
     "eJPT Notes/MEDIA/Pasted image 20231111003401.png",
@@ -192,11 +194,9 @@
     "eJPT Notes/Exploitation II/Obfuscation",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Bruteforce.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Intro.md",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/vsftpd",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux",
     "eJPT Notes/Exploitation II/Black Box PenTest",
-    "eJPT Notes/Exploitation II/Black Box PenTest/Windows",
     "eJPT Notes/MEDIA/Pasted image 20231018011642.png",
     "eJPT Notes/MEDIA/Pasted image 20231018001454.png",
     "eJPT Notes/MEDIA/Pasted image 20231011204806.png",
