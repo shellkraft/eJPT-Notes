@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Shells/Non-Interactive.md",
+                "file": "eJPT Notes/Post Exploitation/Upgrading Shells/Non-Interactive.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Shells/Non-Interactive.md",
+                "file": "eJPT Notes/Post Exploitation/Upgrading Shells/Non-Interactive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Shells/Non-Interactive.md"
+                "file": "eJPT Notes/Post Exploitation/Upgrading Shells/Non-Interactive.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Shells/Non-Interactive.md",
+                "file": "eJPT Notes/Post Exploitation/Upgrading Shells/Non-Interactive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +158,10 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/Post Exploitation/Shells/Untitled.md",
+    "eJPT Notes/Post Exploitation/Upgrading Shells/Non-Interactive.md",
     "eJPT Notes/Post Exploitation/Methodology.md",
-    "eJPT Notes/Post Exploitation/Shells/Non-Interactive.md",
-    "eJPT Notes/Post Exploitation/Shells",
+    "eJPT Notes/Post Exploitation/Upgrading Shells",
     "eJPT Notes/Post Exploitation/Transferring Files/Python Web Server.md",
     "eJPT Notes/Post Exploitation/Transferring Files/Windows Target.md",
     "eJPT Notes/Post Exploitation/Transferring Files/Linux Target.md",
@@ -193,7 +194,6 @@
     "eJPT Notes/MEDIA/Pasted image 20231105232436.png",
     "eJPT Notes/Exploitation II/Obfuscation/PowerShell Code.md",
     "eJPT Notes/Post Exploitation",
-    "eJPT Notes/Exploitation II/Obfuscation/Basics.md",
     "eJPT Notes/Exploitation II/Obfuscation",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/vsftpd",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux",
