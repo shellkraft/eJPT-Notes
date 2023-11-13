@@ -69,3 +69,4 @@ cp /path/to/file .
 	- We can open new terminals using `ctrl+b+c`.  
 	- We can switch back to the previous terminal using `ctrl+b+0`. 
 	- We can type `exit` to exit out of a terminal. 
+	- To scroll up and down in a `tmux` terminal, we need to use `ctrl+b` with the page up and down keys in our keyboard. Once done scrolling, press `q` key to exit out of scrolling mode. 
