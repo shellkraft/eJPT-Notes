@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Persistence/Linux/Cron Jobs.md",
+                "file": "eJPT Notes/Post Exploitation/Persistence/Windows/Hash Cracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Persistence/Linux/Cron Jobs.md",
+                "file": "eJPT Notes/Post Exploitation/Persistence/Windows/Hash Cracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Persistence/Linux/Cron Jobs.md"
+                "file": "eJPT Notes/Post Exploitation/Persistence/Windows/Hash Cracking.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Persistence/Linux/Cron Jobs.md",
+                "file": "eJPT Notes/Post Exploitation/Persistence/Windows/Hash Cracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +158,10 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/Post Exploitation/Persistence/Linux/Cron Jobs.md",
+    "eJPT Notes/Post Exploitation/Persistence/Windows/Hash Cracking.md",
     "eJPT Notes/MEDIA/Pasted image 20231117020219.png",
     "eJPT Notes/Post Exploitation/Persistence/Linux/SSH Keys.md",
-    "eJPT Notes/Post Exploitation/Persistence/Linux/Cron Jobs.md",
     "eJPT Notes/Post Exploitation/Persistence/Windows/Services.md",
     "eJPT Notes/Post Exploitation/Persistence/Windows/RDP.md",
     "eJPT Notes/Post Exploitation/Persistence/Overview.md",
@@ -203,7 +204,6 @@
     "eJPT Notes/MEDIA/Pasted image 20230928014629.png",
     "eJPT Notes/MEDIA/Pasted image 20230928014518.png",
     "eJPT Notes/MEDIA/Pasted image 20230923004106.png",
-    "eJPT Notes/MEDIA/Pasted image 20230921203638.png",
     "Untitled.canvas"
   ]
 }
