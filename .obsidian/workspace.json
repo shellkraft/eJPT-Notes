@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Persistence/Linux/SSH Keys.md",
+                "file": "eJPT Notes/Post Exploitation/Persistence/Linux/Cron Jobs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Persistence/Linux/SSH Keys.md",
+                "file": "eJPT Notes/Post Exploitation/Persistence/Linux/Cron Jobs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Persistence/Linux/SSH Keys.md"
+                "file": "eJPT Notes/Post Exploitation/Persistence/Linux/Cron Jobs.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Persistence/Linux/SSH Keys.md",
+                "file": "eJPT Notes/Post Exploitation/Persistence/Linux/Cron Jobs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +158,11 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/MEDIA/Pasted image 20231117020219.png",
+    "eJPT Notes/Post Exploitation/Persistence/Linux/SSH Keys.md",
+    "eJPT Notes/Post Exploitation/Persistence/Linux/Cron Jobs.md",
     "eJPT Notes/Post Exploitation/Persistence/Windows/Services.md",
     "eJPT Notes/Post Exploitation/Persistence/Windows/RDP.md",
-    "eJPT Notes/Post Exploitation/Persistence/Linux/SSH Keys.md",
     "eJPT Notes/Post Exploitation/Persistence/Overview.md",
     "eJPT Notes/Post Exploitation/Privilege Escalation/Linux/Weak Permissions.md",
     "eJPT Notes/Post Exploitation/Persistence/Linux",
@@ -189,8 +191,6 @@
     "eJPT Notes/Misc Notes/Command line.md",
     "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Automation.md",
     "eJPT Notes/Post Exploitation/Transferring Files",
-    "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Processes & Cron Jobs.md",
-    "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Network Info.md",
     "eJPT Notes/MEDIA/Pasted image 20231111003401.png",
     "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Untitled",
     "eJPT Notes/Post Exploitation/Local Enumeration/Linux",
