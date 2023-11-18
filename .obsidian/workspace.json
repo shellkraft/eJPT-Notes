@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pivoti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,8 +159,18 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Eternal Blue.md",
+    "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Pivoting.md",
     "eJPT Notes/Post Exploitation/Pivoting.md",
+    "eJPT Notes/Metasploit Framework/Post Exploitation/Overview.md",
+    "eJPT Notes/MEDIA/Pasted image 20231011204806.png",
+    "eJPT Notes/MEDIA/Pasted image 20230921203638.png",
+    "eJPT Notes/MEDIA/Pasted image 20230913034508.png",
+    "eJPT Notes/MEDIA/Pasted image 20230923004106.png",
+    "eJPT Notes/MEDIA/Pasted image 20230921203017.png",
+    "eJPT Notes/MEDIA/Pasted image 20230818005259.png",
+    "eJPT Notes/MEDIA/Pasted image 20230818004851.png",
+    "eJPT Notes/MEDIA/Pasted image 20230818005613.png",
+    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Eternal Blue.md",
     "eJPT Notes/Post Exploitation/Untitled",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Log4J.md",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Heartbleed.md",
@@ -188,22 +199,12 @@
     "eJPT Notes/Post Exploitation/Privilege Escalation/Linux/SUDO Privileges.md",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/Token Impersonation.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Incognito Module.md",
-    "eJPT Notes/Post Exploitation/Privilege Escalation/Windows.md",
     "eJPT Notes/Post Exploitation/Privilege Escalation/Linux",
-    "eJPT Notes/Exploitation II/Black Box PenTest/Linux/VSFTPD II.md",
     "eJPT Notes/Post Exploitation/Privilege Escalation",
     "eJPT Notes/Post Exploitation/Upgrading Shells",
     "eJPT Notes/Post Exploitation/Transferring Files",
     "eJPT Notes/MEDIA/Pasted image 20231111003401.png",
     "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Untitled",
-    "eJPT Notes/MEDIA/Pasted image 20231105232754.png",
-    "eJPT Notes/MEDIA/Pasted image 20231105232436.png",
-    "eJPT Notes/MEDIA/Pasted image 20231018011642.png",
-    "eJPT Notes/MEDIA/Pasted image 20231018001454.png",
-    "eJPT Notes/MEDIA/Pasted image 20231011204806.png",
-    "eJPT Notes/MEDIA/Pasted image 20230928014629.png",
-    "eJPT Notes/MEDIA/Pasted image 20230928014518.png",
-    "eJPT Notes/MEDIA/Pasted image 20230923004106.png",
     "Untitled.canvas"
   ]
 }
