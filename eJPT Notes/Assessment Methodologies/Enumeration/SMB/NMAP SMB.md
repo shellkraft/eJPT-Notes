@@ -1,5 +1,5 @@
 
-### *We can use NMAP to perform SMB enumeration.
+### We can use NMAP to perform SMB enumeration.
 
 
 - Command for OS discovery using SMB:

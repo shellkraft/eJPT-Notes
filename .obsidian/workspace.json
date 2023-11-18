@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SMB/NMAP SMB.md",
+                "file": "eJPT Notes/Post Exploitation/Pivoting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SMB/NMAP SMB.md",
+                "file": "eJPT Notes/Post Exploitation/Pivoting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SMB/NMAP SMB.md"
+                "file": "eJPT Notes/Post Exploitation/Pivoting.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Enumeration/SMB/NMAP SMB.md",
+                "file": "eJPT Notes/Post Exploitation/Pivoting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,13 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
+    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Eternal Blue.md",
+    "eJPT Notes/Post Exploitation/Pivoting.md",
+    "eJPT Notes/Post Exploitation/Untitled",
+    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Log4J.md",
+    "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Heartbleed.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/NMAP SMB.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Bruteforce.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Linux.md",
     "eJPT Notes/Post Exploitation/Dumping & Cracking/Linux Hashes.md",
@@ -186,16 +191,11 @@
     "eJPT Notes/Post Exploitation/Privilege Escalation/Windows.md",
     "eJPT Notes/Post Exploitation/Privilege Escalation/Linux",
     "eJPT Notes/Exploitation II/Black Box PenTest/Linux/VSFTPD II.md",
-    "eJPT Notes/Metasploit Framework/Enumeration/FTP.md",
-    "eJPT Notes/Exploitation/Linux/FTP.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Enum.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SSH/SSH Intro.md",
     "eJPT Notes/Post Exploitation/Privilege Escalation",
     "eJPT Notes/Post Exploitation/Upgrading Shells",
     "eJPT Notes/Post Exploitation/Transferring Files",
     "eJPT Notes/MEDIA/Pasted image 20231111003401.png",
     "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Untitled",
-    "eJPT Notes/Post Exploitation/Local Enumeration/Linux",
     "eJPT Notes/MEDIA/Pasted image 20231105232754.png",
     "eJPT Notes/MEDIA/Pasted image 20231105232436.png",
     "eJPT Notes/MEDIA/Pasted image 20231018011642.png",
