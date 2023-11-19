@@ -156,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4dcc1ba589630ea1",
+  "active": "0d9bf5d53f9b688f",
   "lastOpenFiles": [
+    "eJPT Notes/Social Engineering",
     "eJPT Notes/Post Exploitation/Clearing Tracks/Windows.md",
     "eJPT Notes/Post Exploitation/Clearing Tracks/Linux.md",
     "eJPT Notes/Post Exploitation/Pivoting.md",
@@ -194,7 +195,6 @@
     "eJPT Notes/Post Exploitation/Persistence/Windows/Services.md",
     "eJPT Notes/Post Exploitation/Persistence/Windows/RDP.md",
     "eJPT Notes/Post Exploitation/Persistence/Overview.md",
-    "eJPT Notes/Post Exploitation/Privilege Escalation/Linux/Weak Permissions.md",
     "eJPT Notes/Post Exploitation/Persistence/Linux",
     "eJPT Notes/Post Exploitation/Persistence/Windows",
     "eJPT Notes/Post Exploitation/Persistence",
