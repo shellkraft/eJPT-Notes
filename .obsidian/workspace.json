@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Pivoting.md",
+                "file": "eJPT Notes/Post Exploitation/Clearing Tracks/Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pivoti",
+                "query": "pivoting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Pivoting.md",
+                "file": "eJPT Notes/Post Exploitation/Clearing Tracks/Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Pivoting.md"
+                "file": "eJPT Notes/Post Exploitation/Clearing Tracks/Windows.md"
               }
             }
           },
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Pivoting.md",
+                "file": "eJPT Notes/Post Exploitation/Clearing Tracks/Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,8 +158,11 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Pivoting.md",
     "eJPT Notes/Post Exploitation/Pivoting.md",
+    "eJPT Notes/Post Exploitation/Clearing Tracks/Windows.md",
+    "eJPT Notes/Post Exploitation/Clearing Tracks",
+    "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Pivoting.md",
+    "eJPT Notes/Metasploit Framework/Enumeration/Auxiliary Modules.md",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Overview.md",
     "eJPT Notes/MEDIA/Pasted image 20231011204806.png",
     "eJPT Notes/MEDIA/Pasted image 20230921203638.png",
@@ -171,7 +173,6 @@
     "eJPT Notes/MEDIA/Pasted image 20230818004851.png",
     "eJPT Notes/MEDIA/Pasted image 20230818005613.png",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Eternal Blue.md",
-    "eJPT Notes/Post Exploitation/Untitled",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Log4J.md",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Heartbleed.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/NMAP SMB.md",
@@ -197,8 +198,6 @@
     "eJPT Notes/Post Exploitation/Persistence/Windows",
     "eJPT Notes/Post Exploitation/Persistence",
     "eJPT Notes/Post Exploitation/Privilege Escalation/Linux/SUDO Privileges.md",
-    "eJPT Notes/Exploitation/Windows/Privilege Escalation/Token Impersonation.md",
-    "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Incognito Module.md",
     "eJPT Notes/Post Exploitation/Privilege Escalation/Linux",
     "eJPT Notes/Post Exploitation/Privilege Escalation",
     "eJPT Notes/Post Exploitation/Upgrading Shells",
