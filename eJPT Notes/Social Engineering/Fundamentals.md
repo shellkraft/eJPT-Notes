@@ -24,3 +24,17 @@
 	- Reply with information
 	- Click on links
 	- Download files
+
+### Types of Phishing 
+
+- **Spear Phishing** - Targeted phishing
+- **Whaling** - Spear phishing of high-value individuals (C-suite, Board Members)
+- **Smishing** - Like phishing, but through SMS messaging
+- **Vishing** - Like phishing, but through voice calls
+
+### How do people fall for this ?
+
+- **Pharming** - Redirecting web traffic maliciously
+- **Watering Hole** - Use a trusted site against you
+- **BEC** - Business Email Compromise
+- **Impersonation/Spoofing** - Additional tactic
