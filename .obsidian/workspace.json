@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Clearing Tracks/Linux.md",
+                "file": "eJPT Notes/Social Engineering/Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Clearing Tracks/Linux.md",
+                "file": "eJPT Notes/Social Engineering/Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Clearing Tracks/Linux.md"
+                "file": "eJPT Notes/Social Engineering/Fundamentals.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Post Exploitation/Clearing Tracks/Linux.md",
+                "file": "eJPT Notes/Social Engineering/Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,11 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d9bf5d53f9b688f",
+  "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/Post Exploitation/Clearing Tracks/Linux.md",
+    "eJPT Notes/Social Engineering/Fundamentals.md",
     "eJPT Notes/Social Engineering",
     "eJPT Notes/Post Exploitation/Clearing Tracks/Windows.md",
-    "eJPT Notes/Post Exploitation/Clearing Tracks/Linux.md",
     "eJPT Notes/Post Exploitation/Pivoting.md",
     "eJPT Notes/Post Exploitation/Clearing Tracks",
     "eJPT Notes/Metasploit Framework/Post Exploitation/Windows/Pivoting.md",
@@ -203,7 +204,6 @@
     "eJPT Notes/Post Exploitation/Upgrading Shells",
     "eJPT Notes/Post Exploitation/Transferring Files",
     "eJPT Notes/MEDIA/Pasted image 20231111003401.png",
-    "eJPT Notes/Post Exploitation/Local Enumeration/Linux/Untitled",
     "Untitled.canvas"
   ]
 }
