@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Social Engineering/Fundamentals.md",
+                "file": "eJPT Notes/Social Engineering/GoPhish.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Social Engineering/Fundamentals.md",
+                "file": "eJPT Notes/Social Engineering/GoPhish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Social Engineering/Fundamentals.md"
+                "file": "eJPT Notes/Social Engineering/GoPhish.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Social Engineering/Fundamentals.md",
+                "file": "eJPT Notes/Social Engineering/GoPhish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,9 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Post Exploitation/Clearing Tracks/Linux.md",
     "eJPT Notes/Social Engineering/Fundamentals.md",
+    "eJPT Notes/Social Engineering/GoPhish.md",
+    "eJPT Notes/Post Exploitation/Clearing Tracks/Linux.md",
     "eJPT Notes/Social Engineering",
     "eJPT Notes/Post Exploitation/Clearing Tracks/Windows.md",
     "eJPT Notes/Post Exploitation/Pivoting.md",
@@ -195,7 +196,6 @@
     "eJPT Notes/Post Exploitation/Persistence/Linux/SSH Keys.md",
     "eJPT Notes/Post Exploitation/Persistence/Windows/Services.md",
     "eJPT Notes/Post Exploitation/Persistence/Windows/RDP.md",
-    "eJPT Notes/Post Exploitation/Persistence/Overview.md",
     "eJPT Notes/Post Exploitation/Persistence/Linux",
     "eJPT Notes/Post Exploitation/Persistence/Windows",
     "eJPT Notes/Post Exploitation/Persistence",
