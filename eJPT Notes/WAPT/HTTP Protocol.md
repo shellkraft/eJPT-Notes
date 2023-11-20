@@ -22,3 +22,15 @@ curl -I <target-ip>
 curl -X OPTIONS <target-ip> -v
 ```
 - If we use a method which isn't allowed, we should get a `METHOD NOT ALLOWED` error.
+
+7. Similarly, we can use OPTIONS to check the methods for different directories. In our case, it seems that the `/uploads/` directory allows file uploads. We confirm that by uploading a file using `curl`.
+```
+curl <target-ip>/uploads/ --upload-file <filename>
+```
+- This successfully uploads the file, this indicates that file upload is indeed allowed.
+
+8. We can delete a file using the DELETE method.
+```
+curl -X DELETE <target-ip>/uploads/<filename>
+```
+
