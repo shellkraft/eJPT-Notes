@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Social Engineering/GoPhish.md",
+                "file": "eJPT Notes/WAPT/Intro to Web.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Social Engineering/GoPhish.md",
+                "file": "eJPT Notes/WAPT/Intro to Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Social Engineering/GoPhish.md"
+                "file": "eJPT Notes/WAPT/Intro to Web.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Social Engineering/GoPhish.md",
+                "file": "eJPT Notes/WAPT/Intro to Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,10 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Social Engineering/Fundamentals.md",
     "eJPT Notes/Social Engineering/GoPhish.md",
+    "eJPT Notes/WAPT/Intro to Web.md",
+    "eJPT Notes/WAPT",
+    "eJPT Notes/Social Engineering/Fundamentals.md",
     "eJPT Notes/Post Exploitation/Clearing Tracks/Linux.md",
     "eJPT Notes/Social Engineering",
     "eJPT Notes/Post Exploitation/Clearing Tracks/Windows.md",
@@ -195,14 +197,12 @@
     "eJPT Notes/MEDIA/Pasted image 20231117020219.png",
     "eJPT Notes/Post Exploitation/Persistence/Linux/SSH Keys.md",
     "eJPT Notes/Post Exploitation/Persistence/Windows/Services.md",
-    "eJPT Notes/Post Exploitation/Persistence/Windows/RDP.md",
     "eJPT Notes/Post Exploitation/Persistence/Linux",
     "eJPT Notes/Post Exploitation/Persistence/Windows",
     "eJPT Notes/Post Exploitation/Persistence",
     "eJPT Notes/Post Exploitation/Privilege Escalation/Linux",
     "eJPT Notes/Post Exploitation/Privilege Escalation",
     "eJPT Notes/Post Exploitation/Upgrading Shells",
-    "eJPT Notes/Post Exploitation/Transferring Files",
     "eJPT Notes/MEDIA/Pasted image 20231111003401.png",
     "Untitled.canvas"
   ]
