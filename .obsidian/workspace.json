@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/WAPT/Overview.md",
+                "file": "eJPT Notes/WAPT/HTTP Protocol.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/WAPT/Overview.md",
+                "file": "eJPT Notes/WAPT/HTTP Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/WAPT/Overview.md"
+                "file": "eJPT Notes/WAPT/HTTP Protocol.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/WAPT/Overview.md",
+                "file": "eJPT Notes/WAPT/HTTP Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,9 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/Social Engineering/GoPhish.md",
     "eJPT Notes/WAPT/Overview.md",
+    "eJPT Notes/WAPT/HTTP Protocol.md",
+    "eJPT Notes/Social Engineering/GoPhish.md",
     "eJPT Notes/WAPT",
     "eJPT Notes/Social Engineering/Fundamentals.md",
     "eJPT Notes/Post Exploitation/Clearing Tracks/Linux.md",
@@ -196,7 +197,6 @@
     "eJPT Notes/Exploitation/Windows/Credential Dumping/Config Files.md",
     "eJPT Notes/MEDIA/Pasted image 20231117020219.png",
     "eJPT Notes/Post Exploitation/Persistence/Linux/SSH Keys.md",
-    "eJPT Notes/Post Exploitation/Persistence/Windows/Services.md",
     "eJPT Notes/Post Exploitation/Persistence/Linux",
     "eJPT Notes/Post Exploitation/Persistence/Windows",
     "eJPT Notes/Post Exploitation/Persistence",
