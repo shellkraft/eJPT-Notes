@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pivoting",
+                "query": "hydra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,10 +157,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4dcc1ba589630ea1",
+  "active": "53dbdc413f71525a",
   "lastOpenFiles": [
-    "eJPT Notes/WAPT/Overview.md",
+    "eJPT Notes/Assessment Methodologies/Information Gathering/Passive.md",
+    "eJPT Notes/Assessment Methodologies/Information Gathering/Types.md",
     "eJPT Notes/WAPT/HTTP Protocol.md",
+    "eJPT Notes/WAPT/Overview.md",
     "eJPT Notes/Social Engineering/GoPhish.md",
     "eJPT Notes/WAPT",
     "eJPT Notes/Social Engineering/Fundamentals.md",
@@ -194,9 +197,7 @@
     "eJPT Notes/Post Exploitation/Dumping & Cracking/Windows Hashes.md",
     "eJPT Notes/Post Exploitation/Dumping & Cracking",
     "eJPT Notes/Post Exploitation/Persistence/Linux/Cron Jobs.md",
-    "eJPT Notes/Exploitation/Windows/Credential Dumping/Config Files.md",
     "eJPT Notes/MEDIA/Pasted image 20231117020219.png",
-    "eJPT Notes/Post Exploitation/Persistence/Linux/SSH Keys.md",
     "eJPT Notes/Post Exploitation/Persistence/Linux",
     "eJPT Notes/Post Exploitation/Persistence/Windows",
     "eJPT Notes/Post Exploitation/Persistence",
