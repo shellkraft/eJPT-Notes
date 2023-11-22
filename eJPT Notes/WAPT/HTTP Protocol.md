@@ -36,4 +36,11 @@ curl -X DELETE <target-ip>/uploads/<filename>
 
 ### Enumeration with Burp Suite
 
-1. Open your browser and and turn on Burp proxy from the Foxy Proxy menu.
+1. Open your browser and and turn on Burp proxy from the `FoxyProxy` menu. Learn how to configure Burp with `FoxyProxy` from the following video.
+https://youtu.be/2UMwYmKhu2w?si=hxB7WsmBbl0rsF2g
+
+2. Go to Burp and turn intercept on to capture traffic. By doing this we'll get the raw header information which we can send to the repeater to tweak around with.
+
+3. In the repeater, we can change the initial GET method in the request header to OPTIONS to check the methods that are allowed.
+
+4. We can also modify the directory in the request header to something like `/login.php` and send it. This will help us understand whether `/login.php` directory exists or not.
