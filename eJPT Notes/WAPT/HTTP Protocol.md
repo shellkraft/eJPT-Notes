@@ -34,3 +34,6 @@ curl <target-ip>/uploads/ --upload-file <filename>
 curl -X DELETE <target-ip>/uploads/<filename>
 ```
 
+### Enumeration with Burp Suite
+
+1. Open your browser and and turn on Burp proxy from the Foxy Proxy menu.
