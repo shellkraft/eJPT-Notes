@@ -1,4 +1,6 @@
 
+- Allowed HTTP methods in some cases can lead to serious vulnerabilities such as remote code execution, defacement, denial of services, etc.
+
 ### HTTP Method Enumeration
 
 1. Open the web app in the browser and analyse the source code. 
