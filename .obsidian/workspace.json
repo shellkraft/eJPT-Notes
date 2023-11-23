@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/WAPT/HTTP Protocol.md",
+                "file": "eJPT Notes/Exploitation/Windows/Microsoft IIS/WebDAV.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hydra",
+                "query": "IIS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/WAPT/HTTP Protocol.md",
+                "file": "eJPT Notes/Exploitation/Windows/Microsoft IIS/WebDAV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/WAPT/HTTP Protocol.md"
+                "file": "eJPT Notes/Exploitation/Windows/Microsoft IIS/WebDAV.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/WAPT/HTTP Protocol.md",
+                "file": "eJPT Notes/Exploitation/Windows/Microsoft IIS/WebDAV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,8 +157,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53dbdc413f71525a",
+  "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/Exploitation/Windows/Microsoft IIS/Metasploit.md",
+    "eJPT Notes/Assessment Methodologies/Enumeration/HTTP/HTTP IIS.md",
+    "eJPT Notes/Metasploit Framework/Enumeration/HTTP.md",
+    "eJPT Notes/Exploitation/Windows/Microsoft IIS/Basics.md",
+    "eJPT Notes/Assessment Methodologies/Footprinting and Scanning/Network Mapping.md",
+    "eJPT Notes/Assessment Methodologies/Information Gathering/Active.md",
     "eJPT Notes/Assessment Methodologies/Information Gathering/Passive.md",
     "eJPT Notes/Assessment Methodologies/Information Gathering/Types.md",
     "eJPT Notes/WAPT/HTTP Protocol.md",
@@ -190,13 +196,7 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Bruteforce.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Linux.md",
     "eJPT Notes/Post Exploitation/Dumping & Cracking/Linux Hashes.md",
-    "eJPT Notes/Exploitation/Linux/Password Hashes.md",
-    "eJPT Notes/Exploitation/Windows/Credential Dumping/Mimikatz.md",
-    "eJPT Notes/Exploitation/Windows/Credential Dumping/Password Hashes.md",
-    "eJPT Notes/Exploitation/Windows/Credential Dumping/Pass-The-Hash.md",
-    "eJPT Notes/Post Exploitation/Dumping & Cracking/Windows Hashes.md",
     "eJPT Notes/Post Exploitation/Dumping & Cracking",
-    "eJPT Notes/Post Exploitation/Persistence/Linux/Cron Jobs.md",
     "eJPT Notes/MEDIA/Pasted image 20231117020219.png",
     "eJPT Notes/Post Exploitation/Persistence/Linux",
     "eJPT Notes/Post Exploitation/Persistence/Windows",
