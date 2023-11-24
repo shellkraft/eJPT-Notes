@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/WAPT/Gobuster.md",
+                "file": "eJPT Notes/WAPT/BurpSuite.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gobu",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/WAPT/Gobuster.md",
+                "file": "eJPT Notes/WAPT/BurpSuite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/WAPT/Gobuster.md"
+                "file": "eJPT Notes/WAPT/BurpSuite.md"
               }
             }
           },
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/WAPT/Gobuster.md",
+                "file": "eJPT Notes/WAPT/BurpSuite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,10 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53dbdc413f71525a",
+  "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/WAPT/HTTP Protocol.md",
     "eJPT Notes/WAPT/Gobuster.md",
+    "eJPT Notes/WAPT/BurpSuite.md",
+    "eJPT Notes/WAPT/HTTP Protocol.md",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/SCAP & STIG.md",
     "eJPT Notes/Exploitation/Windows/Microsoft IIS/WebDAV.md",
     "eJPT Notes/Exploitation/Windows/Microsoft IIS/Metasploit.md",
@@ -195,7 +195,6 @@
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Log4J.md",
     "eJPT Notes/Assessment Methodologies/Vulnerability Assessment/Case Studies/Heartbleed.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/NMAP SMB.md",
-    "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
     "eJPT Notes/Post Exploitation/Dumping & Cracking",
     "eJPT Notes/MEDIA/Pasted image 20231117020219.png",
     "eJPT Notes/Post Exploitation/Persistence/Linux",
