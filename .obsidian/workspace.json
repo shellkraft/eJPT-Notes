@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/WAPT/BurpSuite.md",
+                "file": "eJPT Notes/WAPT/ZAProxy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/WAPT/BurpSuite.md",
+                "file": "eJPT Notes/WAPT/ZAProxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/WAPT/BurpSuite.md"
+                "file": "eJPT Notes/WAPT/ZAProxy.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/WAPT/BurpSuite.md",
+                "file": "eJPT Notes/WAPT/ZAProxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,9 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
-    "eJPT Notes/WAPT/Gobuster.md",
     "eJPT Notes/WAPT/BurpSuite.md",
+    "eJPT Notes/WAPT/ZAProxy.md",
+    "eJPT Notes/WAPT/Gobuster.md",
     "eJPT Notes/MEDIA/Pasted image 20231125004837.png",
     "eJPT Notes/WAPT/HTTP Protocol.md",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/SCAP & STIG.md",
