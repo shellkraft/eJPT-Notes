@@ -11,9 +11,9 @@
 
 5. In the `intruder` menu, we need to configure the positions where payloads will be inserted. In our case, we'll clear all our positions with the `clear` button.
 
-6. Click `Add` button to add a new payload position. In our case, the payload will be `$name$`. This will use GET request to enumerate the directories. 
+6. Click `Add` button to add a new payload position. In our case, the payload will be `§name§`. This will use GET request to enumerate the directories. 
 ```
-GET /$name$ HTTP/1.1
+GET /§name§ HTTP/1.1
 ```
 
 ![[Pasted image 20231125004837.png]]
