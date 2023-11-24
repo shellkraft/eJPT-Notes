@@ -2,6 +2,7 @@
 ### Directory enumeration with `Gobuster`
 
 - Gobuster is a command line tool like `dirb` for enumerating directories. It's written in `GoLang`. 
+- It is faster than `dirb`.
 
 ### How to use `Gobuster` ?
 
