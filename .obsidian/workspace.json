@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/WAPT/ZAProxy.md",
+                "file": "eJPT Notes/WAPT/Nikto.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/WAPT/ZAProxy.md",
+                "file": "eJPT Notes/WAPT/Nikto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/WAPT/ZAProxy.md"
+                "file": "eJPT Notes/WAPT/Nikto.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/WAPT/ZAProxy.md",
+                "file": "eJPT Notes/WAPT/Nikto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,6 +158,8 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/WAPT/ZAProxy.md",
+    "eJPT Notes/WAPT/Nikto.md",
     "eJPT Notes/Assessment Methodologies/Information Gathering/Active.md",
     "eJPT Notes/Assessment Methodologies/Information Gathering/Passive.md",
     "eJPT Notes/Assessment Methodologies/Information Gathering/Types.md",
@@ -167,7 +169,6 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Bruteforce.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/NMAP SMB.md",
-    "eJPT Notes/WAPT/ZAProxy.md",
     "eJPT Notes/WAPT/BurpSuite.md",
     "eJPT Notes/WAPT/Gobuster.md",
     "eJPT Notes/MEDIA/Pasted image 20231125004837.png",
@@ -186,7 +187,6 @@
     "eJPT Notes/Post Exploitation/Clearing Tracks/Linux.md",
     "eJPT Notes/Social Engineering",
     "eJPT Notes/Post Exploitation/Clearing Tracks/Windows.md",
-    "eJPT Notes/Post Exploitation/Pivoting.md",
     "eJPT Notes/Post Exploitation/Clearing Tracks",
     "eJPT Notes/MEDIA/Pasted image 20231011204806.png",
     "eJPT Notes/MEDIA/Pasted image 20230921203638.png",
