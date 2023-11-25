@@ -9,4 +9,6 @@ The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool
 
 3. The target webpage will open in the selected browser with the ZAProxy HUD. 
 
-4. As we visit different pages,
+4. As we visit different pages, the sites tab will get updated in ZAProxy.
+
+5. 
