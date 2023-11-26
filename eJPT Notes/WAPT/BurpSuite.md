@@ -33,8 +33,10 @@ GET /§name§ HTTP/1.1
 
 2. When we refresh a page on our browser, Burp should capture the outbound GET request. 
 
-3. Even if intercept is turned off, Burp will still capture the traffic as long as `Live Passive Crawl from Proxy` is turned on in the Dashboard. The traffic will be logged in the HTTP history in the Proxy tab. 
+3. Even if intercept is turned off, Burp will still capture the traffic as long as the Proxy is turned on in our browser. The traffic will be logged in the HTTP history in the Proxy tab. 
+
+![[Pasted image 20231126183209.png]]
 
 ![[Pasted image 20231126181809.png]]
 
-4. We can check the site map in our Target tab and add pages from their to our scope. The traffic of the out of scope pages won't be recorded. 
+4. We can check the site map in our Target tab and add targets from there to our scope. The traffic of the out of scope targets won't be recorded. 

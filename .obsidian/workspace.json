@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/WAPT/BurpSuite.md",
+                "file": "eJPT Notes/WAPT/SQLMap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/WAPT/BurpSuite.md",
+                "file": "eJPT Notes/WAPT/SQLMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/WAPT/BurpSuite.md"
+                "file": "eJPT Notes/WAPT/SQLMap.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/WAPT/BurpSuite.md",
+                "file": "eJPT Notes/WAPT/SQLMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,6 +158,9 @@
   },
   "active": "4dcc1ba589630ea1",
   "lastOpenFiles": [
+    "eJPT Notes/WAPT/BurpSuite.md",
+    "eJPT Notes/WAPT/SQLMap.md",
+    "eJPT Notes/MEDIA/Pasted image 20231126183209.png",
     "eJPT Notes/MEDIA/Pasted image 20231126181809.png",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMBMap.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Windows.md",
@@ -170,7 +173,6 @@
     "eJPT Notes/Assessment Methodologies/Information Gathering/Passive.md",
     "eJPT Notes/Assessment Methodologies/Information Gathering/Types.md",
     "eJPT Notes/Network Based Attacks/ARP Spoofing.md",
-    "eJPT Notes/WAPT/BurpSuite.md",
     "eJPT Notes/WAPT/Gobuster.md",
     "eJPT Notes/MEDIA/Pasted image 20231125004837.png",
     "eJPT Notes/WAPT/HTTP Protocol.md",
@@ -195,9 +197,7 @@
     "eJPT Notes/MEDIA/Pasted image 20230921203017.png",
     "eJPT Notes/MEDIA/Pasted image 20230818005259.png",
     "eJPT Notes/MEDIA/Pasted image 20230818004851.png",
-    "eJPT Notes/MEDIA/Pasted image 20230818005613.png",
     "eJPT Notes/Post Exploitation/Dumping & Cracking",
-    "eJPT Notes/MEDIA/Pasted image 20231117020219.png",
     "eJPT Notes/Post Exploitation/Persistence/Linux",
     "eJPT Notes/Post Exploitation/Persistence/Windows",
     "eJPT Notes/Post Exploitation/Persistence",
