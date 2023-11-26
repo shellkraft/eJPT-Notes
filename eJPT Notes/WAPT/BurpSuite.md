@@ -26,3 +26,15 @@ GET /§name§ HTTP/1.1
 7. We will load our word-list in the `payload options` menu. We'll be using `/usr/share/wordlists/dirb/common.txt`.  We can also add custom words of our choice. After adding, make sure to remove any blank spaces between the words. 
 
 8. Now we can click `Start Attack` button on the top right to start the directory busting. 
+
+### Passive Crawling with `BurpSuite`
+
+1. Use `FoxyProxy` to connect with `Burp` on the browser and turn intercept on.
+
+2. When we refresh a page on our browser, Burp should capture the outbound GET request. 
+
+3. Even if intercept is turned off, Burp will still capture the traffic as long as `Live Passive Crawl from Proxy` is turned on in the Dashboard. The traffic will be logged in the HTTP history in the Proxy tab. 
+
+![[Pasted image 20231126181809.png]]
+
+4. We can check the site map in our Target tab and add pages from their to our scope. The traffic of the out of scope pages won't be recorded. 
