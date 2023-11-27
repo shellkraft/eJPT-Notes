@@ -13,7 +13,7 @@
 
 4. We'll use the search prompt to search for something and record the format in which the GET request for our prompt was sent using Burp. We can also find it in the URL.
 
-GET /==sqli_1.php?title=joe&action=search== HTTP/1.1
+GET /`sqli_1.php?title=joe&action=search` HTTP/1.1
 
 
 6. To use SQLMap we can use the following command.
