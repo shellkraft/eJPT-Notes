@@ -11,7 +11,7 @@ nikto -h http://<target-ip>
 ```
 
 2. We can use `Nikto` to check for File Inclusion vulnerability by setting the `Tuning` to 5.
-	- A directory traversal attack is ==a type of HTTP exploit that allows an attacker to access restricted files and directories==. It's also known as a path traversal attack or a dot dot slash attack.
+	- A directory traversal attack is a type of HTTP exploit that allows an attacker to access restricted files and directories. It's also known as a path traversal attack or a dot dot slash attack.
 ```
 nikto -h http://<full-url-to-file> -Tuning 5 -Display V
 ```
