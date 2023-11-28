@@ -20,5 +20,21 @@ GET /sqli_1.php?title=joe&action=search HTTP/1.1
 
 6. To use SQLMap we can use the following command.
 ```
-sqlmap -u "http://<target-ip>/"
+sqlmap -u "http://<target-ip>/sqli_1.php?title=joe&action=search" --cookie "PHPSESSID=<cookie>; security_level=0" -p title 
 ```
+- In this command we are targeting the `title` parameter using the `-p` option.
+- It'll test for `SQLI` in the GET parameter `title`.
+
+7. If the parameter `title` is vulnerable, it'll provide us with the SQL payloads which the `title` parameter is vulnerable to. We can copy one of the payloads. 
+
+8. Send the initial GET request we captured for the search prompt in Burp to the repeater. 
+
+9. In the repeater we will modify the GET request and paste our copied payload in it. Check whether we've pasted the payload in the correct format. 
+
+10. We will now send the new request and check the Raw HTML response header. If the payloads work, we shouldn't get any errors. 
+
+11. In case the payloads do not work, we can try different approaches by using the following options with the previous command. 
+	+ Use `--dbs` options to check what databases are accessible.
+	+ Use `-D <database-name> --tables` to check the tables in a particular database. 
+	+ Now that we've identified the tables, we can use this command to check the columns of a particular table `-D <database> -T <table-name> --columns`. 
+	+ We can dump the contents of a column, using `-C column1,column2,column3 --dump`. We need to specify the database name and the table name for this command to work.
