@@ -6,13 +6,13 @@ _Nikto_ is a pluggable web server and CGI scanner written in Perl, using rfp's 
 ### How to use ?
 
 1. We can perform a basic scan on the target using the following command.
-```
+```bash
 nikto -h http://<target-ip>
 ```
 
 2. We can use `Nikto` to check for File Inclusion vulnerability by setting the `Tuning` to 5.
 	- A directory traversal attack is a type of HTTP exploit that allows an attacker to access restricted files and directories. It's also known as a path traversal attack or a dot dot slash attack.
-```
+```bash
 nikto -h http://<full-url-to-file> -Tuning 5 -Display V
 ```
 - We are setting Display to V to turn on verbose.
@@ -23,7 +23,7 @@ website.com/index.php?page=../../../../../../etc/passwd
 ```
 
 3. We can also output the result of the scan in a HTML file for better readability. 
-```
+```bash
 nikto -h http://<full-url-to-file> -Tuning 5 -Display V -o nikto.html -Format htm
 ```
 

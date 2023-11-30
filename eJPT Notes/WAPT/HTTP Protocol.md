@@ -10,29 +10,29 @@
 3. Use `dirb` to enumerate the directories. 
 
 4. Use `curl` with different methods to check the source code.
-```
+```bash
 curl -X GET <target-ip>
 ```
 
 5. We can send a HTTP HEAD request to obtain the response header. 
-```
+```bash
 curl -I <target-ip>
 ```
 
 6. Use the OPTIONS method to check what methods are allowed by the web app.
-```
+```bash
 curl -X OPTIONS <target-ip> -v
 ```
 - If we use a method which isn't allowed, we should get a `METHOD NOT ALLOWED` error.
 
 7. Similarly, we can use OPTIONS to check the methods for different directories. In our case, it seems that the `/uploads/` directory allows file uploads. We confirm that by uploading a file using `curl`.
-```
+```bash
 curl <target-ip>/uploads/ --upload-file <filename>
 ```
 - This successfully uploads the file, this indicates that file upload is indeed allowed.
 
 8. We can delete a file using the DELETE method.
-```
+```bash
 curl -X DELETE <target-ip>/uploads/<filename>
 ```
 
