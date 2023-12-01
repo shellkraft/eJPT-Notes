@@ -41,6 +41,62 @@ GET /§name§ HTTP/1.1
 
 4. We can check the site map in our Target tab and add targets from there to our scope. The traffic of the out of scope targets won't be recorded. 
 
-### Attacking Basic Auth with Burp Suite
+### HTTP Basic Authentication
 
 
+**What is HTTP Basic Authentication ?**
+Basic access authentication (Basic Auth) is a simple method for a user agent to provide a username and password to access a page.
+
+![[default_auth.png]]
+
+### Attacking HTTP Basic Auth with Burp Suite
+
+**1. Locate the Basic Authentication Page**
+
+- Identify the basic authentication page within the web app, typically found in the `basic` directory.
+
+**2. Capture the GET Request with Burp Suite**
+
+- Begin by inputting text in the login prompt and use Burp Suite to capture the corresponding GET request.
+
+**3. Decode Authorization Variable**
+
+- In the captured request header, locate the `Authorization` variable containing Base64-encoded text from the login prompt.
+- Decode the text by right-clicking, selecting `Convert selection > Base64 > Base64-decode`.
+- The result should be in the format `<user>:<pass>`.
+
+**4. Send Header to Intruder**
+
+- Transfer the decoded `<user>:<pass>` value to the Intruder tool in Burp.
+
+**5. Configure Payloads for Brute-Force**
+
+- Load a password word-list in the Payloads tab.
+- Since we know the username (`admin`), set `admin:` as the prefix in Payload Processing:
+  ```
+  Add > Select Rule Type > Add Prefix
+  ```
+  
+**6. Add Base64 Encoding Rule**
+
+- As both user and password must be Base64 encoded, add a Payload Processing rule:
+  ```
+  Add > Select Rule Type > Encode > Base64-encode
+  ```
+
+**7. Initiate the Attack**
+
+- Start the attack; Burp will systematically test payloads based on the configured rules.
+
+**8. Analyze Status Codes**
+
+- Monitor status codes with each attempt. Look for a 301 status code, indicating a redirect and potential valid credentials.
+
+**9. Identify Valid Request**
+
+- When a 301 status code is found, open the corresponding request, select the Base64 encoded payload, click Action, and send it to the Decoder.
+
+**10. Decode Base64 Encoded Payload**
+
+- In the Decoder, select the Base64 encoded payload, click Smart Decode.
+- Further decode the result by choosing `Decode as.. > Base64`. This reveals the valid password.
