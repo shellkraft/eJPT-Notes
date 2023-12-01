@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/WAPT/XSSer.md",
+                "file": "eJPT Notes/Post Exploitation/Upgrading Shells/Non-Interactive.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae8addf1360bde95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "WIRESHAR",
+                "query": "kernel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/WAPT/XSSer.md",
+                "file": "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/WAPT/XSSer.md"
+                "file": "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md"
               }
             }
           },
@@ -133,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/WAPT/XSSer.md",
+                "file": "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,15 +170,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4dcc1ba589630ea1",
+  "active": "ae8addf1360bde95",
   "lastOpenFiles": [
+    "eJPT Notes/Exploitation/Windows/Privilege Escalation/Basics.md",
+    "eJPT Notes/WAPT/Nikto.md",
+    "Untitled.md",
+    "eJPT Notes/Post Exploitation/Upgrading Shells/Non-Interactive.md",
+    "eJPT Notes/WAPT/Gobuster.md",
+    "eJPT Notes/WAPT/BurpSuite.md",
+    "eJPT Notes/WAPT/XSSer.md",
     "eJPT Notes/WAPT/SQLMap.md",
     "eJPT Notes/WAPT/Overview.md",
-    "eJPT Notes/WAPT/XSSer.md",
-    "eJPT Notes/WAPT/BurpSuite.md",
-    "eJPT Notes/WAPT/Gobuster.md",
     "eJPT Notes/WAPT/HTTP Protocol.md",
-    "eJPT Notes/WAPT/Nikto.md",
     "eJPT Notes/MEDIA/Pasted image 20231127171354.png",
     "eJPT Notes/MEDIA/Pasted image 20231126183209.png",
     "eJPT Notes/MEDIA/Pasted image 20231126181809.png",
@@ -185,10 +202,7 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/HTTP/HTTP IIS.md",
     "eJPT Notes/Metasploit Framework/Enumeration/HTTP.md",
     "eJPT Notes/Exploitation/Windows/Microsoft IIS/Basics.md",
-    "eJPT Notes/Assessment Methodologies/Footprinting and Scanning/Network Mapping.md",
-    "eJPT Notes/Social Engineering/GoPhish.md",
     "eJPT Notes/WAPT",
-    "eJPT Notes/Social Engineering/Fundamentals.md",
     "eJPT Notes/Social Engineering",
     "eJPT Notes/Post Exploitation/Clearing Tracks",
     "eJPT Notes/MEDIA/Pasted image 20231011204806.png",
