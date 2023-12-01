@@ -40,3 +40,7 @@ GET /§name§ HTTP/1.1
 ![[Pasted image 20231126181809.png]]
 
 4. We can check the site map in our Target tab and add targets from there to our scope. The traffic of the out of scope targets won't be recorded. 
+
+### Attacking Basic Auth with Burp Suite
+
+
