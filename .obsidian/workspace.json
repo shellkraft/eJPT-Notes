@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
+                "file": "eJPT Notes/WAPT/Hydra.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
+                "file": "eJPT Notes/WAPT/Hydra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md"
+                "file": "eJPT Notes/WAPT/Hydra.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
+                "file": "eJPT Notes/WAPT/Hydra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,6 +171,10 @@
   },
   "active": "ae8addf1360bde95",
   "lastOpenFiles": [
+    "eJPT Notes/WAPT/HTTP Methods.md",
+    "eJPT Notes/WAPT/Hydra.md",
+    "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
+    "eJPT Notes/WAPT/Untitled",
     "eJPT Notes/Exploitation/Windows/Privilege Escalation/Basics.md",
     "eJPT Notes/WAPT/Nikto.md",
     "Untitled.md",
@@ -181,7 +184,6 @@
     "eJPT Notes/WAPT/XSSer.md",
     "eJPT Notes/WAPT/SQLMap.md",
     "eJPT Notes/WAPT/Overview.md",
-    "eJPT Notes/WAPT/HTTP Protocol.md",
     "eJPT Notes/MEDIA/Pasted image 20231127171354.png",
     "eJPT Notes/MEDIA/Pasted image 20231126183209.png",
     "eJPT Notes/MEDIA/Pasted image 20231126181809.png",
@@ -200,8 +202,6 @@
     "eJPT Notes/Exploitation/Windows/Microsoft IIS/WebDAV.md",
     "eJPT Notes/Exploitation/Windows/Microsoft IIS/Metasploit.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/HTTP/HTTP IIS.md",
-    "eJPT Notes/Metasploit Framework/Enumeration/HTTP.md",
-    "eJPT Notes/Exploitation/Windows/Microsoft IIS/Basics.md",
     "eJPT Notes/WAPT",
     "eJPT Notes/Social Engineering",
     "eJPT Notes/Post Exploitation/Clearing Tracks",
@@ -217,7 +217,6 @@
     "eJPT Notes/Post Exploitation/Persistence",
     "eJPT Notes/Post Exploitation/Privilege Escalation/Linux",
     "eJPT Notes/Post Exploitation/Privilege Escalation",
-    "eJPT Notes/Post Exploitation/Upgrading Shells",
     "Untitled.canvas"
   ]
 }
