@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Footprinting and Scanning/Network Mapping.md",
+                "file": "eJPT Notes/WAPT/ZAProxy.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Footprinting and Scanning/Network Mapping.md",
+                "file": "eJPT Notes/WAPT/ZAProxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Footprinting and Scanning/Network Mapping.md"
+                "file": "eJPT Notes/WAPT/ZAProxy.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eJPT Notes/Assessment Methodologies/Footprinting and Scanning/Network Mapping.md",
+                "file": "eJPT Notes/WAPT/ZAProxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,6 +171,9 @@
   },
   "active": "ae8addf1360bde95",
   "lastOpenFiles": [
+    "eJPT Notes/WAPT/BurpSuite.md",
+    "eJPT Notes/WAPT/ZAProxy.md",
+    "eJPT Notes/Assessment Methodologies/Footprinting and Scanning/Network Mapping.md",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/SCAP & STIG.md",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Frameworks.md",
     "eJPT Notes/Assessment Methodologies/Auditing Fundamentals/Nessus & Nmap.md",
@@ -178,7 +181,6 @@
     "eJPT Notes/Assessment Methodologies/Information Gathering/Types.md",
     "eJPT Notes/Assessment Methodologies/Information Gathering/Passive.md",
     "eJPT Notes/Exploitation/Windows/RDP/Blue Keep.md",
-    "eJPT Notes/WAPT/BurpSuite.md",
     "eJPT Notes/WAPT/XSSer.md",
     "eJPT Notes/MEDIA/default_auth.png",
     "eJPT Notes/WAPT/Hydra.md",
@@ -199,10 +201,8 @@
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Bruteforce.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/SMB Linux.md",
     "eJPT Notes/Assessment Methodologies/Enumeration/SMB/NMAP SMB.md",
-    "eJPT Notes/WAPT/ZAProxy.md",
     "eJPT Notes/Network Based Attacks/ARP Spoofing.md",
     "eJPT Notes/MEDIA/Pasted image 20231125004837.png",
-    "eJPT Notes/Exploitation/Windows/Microsoft IIS/WebDAV.md",
     "eJPT Notes/WAPT",
     "eJPT Notes/Social Engineering",
     "eJPT Notes/Post Exploitation/Clearing Tracks",
