@@ -71,3 +71,29 @@ The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool
 **4. Interacting with HUD Overlay**
 
 - To input commands in the browser with the HUD overlay, place it out of scope using HUD options.
+
+### Attacking HTTP login form with `ZAProxy`
+
+**1. Launching ZAProxy and Configuring Manual Explore**
+
+- Open ZAProxy and navigate to the Manual Explore tab.
+  - Input the target URL.
+  - Enable HUD for a user-friendly interface.
+  - Choose the browser with the HUD overlay.
+  - Launch the browser to open the target web page.
+
+**2. Configure the Fuzzer** 
+
+- Enter text in the login prompt and capture the POST request. 
+- Select the POST request and go to the Request tab and do the following.
+```
+Right Click > Fuzz
+```
+
+**3. Configure the login and password fuzz**
+
+- Highlight the login field to configure the login fuzz. 
+- Click add and add the word-list to use for brute-force.
+- Do the same for the password field.
+- Start the Fuzzer.
+
