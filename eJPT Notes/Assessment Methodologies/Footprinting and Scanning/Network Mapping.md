@@ -48,7 +48,8 @@ nmap -sn 10.0.2.15/24
 
 ### Stealth Scan:
 ![image](https://github.com/B4PHOM3T/eJPT-Notes/assets/89618500/bf1d408f-b09d-480a-a5ec-74b5589792a1)
-*It doesn't complete the connection.
+
+It doesn't complete the connection.
 
 ### Service Version Scan:
 
