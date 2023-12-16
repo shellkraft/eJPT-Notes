@@ -32,4 +32,6 @@ The examination will assess your proficiency in the following areas:
 - Conducting web application reconnaissance
 ---
 ### DISCLAIMER
-It is important to note that this repository does not serve as a replacement for the official INE courseware. It does not aim to teach what is already covered in the official courseware and INE Attack Defense labs.
+- It is important to note that this repository does not serve as a replacement for the official INE courseware. It does not aim to teach what is already covered in the official courseware and INE Attack Defense labs.
+- While this study guide includes every topic found in the INE courseware, certain sections may lack proper formatting and organization.
+- The notes may include inadvertent grammatical errors or inaccuracies in the commands provided. If a command does not function as expected, kindly consult the courseware or the tool documentation for clarification.
