@@ -43,7 +43,8 @@ nmap -sn 10.0.2.15/24
 
 ### TCP Connect Scan:
 
-![[Pasted image 20230818004851.png]]
+![image](https://github.com/B4PHOM3T/eJPT-Notes/assets/89618500/cfb4d6bf-5cd6-478c-9e43-8cb2d00cc432)
+
 
 ### Stealth Scan:
 
