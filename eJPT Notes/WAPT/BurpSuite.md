@@ -35,9 +35,9 @@ GET /§name§ HTTP/1.1
 
 3. Even if intercept is turned off, Burp will still capture the traffic as long as the Proxy is turned on in our browser. The traffic will be logged in the HTTP history in the Proxy tab. 
 
-![[Pasted image 20231126183209.png]]
+![image](https://github.com/B4PHOM3T/eJPT-Notes/assets/89618500/675efc70-46b1-42b7-89f9-2238d1a6881e)
 
-![[Pasted image 20231126181809.png]]
+![image](https://github.com/B4PHOM3T/eJPT-Notes/assets/89618500/1203bcc8-d7b5-4a2e-b689-11da4a83a636)
 
 4. We can check the site map in our Target tab and add targets from there to our scope. The traffic of the out of scope targets won't be recorded. 
 
