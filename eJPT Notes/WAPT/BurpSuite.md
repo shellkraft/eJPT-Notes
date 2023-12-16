@@ -47,7 +47,7 @@ GET /§name§ HTTP/1.1
 **What is HTTP Basic Authentication ?**
 Basic access authentication (Basic Auth) is a simple method for a user agent to provide a username and password to access a page.
 
-![[default_auth.png]]
+![image](https://github.com/B4PHOM3T/eJPT-Notes/assets/89618500/35c3df45-4a93-4804-97b9-32925cdc49b9)
 
 ### Attacking HTTP Basic Auth with Burp Suite
 
