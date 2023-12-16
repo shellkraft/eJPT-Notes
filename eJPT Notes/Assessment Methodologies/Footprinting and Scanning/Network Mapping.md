@@ -47,12 +47,13 @@ nmap -sn 10.0.2.15/24
 
 
 ### Stealth Scan:
-
-![[Pasted image 20230818005259.png]]*It doesn't complete the connection.
+![image](https://github.com/B4PHOM3T/eJPT-Notes/assets/89618500/bf1d408f-b09d-480a-a5ec-74b5589792a1)
+*It doesn't complete the connection.
 
 ### Service Version Scan:
 
-![[Pasted image 20230818005613.png]]
+![image](https://github.com/B4PHOM3T/eJPT-Notes/assets/89618500/9a04d4ca-e624-403d-8609-b36122dfd449)
+
 
 - `-A` - Aggressive Scan performs, OS enum, service enum, default scripts (NSE) and traceroute.
 
