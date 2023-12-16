@@ -6,7 +6,7 @@
 sudo nano /etc/hosts
 ```
 
-3) What is a host file tho ?
+3) What is a host file ?
 - It contains the list of hostnames and Domain names and their corresponding IP addresses. 
 - U can make changes in the host file to map an IP address to a local domain. (Cannot be accessed by the internet). 
 ```
@@ -32,7 +32,8 @@ tar -xf file.tar.gz
 curl <ip> | more
 ```
 
-7) Explain salted password hashing
+7) What is salted password hashing ?
+
 A "salt" in the context of password hashing is a random value that is generated and combined with a user's password before hashing it. The primary purpose of a salt is to add uniqueness and complexity to the password hashing process.
 
 ```
