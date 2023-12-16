@@ -16,7 +16,7 @@
 GET /§name§ HTTP/1.1
 ```
 
-![[Pasted image 20231125004837.png]]
+![image](https://github.com/B4PHOM3T/eJPT-Notes/assets/89618500/17efa7e2-2e66-4f0a-94a7-43c1bf7fd062)
 
 6. Set the attack type to Sniper. 
 	+ **Sniper Attacks:** This involves replacing a specified part of a request with payloads from a list. For example, you might replace a parameter value with a list of potential malicious values to see how the application responds.
