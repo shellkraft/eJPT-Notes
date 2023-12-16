@@ -3,7 +3,8 @@
 
 - The MSF libraries facilitate the execution of modules without having to write the code necessary in order to execute them.
 
-![[Pasted image 20230928014629.png]]
+![image](https://github.com/B4PHOM3T/eJPT-Notes/assets/89618500/ec672b8d-87f3-4a69-81c5-f825aecbf0af)
+
 
 ### `MSF` Modules
 
